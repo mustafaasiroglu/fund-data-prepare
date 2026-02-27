@@ -1,0 +1,650 @@
+[
+  {
+    "code": "GZP",
+    "title_tr": "Birinci Fon Sepeti Fonu",
+    "title_en": "First Fund of Funds",
+    "category_tr": "Fon Sepeti Fonları",
+    "category_en": "Fund of Funds",
+    "alias_tr": "birinci-fon-sepeti-fonu",
+    "alias_en": "first-fund-of-funds"
+  },
+  {
+    "code": "GZJ",
+    "title_tr": "İkinci Fon Sepeti Fonu",
+    "title_en": "Second Fund of Funds",
+    "category_tr": "Fon Sepeti Fonları",
+    "category_en": "Fund of Funds",
+    "alias_tr": "ikinci-fon-sepeti-fonu",
+    "alias_en": "second-fund-of-funds"
+  },
+  {
+    "code": "GVI",
+    "title_tr": "Üçüncü Fon Sepeti Fonu",
+    "title_en": "Third Fund of Funds",
+    "category_tr": "Fon Sepeti Fonları",
+    "category_en": "Fund of Funds",
+    "alias_tr": "ucuncu-fon-sepeti-fonu",
+    "alias_en": "third-fund-of-funds"
+  },
+  {
+    "code": "GZV",
+    "title_tr": "ESG Sürdürülebilirlik Fon Sepeti Fonu",
+    "title_en": "ESG Sustainability Fund of Funds",
+    "category_tr": "Fon Sepeti Fonları",
+    "category_en": "Fund of Funds",
+    "alias_tr": "esg-surdurulebilirlik-fon-sepeti-fonu",
+    "alias_en": "esg-sustainability-fund-of-funds"
+  },
+  {
+    "code": "GTL",
+    "title_tr": "Birinci Para Piyasası (TL) Fonu",
+    "title_en": "First Money Market (TL) Fund",
+    "category_tr": "Para Piyasası Fonları",
+    "category_en": "Money Market Funds",
+    "alias_tr": "birinci-para-piyasasi-fonu",
+    "alias_en": "first-money-market-fund"
+  },
+  {
+    "code": "GAL",
+    "title_tr": "İkinci Para Piyasası (TL) Fonu",
+    "title_en": "Second Money Market (TL) Fund",
+    "category_tr": "Para Piyasası Fonları",
+    "category_en": "Money Market Funds",
+    "alias_tr": "ikinci-para-piyasasi-fonu",
+    "alias_en": "second-money-market-fund"
+  },
+  {
+    "code": "GPZ",
+    "title_tr": "Üçüncü Para Piyasası Fonu",
+    "title_en": "Third Money Market Fund",
+    "category_tr": "Para Piyasası Fonları",
+    "category_en": "Money Market Funds",
+    "alias_tr": "ucuncu-para-piyasasi-fonu",
+    "alias_en": "third-money-market-fund"
+  },
+  {
+    "code": "GJH",
+    "title_tr": "Para Piyasası Serbest (TL) Fon",
+    "title_en": "Money Market Hedge (TL) Fund",
+    "category_tr": "Para Piyasası Fonları",
+    "category_en": "Money Market Funds",
+    "alias_tr": "para-piyasasi-serbest-fon",
+    "alias_en": "money-market-hedge-fund"
+  },
+  {
+    "code": "PIP",
+    "title_tr": "İkinci Para Piyasası Serbest (TL) Fon",
+    "title_en": "Second Money Market Hedge (TL) Fund",
+    "category_tr": "Para Piyasası Fonları",
+    "category_en": "Money Market Funds",
+    "alias_tr": "ikinci-para-piyasasi-serbest-tl-fon",
+    "alias_en": "second-money-market-hedge-tl-fund"
+  },
+  {
+    "code": "GNP",
+    "title_tr": "Nema Para Piyasası (TL) Fonu",
+    "title_en": "Accrued Money Market (TL) Fund ",
+    "category_tr": "Para Piyasası Fonları",
+    "category_en": "Money Market Funds",
+    "alias_tr": "nema-para-piyasasi-tl-fonu",
+    "alias_en": "accrued-money-market-tl-fund"
+  },
+  {
+    "code": "TGT",
+    "title_tr": "Kısa Vadeli Borçlanma Araçları Fonu",
+    "title_en": "Short Term Debt Instruments Fund",
+    "category_tr": "Borçlanma Araçları Fonları",
+    "category_en": "Debt Instruments Funds",
+    "alias_tr": "kisa-vadeli-borclanma-araclari-fonu",
+    "alias_en": "short-term-debt-instruments-fund"
+  },
+  {
+    "code": "GA1",
+    "title_tr": "Borçlanma Araçları Fonu",
+    "title_en": "Debt Instruments Fund",
+    "category_tr": "Borçlanma Araçları Fonları",
+    "category_en": "Debt Instruments Funds",
+    "alias_tr": "borclanma-araclari-fonu",
+    "alias_en": "debt-instruments-fund"
+  },
+  {
+    "code": "GPA",
+    "title_tr": "Eurobond Borçlanma Araçları (Döviz) Fonu",
+    "title_en": "Eurobond Debt Instruments (FX) Fund",
+    "category_tr": "Borçlanma Araçları Fonları",
+    "category_en": "Debt Instruments Funds",
+    "alias_tr": "eurobond-borclanma-araclari-doviz-fonu",
+    "alias_en": "eurobond-debt-instruments-fx-fund"
+  },
+  {
+    "code": "GUB",
+    "title_tr": "Özel Sektör Borçlanma Araçları Fonu",
+    "title_en": "Private Sector Debt Fund",
+    "category_tr": "Borçlanma Araçları Fonları",
+    "category_en": "Debt Instruments Funds",
+    "alias_tr": "ozel-sektor-borclanma-araclari-fonu",
+    "alias_en": "private-sector-debt-fund"
+  },
+  {
+    "code": "GUV",
+    "title_tr": "Uzun Vadeli Borçlanma Araçları Fonu",
+    "title_en": "Long Term Debt Instruments Fund",
+    "category_tr": "Borçlanma Araçları Fonları",
+    "category_en": "Debt Instruments Funds",
+    "alias_tr": "uzun-vadeli-borclanma-araclari-fonu",
+    "alias_en": "long-term-debt-instruments-fund"
+  },
+  {
+    "code": "GAH",
+    "title_tr": "Mutlak Getiri Hedefli Değişken Fon",
+    "title_en": "Absolute Return Targeted Variable Fund",
+    "category_tr": "Değişken Fonlar",
+    "category_en": "Variable Funds",
+    "alias_tr": "mutlak-getiri-hedefli-degisken-fon",
+    "alias_en": "absolute-return-targeted-variable-fund"
+  },
+  {
+    "code": "INH",
+    "title_tr": "ING Bank Özel Bankacılık ve Platinum Değişken Özel Fon",
+    "title_en": "ING Bank Private Bank Platinum Variable Private Fund",
+    "category_tr": "Değişken Fonlar",
+    "category_en": "Variable Funds",
+    "alias_tr": "ing-bank-ozel-bankacilik-ve-platinum-degisken-ozel-fon",
+    "alias_en": "ing-bank-private-bank-platinum-variable-private-fund"
+  },
+  {
+    "code": "GID",
+    "title_tr": "İnşaat Sektörü Değişken Fon",
+    "title_en": "Construction Sector Variable Fund",
+    "category_tr": "Tematik Değişken Fonlar",
+    "category_en": "Thematic Variable Funds",
+    "alias_tr": "insaat-sektoru-degisken-fon",
+    "alias_en": "construction-sector-variable-fund"
+  },
+  {
+    "code": "GZH",
+    "title_tr": "Temiz Enerji Değişken Fon",
+    "title_en": "Clean Energy Variable Fund",
+    "category_tr": "Tematik Değişken Fonlar",
+    "category_en": "Thematic Variable Funds",
+    "alias_tr": "temiz-enerji-degisken-fon",
+    "alias_en": "clean-energy-variable-fund"
+  },
+  {
+    "code": "GZG",
+    "title_tr": "Sağlık Sektörü Değişken Fon",
+    "title_en": "Health Sector Variable Fund",
+    "category_tr": "Tematik Değişken Fonlar",
+    "category_en": "Thematic Variable Funds",
+    "alias_tr": "saglik-sektoru-degisken-fon",
+    "alias_en": "health-sector-variable-fund"
+  },
+  {
+    "code": "GZL",
+    "title_tr": "Tarım ve Gıda Sektörü Değişken Fon",
+    "title_en": "Agriculture and Food Sector Variable Fund",
+    "category_tr": "Tematik Değişken Fonlar",
+    "category_en": "Thematic Variable Funds",
+    "alias_tr": "tarim-ve-gida-sektoru-degisken-fon",
+    "alias_en": "agriculture-and-food-sector-variable-fund"
+  },
+  {
+    "code": "GBV",
+    "title_tr": "Blockchain Teknolojileri Değişken Fon",
+    "title_en": "Blockchain Technologies Variable Fund",
+    "category_tr": "Tematik Değişken Fonlar",
+    "category_en": "Thematic Variable Funds",
+    "alias_tr": "blockchain-teknolojileri-degisken-fon",
+    "alias_en": "blockchain-technologies-variable-fund"
+  },
+  {
+    "code": "GZZ",
+    "title_tr": "Finans Sektörü Değişken Fon",
+    "title_en": "Finance Sector Variable Fund",
+    "category_tr": "Tematik Değişken Fonlar",
+    "category_en": "Thematic Variable Funds",
+    "alias_tr": "finans-sektoru-degisken-fon",
+    "alias_en": "finance-sector-variable-fund"
+  },
+  {
+    "code": "GZY",
+    "title_tr": "Turizm ve Seyahat Sektörü Değişken Fon",
+    "title_en": "Tourism and Travel Sector Variable Fund",
+    "category_tr": "Tematik Değişken Fonlar",
+    "category_en": "Thematic Variable Funds",
+    "alias_tr": "turizm-ve-seyahat-sektoru-degisken-fon",
+    "alias_en": "tourism-and-travel-sector-variable-fund"
+  },
+  {
+    "code": "MET",
+    "title_tr": "Metaverse ve Yeni Teknolojiler Değişken Fon",
+    "title_en": "Metaverse and New Technologies Variable Fund",
+    "category_tr": "Tematik Değişken Fonlar",
+    "category_en": "Thematic Variable Funds",
+    "alias_tr": "metaverse-ve-yeni-teknolojiler-degisken-fon",
+    "alias_en": "metaverse-and-new-technologies-variable-fund"
+  },
+  {
+    "code": "GVA",
+    "title_tr": "Elektrikli ve Otonom Araçlar Değişken Fon",
+    "title_en": "Electric and Autonomous Vehicles Variable Fund",
+    "category_tr": "Tematik Değişken Fonlar",
+    "category_en": "Thematic Variable Funds",
+    "alias_tr": "elektrikli-ve-otonom-araclar-degisken-fon",
+    "alias_en": "electric-and-autonomous-vehicles-variable-fund"
+  },
+  {
+    "code": "SGT",
+    "title_tr": "Siber Güvenlik Teknolojileri Değişken Fon",
+    "title_en": "Cyber Security Technologies Variable Fund",
+    "category_tr": "Tematik Değişken Fonlar",
+    "category_en": "Thematic Variable Funds",
+    "alias_tr": "siber-guvenlik-teknolojileri-degisken-fon",
+    "alias_en": "cyber-security-technologies-variable-fund"
+  },
+  {
+    "code": "YIT",
+    "title_tr": "Yarı İletken Teknolojileri Değişken Fon",
+    "title_en": "Semiconductor Technologies Variable Fund",
+    "category_tr": "Tematik Değişken Fonlar",
+    "category_en": "Thematic Variable Funds",
+    "alias_tr": "yari-iletken-teknolojileri-degisken-fon",
+    "alias_en": "semiconductor-technologies-variable-fund"
+  },
+  {
+    "code": "GTA",
+    "title_tr": "Altın Fonu",
+    "title_en": "Gold Fund",
+    "category_tr": "Kıymetli Madenler ve Emtia Fonları",
+    "category_en": "Precious Metals and Commodity Funds",
+    "alias_tr": "altin-fonu",
+    "alias_en": "gold-fund"
+  },
+  {
+    "code": "GTZ",
+    "title_tr": "Gümüş Fon Sepeti Fonu",
+    "title_en": "Silver Fund of Funds",
+    "category_tr": "Kıymetli Madenler ve Emtia Fonları",
+    "category_en": "Precious Metals and Commodity Funds",
+    "alias_tr": "gumus-fon-sepeti-fonu",
+    "alias_en": "silver-fund-of-funds"
+  },
+  {
+    "code": "GZE",
+    "title_tr": "Emtia Serbest Fon",
+    "title_en": "Commodity Hedge Fund",
+    "category_tr": "Kıymetli Madenler ve Emtia Fonları",
+    "category_en": "Precious Metals and Commodity Funds",
+    "alias_tr": "emtia-serbest-fon",
+    "alias_en": "commodity-hedge-fund"
+  },
+  {
+    "code": "GBJ",
+    "title_tr": "Bankacılık Sektörü Hisse Senedi Serbest Fon (Hisse Senedi Yoğun Fon)",
+    "title_en": "Banking Sector Equity Hedge Fund (Equity Intense Fund)",
+    "category_tr": "Hisse Senedi Fonları",
+    "category_en": "Equity Funds",
+    "alias_tr": "bankacilik-sektoru-hisse-senedi-serbest-fon-hisse-senedi-yogun-fon",
+    "alias_en": "banking-sector-equity-hedge-fund-equity-intense-fund"
+  },
+  {
+    "code": "GHS",
+    "title_tr": "Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "title_en": "Equity (TL) Fund (Equity Intense Fund)",
+    "category_tr": "Hisse Senedi Fonları",
+    "category_en": "Equity Funds",
+    "alias_tr": "hisse-senedi-fonu-hisse-senedi-yogun-fon",
+    "alias_en": "equity-fund-equity-intense-fund"
+  },
+  {
+    "code": "GAE",
+    "title_tr": "BIST 30 Endeksi Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "title_en": "BIST30 Index Equity (TL) Fund (Equity Intense Fund)",
+    "category_tr": "Hisse Senedi Fonları",
+    "category_en": "Equity Funds",
+    "alias_tr": "bist-30-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+    "alias_en": "bist30-index-equity-fund"
+  },
+  {
+    "code": "GOH",
+    "title_tr": "BIST 100 Dışı Şirketler Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "title_en": "Non-BIST100 Equity (TL) Fund (Equity Intense Fund)",
+    "category_tr": "Hisse Senedi Fonları",
+    "category_en": "Equity Funds",
+    "alias_tr": "bist-100-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+    "alias_en": "non-bist100-equity-fund"
+  },
+  {
+    "code": "GZR",
+    "title_tr": "Sürdürülebilirlik Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "title_en": "Sustainability Equity (TL) Fund (Equity Intense Fund)",
+    "category_tr": "Hisse Senedi Fonları",
+    "category_en": "Equity Funds",
+    "alias_tr": "surdurulebilirlik-hisse-senedi-fonu-hisse-senedi-yogun-fon",
+    "alias_en": "sustainability-equity-fund-equity-intense-fund"
+  },
+  {
+    "code": "GTM",
+    "title_tr": "Temettü Ödeyen Şirketler Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "title_en": "Dividend Paying Companies Equity (TL) Fund (Equity Intense Fund)",
+    "category_tr": "Hisse Senedi Fonları",
+    "category_en": "Equity Funds",
+    "alias_tr": "temettu-odeyen-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+    "alias_en": "dividend-paying-companies-equity-tl-fund-equity-intense-fund"
+  },
+  {
+    "code": "GIE",
+    "title_tr": "Garanti BBVA İklim Endeksi Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "title_en": "Garanti BBVA Climate Index Equity (TL) Fund (Equity Intense Fund)",
+    "category_tr": "Hisse Senedi Fonları",
+    "category_en": "Equity Funds",
+    "alias_tr": "garanti-bbva-iklim-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+    "alias_en": "garanti-bbva-climate-index-equity-tl-fund-equity-intense-fund"
+  },
+  {
+    "code": "GBH",
+    "title_tr": "Birinci Hisse Senedi Serbest Fon (Hisse Senedi Yoğun Fon)",
+    "title_en": "First Equity Hedge Fund (Equity Intense Fund) ",
+    "category_tr": "Hisse Senedi Fonları",
+    "category_en": "Equity Funds",
+    "alias_tr": "birinci-hisse-senedi-serbest-fon-hisse-senedi-yogun-fon",
+    "alias_en": "first-equity-hedge-fund-equity-intense-fund"
+  },
+  {
+    "code": "GUH",
+    "title_tr": "Yabancı Teknoloji Hisse Senedi Fonu",
+    "title_en": "Foreign Technology Equity Fund",
+    "category_tr": "Hisse Senedi Fonları",
+    "category_en": "Equity Funds",
+    "alias_tr": "yabanci-teknoloji-hisse-senedi-fonu",
+    "alias_en": "foreign-technology-equity-fund"
+  },
+  {
+    "code": "MUT",
+    "title_tr": "Mutlak Getiri Hedefli Hisse Senedi Serbest Fon (Hisse Senedi Yoğun Fon)",
+    "title_en": "Absolute Return Targeted Equity Hedge Fund (Equity Intense Fund)",
+    "category_tr": "Hisse Senedi Fonları",
+    "category_en": "Equity Funds",
+    "alias_tr": "mutlak-getiri-hedefli-hisse-senedi-serbest-fon",
+    "alias_en": "absolute-return-targeted-equity-hedge-fund"
+  },
+  {
+    "code": "GRT",
+    "title_tr": "Teknoloji Şirketleri Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "title_en": "Technology Companies Equity (TL) Fund (Equity Intense Fund)",
+    "category_tr": "Hisse Senedi Fonları",
+    "category_en": "Equity Funds",
+    "alias_tr": "teknoloji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+    "alias_en": "technology-companies-equity-tl-fund-equity-intense-fund"
+  },
+  {
+    "code": "GTH",
+    "title_tr": "İhracatçı Şirketler Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "title_en": "Exporting Companies Equity (TL) Fund (Equity Intense Fund)",
+    "category_tr": "Hisse Senedi Fonları",
+    "category_en": "Equity Funds",
+    "alias_tr": "ihracatci-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+    "alias_en": "exporting-companies-equity-tl-fund-equity-intense-fund"
+  },
+  {
+    "code": "GNS",
+    "title_tr": "Enerji Şirketleri Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "title_en": "Energy Companies Equity (TL) Fund (Equity Intense Fund)",
+    "category_tr": "Hisse Senedi Fonları",
+    "category_en": "Equity Funds",
+    "alias_tr": "enerji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+    "alias_en": "energy-companies-equity-tl-fund-equity-intense-fund"
+  },
+  {
+    "code": "GKG",
+    "title_tr": "Kar Payı Ödeyen Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "title_en": "Dividend Paying Equity (TL) Fund (Equity Intense Fund)",
+    "category_tr": "Hisse Senedi Fonları",
+    "category_en": "Equity Funds",
+    "alias_tr": "kar-payi-odeyen-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+    "alias_en": "dividend-paying-equity-tl-fund-equity-intense-fund"
+  },
+  {
+    "code": "HIH",
+    "title_tr": "Holdingler ve İştirakleri Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "title_en": "Holdings and Subsidiaries Equity (TL) Fund (Equity Intense Fund)",
+    "category_tr": "Hisse Senedi Fonları",
+    "category_en": "Equity Funds",
+    "alias_tr": "holdingler-ve-istirakleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+    "alias_en": "holdings-and-subsidiaries-equity-tl-fund-equity-intense-fund"
+  },
+  {
+    "code": "GPF",
+    "title_tr": "Çoklu Varlık Katılım Fonu",
+    "title_en": "Multi Asset Participation Fund",
+    "category_tr": "Katılım Fonları",
+    "category_en": "Participation Funds",
+    "alias_tr": "coklu-varlik-katilim-fonu",
+    "alias_en": "multi-asset-participation-fund"
+  },
+  {
+    "code": "GKV",
+    "title_tr": "Katılım Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
+    "title_en": "Participation Equity (TL) Fund (Equity Intense Fund)",
+    "category_tr": "Katılım Fonları",
+    "category_en": "Participation Funds",
+    "alias_tr": "katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
+    "alias_en": "participation-equity-tl-fund-equity-intense-fund"
+  },
+  {
+    "code": "GKH",
+    "title_tr": "Para Piyasası Katılım Serbest (TL) Fon",
+    "title_en": "Money Market Participation Hedge (TL) Fund",
+    "category_tr": "Katılım Fonları",
+    "category_en": "Participation Funds",
+    "alias_tr": "katilim-serbest-tl-fonu",
+    "alias_en": "participation-hedge-tl-fund"
+  },
+  {
+    "code": "GOL",
+    "title_tr": "Altın Katılım Fonu",
+    "title_en": "Gold Participation Fund",
+    "category_tr": "Katılım Fonları",
+    "category_en": "Participation Funds",
+    "alias_tr": "altin-katilim-fonu",
+    "alias_en": "gold-participation-fund"
+  },
+  {
+    "code": "KDT",
+    "title_tr": "Katılım Serbest (Döviz) Fon",
+    "title_en": "Participation Hedge (FX) Fund",
+    "category_tr": "Katılım Fonları",
+    "category_en": "Participation Funds",
+    "alias_tr": "katilim-serbest-doviz-fon",
+    "alias_en": "participation-hedge-fx-fund"
+  },
+  {
+    "code": "GPN",
+    "title_tr": "Para Piyasası Katılım (TL) Fonu",
+    "title_en": "Money Market Participation (TL) Fund",
+    "category_tr": "Katılım Fonları",
+    "category_en": "Participation Funds",
+    "alias_tr": "para-piyasasi-katilim-tl-fonu",
+    "alias_en": "money-market-participation-tl-fund"
+  },
+  {
+    "code": "GUK",
+    "title_tr": "Gümüş Katılım Serbest Fon",
+    "title_en": "Silver Participation Hedge Fund",
+    "category_tr": "Katılım Fonları",
+    "category_en": "Participation Funds",
+    "alias_tr": "gumus-katilim-serbest-fon",
+    "alias_en": "silver-participation-hedge-fund"
+  },
+  {
+    "code": "GPB",
+    "title_tr": "SMART Temkinli Değişken Fon - Birinci Değişken Fon",
+    "title_en": "SMART Conservative Variable Fund - First Variable Fund",
+    "category_tr": "SMART Fonlar",
+    "category_en": "SMART Funds",
+    "alias_tr": "smart-temkinli-degisken-fon-birinci-degisken-fon",
+    "alias_en": "smart-conservative-variable-fund-first-variable-fund"
+  },
+  {
+    "code": "GPI",
+    "title_tr": "SMART Dengeli Değişken Fon - İkinci Değişken Fon",
+    "title_en": "SMART Moderate Variable Fund - Second Variable Fund",
+    "category_tr": "SMART Fonlar",
+    "category_en": "SMART Funds",
+    "alias_tr": "smart-dengeli-degisken-fon-ikinci-degisken-fon",
+    "alias_en": "smart-moderate-variable-fund-second-variable-fund"
+  },
+  {
+    "code": "GPU",
+    "title_tr": "SMART Büyüme Değişken Fon - Üçüncü Değişken Fon",
+    "title_en": "SMART Growth Variable Fund - Third Variable Fund",
+    "category_tr": "SMART Fonlar",
+    "category_en": "SMART Funds",
+    "alias_tr": "smart-buyume-degisken-fon-ucuncu-degisken-fon",
+    "alias_en": "smart-growth-variable-fund-third-variable-fund"
+  },
+  {
+    "code": "TGA",
+    "title_tr": "SMART Agresif Değişken Fon - Agresif Değişken Fon",
+    "title_en": "SMART Aggressive Variable Fund - Aggressive Variable Fund",
+    "category_tr": "SMART Fonlar",
+    "category_en": "SMART Funds",
+    "alias_tr": "smart-agresif-degisken-fon-agresif-degisken-fon",
+    "alias_en": "smart-aggressive-variable-fund-aggressive-variable-fund"
+  },
+  {
+    "code": "GBN",
+    "title_tr": "Beşinci Serbest (TL) Fon",
+    "title_en": "Fifth Hedge (TL) Fund",
+    "category_tr": "Serbest Fonlar",
+    "category_en": "Hedge Funds",
+    "alias_tr": "besinci-serbest-fon",
+    "alias_en": "fifth-hedge-fund"
+  },
+  {
+    "code": "GTY",
+    "title_tr": "Trend Serbest Fon",
+    "title_en": "Trend Hedge Fund",
+    "category_tr": "Serbest Fonlar",
+    "category_en": "Hedge Funds",
+    "alias_tr": "trend-serbest-fon",
+    "alias_en": "trend-hedge-fund"
+  },
+  {
+    "code": "GPL",
+    "title_tr": "Birinci Serbest (Döviz) Fon",
+    "title_en": "First Hedge (FX) Fund",
+    "category_tr": "Döviz Serbest Fonlar",
+    "category_en": "Hedge (FX) Funds",
+    "alias_tr": "birinci-serbest-doviz-fon",
+    "alias_en": "first-hedge-fx-fund"
+  },
+  {
+    "code": "GPC",
+    "title_tr": "İkinci Serbest (Döviz) Fon",
+    "title_en": "Second Hedge (FX) Fund",
+    "category_tr": "Döviz Serbest Fonlar",
+    "category_en": "Hedge (FX) Funds",
+    "alias_tr": "ikinci-serbest-doviz-fon",
+    "alias_en": "second-hedge-fx-fund"
+  },
+  {
+    "code": "GAS",
+    "title_tr": "Üçüncü Serbest (Döviz) Fon - SMART Döviz Serbest Fon",
+    "title_en": "Third Hedge (FX) Fund - SMART FX Hedge Fund",
+    "category_tr": "Döviz Serbest Fonlar",
+    "category_en": "Hedge (FX) Funds",
+    "alias_tr": "ucuncu-serbest-doviz-fon-smart-doviz-serbest-fon",
+    "alias_en": "third-hedge-fx-fund-smart-fx-hedge-fund"
+  },
+  {
+    "code": "GRO",
+    "title_tr": "Otuzuncu Serbest (Döviz) Fon",
+    "title_en": "Thirtieth Hedge (FX) Fund",
+    "category_tr": "Döviz Serbest Fonlar",
+    "category_en": "Hedge (FX) Funds",
+    "alias_tr": "otuzuncu-serbest-doviz-fon",
+    "alias_en": "thirtieth-hedge-fx-fund"
+  },
+  {
+    "code": "EUZ",
+    "title_tr": "Serbest (Döviz-Avro) Fon - Avro Serbest Döviz Fon",
+    "title_en": "Hedge (FX-Euro) Fund - Euro Hedge (FX) Fund",
+    "category_tr": "Döviz Serbest Fonlar",
+    "category_en": "Hedge (FX) Funds",
+    "alias_tr": "serbest-doviz-avro-fon-avro-serbest-doviz-fon",
+    "alias_en": "hedge-fx-euro-fund-euro-hedge-fx-fund"
+  },
+  {
+    "code": "EUN",
+    "title_tr": "İkinci Serbest (Döviz-Avro) Fon",
+    "title_en": "Second Hedge (FX-Euro) Fund",
+    "category_tr": "Döviz Serbest Fonlar",
+    "category_en": "Hedge (FX) Funds",
+    "alias_tr": "ikinci-serbest-doviz-avro-fon",
+    "alias_en": "second-hedge-fx-euro-fund"
+  },
+  {
+    "code": "PAU",
+    "title_tr": "Serbest (Döviz-Pound) Fon",
+    "title_en": "Hedge (FX-Pound) Fund",
+    "category_tr": "Döviz Serbest Fonlar",
+    "category_en": "Hedge (FX) Funds",
+    "alias_tr": "serbest-doviz-pound-fon",
+    "alias_en": "hedge-fx-pound-fund"
+  },
+  {
+    "code": "GOF",
+    "title_tr": "Otuzikinci Serbest (Döviz) Fon",
+    "title_en": "Thirty-second Hedge (FX) Fund",
+    "category_tr": "Döviz Serbest Fonlar",
+    "category_en": "Hedge (FX) Funds",
+    "alias_tr": "otuzikinci-serbest-doviz-fon",
+    "alias_en": "thirty-second-hedge-fx-fund"
+  },
+  {
+    "code": "GP3",
+    "title_tr": "Üçüncü Serbest (Döviz-Avro) Fon",
+    "title_en": "Third Hedge (FX-Euro) Fund",
+    "category_tr": "Döviz Serbest Fonlar",
+    "category_en": "Hedge (FX) Funds",
+    "alias_tr": "ucuncu-serbest-doviz-avro-fon",
+    "alias_en": "third-hedge-fx-euro-fund"
+  },
+  {
+    "code": "HAG",
+    "title_tr": "Ekim 2026 Serbest (Döviz-ABD Doları) Fon",
+    "title_en": "October 2026 USD Hedge (FX) Fund",
+    "category_tr": "Vadeli Serbest Döviz Fonlar",
+    "category_en": "Target Date Hedge (FX) Funds",
+    "alias_tr": "ekim-2026-serbest-doviz-abd-dolari-fon",
+    "alias_en": "october-2026-usd-hedge-fx-fund"
+  },
+  {
+    "code": "EGP",
+    "title_tr": "Ekim 2028 Sürdürülebilirlik Serbest (Döviz-ABD Doları) Fon",
+    "title_en": "October 2028 Sustainability USD Hedge (FX) Fund",
+    "category_tr": "Vadeli Serbest Döviz Fonlar",
+    "category_en": "Target Date Hedge (FX) Funds",
+    "alias_tr": "ekim-2028-surdurulebilirlik-serbest-doviz-abd-dolari-fon",
+    "alias_en": "october-2028-sustainability-usd-hedge-fx-fund"
+  },
+  {
+    "code": "GKM",
+    "title_tr": "Kar Payı Ödeyen Ekim 2026 Serbest (Döviz) Fon",
+    "title_en": "Dividend Paying October 2026 Hedge (FX) Fund",
+    "category_tr": "Vadeli Serbest Döviz Fonlar",
+    "category_en": "Target Date Hedge (FX) Funds",
+    "alias_tr": "kar-payi-odeyen-ekim-2026-serbest-doviz-fon",
+    "alias_en": "dividend-paying-october-2026-hedge-fx-fund"
+  },
+  {
+    "code": "GMM",
+    "title_tr": "Kar Payı Ödeyen Mart 2027 Serbest (Döviz) Fon",
+    "title_en": "Dividend Paying March 2027 Hedge (FX) Fund",
+    "category_tr": "Vadeli Serbest Döviz Fonlar",
+    "category_en": "Target Date Hedge (FX) Funds",
+    "alias_tr": "kar-payi-odeyen-mart-2027-serbest-doviz-fon",
+    "alias_en": "dividend-paying-march-2027-hedge-fx-fund"
+  }
+]

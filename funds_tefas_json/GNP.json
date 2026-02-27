@@ -1,0 +1,163 @@
+[
+    {
+        "TARIH": "27.02.2026",
+        "FIYAT": 1.230597,
+        "TEDPAYSAYISI": 1463005508.0,
+        "KISISAYISI": 5555.0,
+        "PORTFOYBUYUKLUK": 1800370088.95
+    },
+    {
+        "TARIH": "26.02.2026",
+        "FIYAT": 1.229387,
+        "TEDPAYSAYISI": 1358004738.0,
+        "KISISAYISI": 6055.0,
+        "PORTFOYBUYUKLUK": 1669513462.23
+    },
+    {
+        "TARIH": "25.02.2026",
+        "FIYAT": 1.228167,
+        "TEDPAYSAYISI": 1548950124.0,
+        "KISISAYISI": 6529.0,
+        "PORTFOYBUYUKLUK": 1902370085.35
+    },
+    {
+        "TARIH": "24.02.2026",
+        "FIYAT": 1.226911,
+        "TEDPAYSAYISI": 1618571107.0,
+        "KISISAYISI": 8050.0,
+        "PORTFOYBUYUKLUK": 1985841928.79
+    },
+    {
+        "TARIH": "23.02.2026",
+        "FIYAT": 1.225622,
+        "TEDPAYSAYISI": 1537464483.0,
+        "KISISAYISI": 5351.0,
+        "PORTFOYBUYUKLUK": 1884350949.05
+    },
+    {
+        "TARIH": "20.02.2026",
+        "FIYAT": 1.222257,
+        "TEDPAYSAYISI": 1571669175.0,
+        "KISISAYISI": 5616.0,
+        "PORTFOYBUYUKLUK": 1920983182.82
+    },
+    {
+        "TARIH": "19.02.2026",
+        "FIYAT": 1.22128,
+        "TEDPAYSAYISI": 1456035144.0,
+        "KISISAYISI": 6248.0,
+        "PORTFOYBUYUKLUK": 1778226846.74
+    },
+    {
+        "TARIH": "18.02.2026",
+        "FIYAT": 1.220062,
+        "TEDPAYSAYISI": 1462954955.0,
+        "KISISAYISI": 7415.0,
+        "PORTFOYBUYUKLUK": 1784896190.83
+    },
+    {
+        "TARIH": "17.02.2026",
+        "FIYAT": 1.218743,
+        "TEDPAYSAYISI": 1670130351.0,
+        "KISISAYISI": 8878.0,
+        "PORTFOYBUYUKLUK": 2035459017.53
+    },
+    {
+        "TARIH": "16.02.2026",
+        "FIYAT": 1.21753,
+        "TEDPAYSAYISI": 1331986831.0,
+        "KISISAYISI": 5414.0,
+        "PORTFOYBUYUKLUK": 1621733558.97
+    },
+    {
+        "TARIH": "13.02.2026",
+        "FIYAT": 1.214063,
+        "TEDPAYSAYISI": 1366022432.0,
+        "KISISAYISI": 5772.0,
+        "PORTFOYBUYUKLUK": 1658436760.61
+    },
+    {
+        "TARIH": "12.02.2026",
+        "FIYAT": 1.212852,
+        "TEDPAYSAYISI": 1325822096.0,
+        "KISISAYISI": 6100.0,
+        "PORTFOYBUYUKLUK": 1608026127.95
+    },
+    {
+        "TARIH": "11.02.2026",
+        "FIYAT": 1.21182,
+        "TEDPAYSAYISI": 1397929962.0,
+        "KISISAYISI": 6734.0,
+        "PORTFOYBUYUKLUK": 1694039522.49
+    },
+    {
+        "TARIH": "10.02.2026",
+        "FIYAT": 1.210642,
+        "TEDPAYSAYISI": 1495911945.0,
+        "KISISAYISI": 7770.0,
+        "PORTFOYBUYUKLUK": 1811014363.43
+    },
+    {
+        "TARIH": "09.02.2026",
+        "FIYAT": 1.209481,
+        "TEDPAYSAYISI": 1394175029.0,
+        "KISISAYISI": 6874.0,
+        "PORTFOYBUYUKLUK": 1686227555.85
+    },
+    {
+        "TARIH": "06.02.2026",
+        "FIYAT": 1.206057,
+        "TEDPAYSAYISI": 1602415898.0,
+        "KISISAYISI": 8500.0,
+        "PORTFOYBUYUKLUK": 1932604351.32
+    },
+    {
+        "TARIH": "05.02.2026",
+        "FIYAT": 1.20489,
+        "TEDPAYSAYISI": 1772485610.0,
+        "KISISAYISI": 9096.0,
+        "PORTFOYBUYUKLUK": 2135650452.94
+    },
+    {
+        "TARIH": "04.02.2026",
+        "FIYAT": 1.203739,
+        "TEDPAYSAYISI": 1976848235.0,
+        "KISISAYISI": 10553.0,
+        "PORTFOYBUYUKLUK": 2379608372.55
+    },
+    {
+        "TARIH": "03.02.2026",
+        "FIYAT": 1.202543,
+        "TEDPAYSAYISI": 2462645406.0,
+        "KISISAYISI": 13986.0,
+        "PORTFOYBUYUKLUK": 2961435809.2
+    },
+    {
+        "TARIH": "02.02.2026",
+        "FIYAT": 1.20158,
+        "TEDPAYSAYISI": 2327402083.0,
+        "KISISAYISI": 11076.0,
+        "PORTFOYBUYUKLUK": 2796559127.35
+    },
+    {
+        "TARIH": "30.01.2026",
+        "FIYAT": 1.198336,
+        "TEDPAYSAYISI": 2595334668.0,
+        "KISISAYISI": 11733.0,
+        "PORTFOYBUYUKLUK": 3110082610.62
+    },
+    {
+        "TARIH": "29.01.2026",
+        "FIYAT": 1.197115,
+        "TEDPAYSAYISI": 2321257192.0,
+        "KISISAYISI": 11023.0,
+        "PORTFOYBUYUKLUK": 2778810689.24
+    },
+    {
+        "TARIH": "28.01.2026",
+        "FIYAT": 1.195793,
+        "TEDPAYSAYISI": 2710609775.0,
+        "KISISAYISI": 12214.0,
+        "PORTFOYBUYUKLUK": 3241327034.37
+    }
+]
