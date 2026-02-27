@@ -1,0 +1,6 @@
+# PDF files in folders
+funds_pdf/**/*.pdf
+reports_pdf/**/*.pdf
+
+# HTML files in folders
+funds_html/**/*.html
