@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy İhracatçı Şirketler Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
-    "Fon Kodu": "GTH",
-    "Fonun Eşik Değeri": "",
-    "Fonun Karşılaştırma Ölçütü": "%60 BIST Sınai Getiri Endeksi (XUSIN) + %35 BIST Sürdürülebilirlik Getiri Endeksi + %5 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "05.02.2025",
-    "Vergilendirme": "Gerçek ve tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Günlük; 13:30’a kadar girilen emirler t+1, sonrasında t+2 fiyat/valör ile gerçekleşir",
-    "Yıllık Fon Yönetim Ücreti": "%3.20",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’inin BIST’te işlem gören, TİM tarafından açıklanan ilk 1000 ihracatçı listesinde yer alan şirketlerin paylarına yatırılması",
-    "Yatırımcı Profili": "Yüksek risk toleransına sahip, orta-uzun vadeli hisse senedi yatırımcıları"
+    "investor_profile": "Orta-uzun vadeli bakış açısıyla hisse senedi yatırımı yapmak isteyen, hisse senedi işlemlerine ve hisse senedi içeren yatırım fonlarına ilgi duyan ve bu enstrümanları bilen, yüksek risk toleransına sahip yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin en az %80’i devamlı olarak BIST’te işlem gören ve Türkiye İhracatçılar Meclisi (TİM) tarafından açıklanan Türkiye’nin ilk 1000 ihracatçı listesinde yer alan şirketlerin ortaklık paylarına yatırılır. Amaç, ihracat odaklı satışları olan şirketlerin büyüme olanakları ve kazançlarına yatırımcıların iştirak etmesini sağlamaktır. Fon portföyü yalnızca Türk Lirası cinsinden varlıklardan oluşur; yabancı para, altın, kıymetli madenler ve bunlara dayalı sermaye piyasası araçları ile türev ürünlere yatırım yapılmaz.",
+    "taxation": "Gerçek kişiler ve tüzel kişiler için %0 stopaj uygulanmaktadır.",
+    "trading_terms": "Fon; Garanti BBVA Şubeleri, İnternet ve Mobil Şube, Kurucu’nun anlaşmalı dağıtıcı kuruluşları ve TEFAS aracılığıyla alınıp satılabilir. TEFAS işlemleri için asgari alım/satım tutarları ayrıca belirlenir. Emirler saat 13:30’a kadar verilirse t+1 fiyat ve valör, sonrasında verilirse t+2 fiyat ve t+2/t+3 valör uygulanır.",
+    "compare_measure": "%60 BIST Sınai Getiri Endeksi (XUSIN) + %35 BIST Sürdürülebilirlik Getiri Endeksi + %5 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "05.02.2025",
+    "annual_fee": "%3.20"
 }

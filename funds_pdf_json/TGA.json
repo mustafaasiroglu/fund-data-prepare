@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Agresif Değişken Fon (SMART Agresif Değişken Fon)",
-    "Fon Kodu": "TGA",
-    "Fonun Eşik Değeri": "Gecelik Türk Lirası referans oranının (TLREF) performans dönemine denk gelen bileşik getirisi",
-    "Fonun Karşılaştırma Ölçütü": "",
-    "Fonun Halka Arz Tarihi": "16.06.2008",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcılar ve TEFAS üzerinden alınıp satılabilir; emir saatine göre fiyat ve valör t+1 ile t+3 arasında değişmektedir",
-    "Yıllık Fon Yönetim Ücreti": "%2.70",
-    "Yatırım Stratejisi": "Orta-uzun vadede TL bazında yüksek getiri hedefleyen, portföyünün en az %51’i BIST’te işlem gören paylardan oluşan, yurtiçi ve yurtdışı çeşitli varlık sınıflarına dinamik olarak yatırım yapan agresif değişken fon",
-    "Yatırımcı Profili": "Orta-uzun vadeli, yüksek getiri hedefleyen, yüksek risk toleransına sahip, ağırlıklı olarak hisse senedi ve hisse senedi fonlarına ilgi duyan yatırımcılar"
+    "investor_profile": "Orta-uzun vadeli bakış açısına sahip, piyasa zamanlaması yapmadan çeşitlendirilmiş ve dinamik yönetilen bir portföy ile yatırım yapmak isteyen, yüksek getiri potansiyeli için yüksek risk toleransı olan, ağırlıklı olarak hisse senedi ve hisse senedi içeren yatırım fonlarına ilgi duyan, bu enstrümanları bilen ve yüksek risk profiline sahip yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon orta ve uzun vadede TL bazında yüksek getiri sağlamayı hedefler. Hem yurtiçi hem yurtdışında TL ve dövize endeksli sermaye piyasası araçları ile kıymetli madenlere yatırım yapabilir. Portföyün en az %51’i sürekli olarak BIST’te işlem gören ortaklık paylarından oluşur. Olumsuz piyasa koşullarında riskleri azaltmak amacıyla yurtiçi ve yurtdışı piyasalarda ortaklık payı, faiz, döviz/kur, kıymetli maden, endeks ve sermaye piyasası araçlarına dayalı türev işlemlerde kısa pozisyon alabilir; spot ve türev pozisyonların toplamı fon toplam değerine oranla -%20’ye kadar düşürülebilir. Fon aktif ve dinamik olarak yönetilir, yabancı yatırım araçları portföye dahil edilebilir.",
+    "taxation": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj uygulanır. Portföyünün en az %51’i BIST’te işlem gören paylardan oluşan yatırım fonlarının bir yıldan fazla süreyle elde tutulan katılma paylarının elden çıkarılmasında Gelir Vergisi Kanunu’nun geçici 67. maddesi kapsamında tevkifat yapılmaz.",
+    "trading_terms": "Fon; Garanti BBVA Şubeleri, İnternet ve Mobil Şube, kurucunun anlaşmalı dağıtıcı kuruluşları ve TEFAS aracılığıyla alınıp satılabilir. TEFAS işlemlerinde asgari alım/satım tutarları ayrıca belirlenir. 13:30’a kadar verilen alım ve satım emirleri için fiyat t+1, valör t+1; 13:30’dan sonra verilen emirler için fiyat t+2, valör alımda t+2, satımda t+3 olarak uygulanır.",
+    "compare_measure": "Gecelik Türk Lirası referans oranının (TLREF) performans dönemine denk gelen bileşik getirisidir.",
+    "offering_date": "16.06.2008",
+    "annual_fee": "%2.70"
 }

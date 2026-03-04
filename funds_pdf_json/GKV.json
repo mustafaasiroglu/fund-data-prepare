@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Katılım Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
-    "Fon Kodu": "GKV",
-    "Fonun Eşik Değeri": "",
-    "Fonun Karşılaştırma Ölçütü": "%90 BIST Katılım 100 Getiri Endeksi + %10 BIST-KYD 1 Aylık Kar Payı TL Endeksi",
-    "Fonun Halka Arz Tarihi": "27.07.2022",
-    "Vergilendirme": "%0 stopaj",
-    "Alım Satım Esasları": "Fon, TEFAS ve Garanti BBVA kanalları üzerinden alınıp satılır; 13:30 öncesi verilen emirler t+1, sonrası verilen emirler t+2 fiyatla gerçekleşir.",
-    "Yıllık Fon Yönetim Ücreti": "%3.20",
-    "Yatırım Stratejisi": "Fon, faizsiz/katılım finans ilkelerine uygun, BIST’te işlem gören ve onaylı şirketlerin paylarına ağırlıklı olarak yatırım yapan hisse senedi yoğun bir fondur.",
-    "Yatırımcı Profili": "Orta-uzun vadeli düşünen, yüksek risk toleransına sahip ve katılım finans ilkelerine uygun yatırım yapmak isteyen yatırımcılar"
+    "investor_profile": "Portföyünde faizsiz/katılım finans ilkelerine uygun yatırım araçlarına yer vermek isteyen, orta-uzun vadeli düşünen ve yüksek riske toleransı olan yatırımcılar için uygundur.",
+    "investment_strategy": "Fon, faizsiz ve katılım finans ilkelerine uygun olarak yönetilir. Fon toplam değerinin asgari %80’i devamlı olarak BIST’te işlem gören ve katılım finans ilkelerine uygunluğu onaylanmış hisse senetlerine ve bu paylardan oluşan, katılım esaslarına uygun borsa yatırım fonu katılma paylarına yatırılır. Fon, faiz getirisi olan işlemler ve yabancı para cinsinden varlıklara yatırım yapmaz; yalnızca Türk Lirası cinsinden varlıklara yatırım yapar.",
+    "taxation": "Gerçek ve tüzel kişiler için %0 stopaj.",
+    "trading_terms": "Fon, Garanti BBVA Şubeleri, İnternet ve Mobil Şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. 13:30’a kadar verilen alım-satım emirleri t+1 fiyat ve valörle, 13:30’dan sonra verilen emirler t+2 fiyat ve valörle gerçekleşir. TEFAS işlemleri için asgari alım-satım tutarı ayrıca belirlenir.",
+    "compare_measure": "%90 BIST Katılım 100 Getiri Endeksi + %10 BIST-KYD 1 Aylık Kar Payı TL Endeksi",
+    "offering_date": "27 Temmuz 2022",
+    "annual_fee": "%3.20"
 }

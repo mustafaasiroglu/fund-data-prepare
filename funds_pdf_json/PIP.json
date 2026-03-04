@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy İkinci Para Piyasası Serbest (TL) Fon",
-    "Fon Kodu": "PIP",
-    "Fonun Eşik Değeri": "%100 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Karşılaştırma Ölçütü": "",
-    "Fonun Halka Arz Tarihi": "05.05.2025",
-    "Vergilendirme": "Gerçek kişiler için %17.5 ve Tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon, TEFAS üzerinden ve Garanti BBVA dağıtım kanalları aracılığıyla aynı gün (t+0) alım-satım imkanı sunar.",
-    "Yıllık Fon Yönetim Ücreti": "%0.70",
-    "Yatırım Stratejisi": "Fon portföyünün tamamı ters repo işlemlerine ve vadesi en fazla 184 gün olan, likiditesi yüksek TL cinsi para piyasası araçlarına yatırılır.",
-    "Yatırımcı Profili": "Kısa vadeli, düşük riskli ve yüksek likiditeli yatırım araçlarıyla birikimlerini değerlendirmek isteyen Nitelikli Yatırımcılar"
+    "investor_profile": "Birikimlerini kısa vadeli, düşük riskli ve likiditesi yüksek yatırım araçlarıyla değerlendirmek isteyen, gecelik mevduata ve para piyasası fonlarına alternatif ürünler arayan, likidite yönetimi için aynı gün valörlü yatırım fonlarına portföyünde yer vermek isteyen ve Serbest Fon olduğu için Nitelikli Yatırımcı statüsüne sahip yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon portföyünün tamamı ters repo işlemlerine yatırılır. Portföy, vadesine en fazla 184 gün kalmış, likiditesi yüksek para piyasası araçlarından oluşur ve günlük ağırlıklı ortalama vadesi en fazla 45 gündür. Yalnızca TL cinsi varlık ve işlemler kullanılır; yabancı para, altın, kıymetli madenler ve bunlara dayalı araçlara yatırım yapılmaz.",
+    "taxation": "Gerçek kişiler için %17.5 stopaj, tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon alım-satım işlemleri TEFAS üzerinden ve Garanti BBVA şubeleri ile dijital kanallar aracılığıyla yapılabilir. 13:30’a kadar verilen emirler t+0, bu saatten sonra verilen emirler t+1 fiyat ve valörle gerçekleşir (yarım günlerde saat 10:30 uygulanır).",
+    "compare_measure": "%100 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "05.05.2025",
+    "annual_fee": "%0.70"
 }

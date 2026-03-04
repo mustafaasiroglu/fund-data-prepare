@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Finans Sektörü Değişken Fon",
-    "Fon Kodu": "GZZ",
-    "Fonun Eşik Değeri": "",
-    "Fonun Karşılaştırma Ölçütü": "%40 S&P Global 1200 Financials Net Total Return USD Endeksi + %20 Stoxx Global Fintech Net Return USD Endeksi + %10 BIST Mali Getiri Endeksi + %30 BIST-KYD ÖSBA Sabit Endeksi",
-    "Fonun Halka Arz Tarihi": "11.10.2021",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0",
-    "Alım Satım Esasları": "Fon Garanti BBVA şubeleri, internet ve mobil şube ile TEFAS üzerinden alınıp satılabilir; işlemler günlük olup 13:30 emir kesim saati uygulanır",
-    "Yıllık Fon Yönetim Ücreti": "%2",
-    "Yatırım Stratejisi": "Fon toplam değerinin asgari %80’i finans sektöründe faaliyet gösteren şirketlerin yerli/yabancı sermaye piyasası araçlarına ve ilgili yatırım fonlarına yatırılır",
-    "Yatırımcı Profili": "Finans sektörüne yatırım yapmak isteyen, orta-uzun vadeli ve değişken fon riskini kabul eden yatırımcılar"
+    "investor_profile": "Finans sektörüne yatırım yapmak isteyen, farklı yatırım temalarına merak duyan, birikimlerini değerlendirirken orta-uzun vade bakış açısıyla düşünen ve TL ile fon alımı yapmak isteyen yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon, toplam değerinin asgari %80’ini finans sektöründe faaliyet gösteren veya bu sektöre servis/ürün sağlayan şirketlerin yerli ve yabancı hisse senetleri, ADR/GDR’leri, borçlanma araçları ve kira sertifikalarına yatırır. Ayrıca bu temaya yatırım imkânı sağlayan yerli/yabancı yatırım fonları ve borsa yatırım fonlarına da yatırım yapabilir. Portföy dağılımı, varlık ağırlıkları ve para birimleri portföy yöneticisinin piyasa görüşüne göre belirlenir ve piyasa koşullarına göre değişebilir.",
+    "taxation": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon; Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. TEFAS işlemlerinde asgari alım/satım tutarları ayrıca belirlenir. 13:30’dan önce girilen emirlerde alım-satım fiyatı t+1, valör alımda t+1 satımda t+3; 13:30’dan sonra girilen emirlerde fiyat t+2, valör alımda t+2 satımda t+4’tür.",
+    "compare_measure": "%40 S&P Global 1200 Financials Net Total Return USD Endeksi + %20 Stoxx Global Fintech Net Return USD Endeksi + %10 BIST Mali Getiri Endeksi + %30 BIST-KYD ÖSBA Sabit Endeksi",
+    "offering_date": "11.10.2021",
+    "annual_fee": "%2"
 }

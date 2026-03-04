@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Trend Serbest Fon",
-    "Fon Kodu": "GTY",
-    "Fonun Eşik Değeri": "%100 BIST - KYD Repo (Brüt) Endeksi",
-    "Fonun Karşılaştırma Ölçütü": "%100 BIST - KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "25.01.2021",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Alım-satım işlemleri sadece Nitelikli Yatırımcılar tarafından yapılır; emirler 13:30’a kadar verilirse t+1, sonrasında t+2 fiyatla gerçekleşir; valör alımda t+1 veya t+2, satımda t+3 veya t+4’tür.",
-    "Yıllık Fon Yönetim Ücreti": "%2",
-    "Yatırım Stratejisi": "Yerel ve global piyasalardaki trendlere dayalı tematik yatırımlarla, yerli ve yabancı ortaklık payları, ETF’ler ve diğer sermaye piyasası araçlarına yatırım yaparak orta-uzun vadede TL bazında yüksek getiri hedeflenir.",
-    "Yatırımcı Profili": "Orta-uzun vadeli düşünen, alternatif alanlara yatırım yapmak isteyen, yüksek risk profiline sahip nitelikli yatırımcılar"
+    "investor_profile": "Yerel ve global trendlerine merak duyan, alternatif alanlarda yatırım yapmak isteyen, TL bazında getiri elde etmeyi hedefleyen, birikimlerini değerlendirirken orta-uzun vadeli düşünen ve yüksek risk profilindeki yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon, portföy yöneticisinin yerel ve global piyasalardaki trendleri takip ederek makroekonomik analiz ve piyasa öngörüsü doğrultusunda bir veya birden fazla temaya dayalı yerli/yabancı ortaklık payları, borsa yatırım fonları ve diğer sermaye piyasası araçlarına yatırım yaparak orta-uzun vadede TL bazında yüksek getiri elde etmeyi amaçlar. Portföy dağılımı piyasa koşullarına göre dinamik olarak değiştirilir.",
+    "taxation": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj uygulanmaktadır.",
+    "trading_terms": "Fon alım-satım işlemleri yalnızca Nitelikli Yatırımcılar tarafından yapılır. İşlemler Garanti BBVA, anlaşmalı dağıtım kuruluşları ve TEFAS üzerinden TL cinsinden gerçekleştirilir. Emir giriş saati 13:30’dur; emir giriş saatinden önce verilen alım ve satım emirlerinde fiyat t+1, valör alımda t+1 satımda t+3; emir giriş saatinden sonra verilen emirlerde fiyat t+2, valör alımda t+2 satımda t+4 olarak uygulanır. TEFAS işlemleri için asgari alım/satım tutarları ayrıca belirlenir.",
+    "compare_measure": "%100 BIST - KYD Repo (Brüt) Endeksi",
+    "offering_date": "25 Ocak 2021",
+    "annual_fee": "%2"
 }

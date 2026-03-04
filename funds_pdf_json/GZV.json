@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy ESG Sürdürülebilirlik Fon Sepeti Fonu",
-    "Fon Kodu": "GZV",
-    "Fonun Eşik Değeri": "",
-    "Fonun Karşılaştırma Ölçütü": "%65 S&P 500 ESG Toplam Getiri Endeksi + %25 BIST Sürdürülebilirlik Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "17 Şubat 2021",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon; Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. Emir saatine göre fiyat ve valör t+1 ile t+4 arasında değişmektedir.",
-    "Yıllık Fon Yönetim Ücreti": "%2.90",
-    "Yatırım Stratejisi": "ESG (Çevresel, Sosyal ve Kurumsal Yönetim) kriterlerini yatırım kararlarına entegre eden, ağırlıklı olarak yerli ve yabancı sürdürülebilirlik temalı fonlar ve ETF’lere yatırım yapan sürdürülebilir yatırım stratejisi",
-    "Yatırımcı Profili": "Sürdürülebilir yatırımlara ilgi duyan, orta-uzun vadeli düşünen ve yüksek risk profilindeki yatırımcılar"
+    "investor_profile": "Sürdürülebilir Yatırım alanında birikimlerini değerlendirmeyi düşünen, portföyünde alternatif yatırımlara yer vermek isteyen, global ve yerel yeni yatırım alanlarını takip eden, birikimlerini orta-uzun vadeli düşünen ve yüksek risk profiline sahip yatırımcılar için uygundur.",
+    "investment_strategy": "Fon, Sürdürülebilir Yatırım (Sustainable Investing) anlayışıyla ESG (Çevresel, Sosyal ve Kurumsal Yönetim) kriterlerini yatırım kararlarına entegre eden şirketlerin sermaye piyasası araçlarına yatırım yapmayı hedefler. Fon toplam değerinin en az %80’i devamlı olarak ESG performansı yüksek şirketlerden oluşan yerli ve yabancı sürdürülebilirlik temalı yatırım fonları ve borsa yatırım fonlarına yatırılır.",
+    "taxation": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. Emirler 13:30’a kadar ve sonrasında verilmesine göre farklı fiyat ve valör esaslarına tabidir. TEFAS üzerinden yapılan işlemler için asgari alım-satım tutarları ayrıca belirlenir.",
+    "compare_measure": "%65 S&P 500 ESG Toplam Getiri Endeksi + %25 BIST Sürdürülebilirlik Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "17 Şubat 2021",
+    "annual_fee": "%2.90"
 }

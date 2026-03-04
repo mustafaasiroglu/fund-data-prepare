@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Altın Katılım Fonu",
-    "Fon Kodu": "GOL",
-    "Fonun Eşik Değeri": null,
-    "Fonun Karşılaştırma Ölçütü": "%90 BIST-KYD Altın Fiyat Ağırlıklı Ortalama Endeksi + %10 BIST-KYD 1 Aylık Kar Payı TL Endeksi",
-    "Fonun Halka Arz Tarihi": "18.03.2024",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0",
-    "Alım Satım Esasları": "Fon, TEFAS ve anlaşmalı dağıtıcılar aracılığıyla alınıp satılır; emir saatine göre t+1 veya t+2 fiyat ve valör uygulanır.",
-    "Yıllık Fon Yönetim Ücreti": "%1.95",
-    "Yatırım Stratejisi": "Portföyün en az %80’i altın ve altına dayalı, katılım finans ilkelerine uygun sermaye piyasası araçlarına yatırılır.",
-    "Yatırımcı Profili": "Altın ve altına dayalı faizsiz araçlara yatırım yapmak isteyen, orta-uzun vadeli ve risk toleransı yüksek yatırımcılar"
+    "investor_profile": "Birikimlerini altın ve altına dayalı faizsiz sermaye piyasası araçlarından oluşan bir portföyle TL cinsinden değerlendirmek isteyen, orta-uzun vadeli bir bakış açısıyla yatırım yapan ve risk toleransı yüksek yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin en az %80’i devamlı olarak ulusal ve uluslararası borsalarda işlem gören altın ve altına dayalı sermaye piyasası araçlarına, altın endeksini takip etmek üzere kurulu yerli/yabancı borsa yatırım fonu katılma paylarına ve altına dayalı katılma hesaplarına yatırılır. Fon, tüm işlemlerinde uluslararası katılım finans ilkelerine uygun hareket eder ve faiz getirisi olan araçlara yatırım yapmaz.",
+    "taxation": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon; Garanti BBVA Şubeleri, İnternet ve Mobil Şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. TEFAS işlemleri için asgari alım-satım tutarı ayrıca belirlenir. 13:30’a kadar girilen alım-satım emirleri t+1, bu saatten sonra girilen emirler t+2 fiyat ve valör ile gerçekleşir.",
+    "compare_measure": "%90 BIST-KYD Altın Fiyat Ağırlıklı Ortalama Endeksi + %10 BIST-KYD 1 Aylık Kar Payı TL Endeksi",
+    "offering_date": "18.03.2024",
+    "annual_fee": "%1.95"
 }

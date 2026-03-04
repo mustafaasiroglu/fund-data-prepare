@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Kısa Vadeli Borçlanma Araçları Fonu",
-    "Fon Kodu": "TGT",
-    "Fonun Eşik Değeri": "",
-    "Fonun Karşılaştırma Ölçütü": "%30 BIST-KYD DİBS 91 Gün + %5 BIST-KYD ÖSBA Değişken + %45 BIST-KYD ÖSBA Sabit + %15 BIST-KYD Repo (Brüt) + %5 BIST-KYD 1 Aylık Gösterge Mevduat TL",
-    "Fonun Halka Arz Tarihi": "",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "İş günleri 09:00-13:30 saatleri arasında bir önceki iş günü hesaplanan fiyat üzerinden alım-satım yapılır. Alım işlemleri 00:00-13:30 arasında aynı gün fiyatından, 18:00-24:00 arasında ve tatil günlerinde ertesi iş günü fiyatından yapılır. Satım işlemleri 00:00-16:30 ve 18:00-24:00 arasında aynı gün fiyatından yapılır.",
-    "Yıllık Fon Yönetim Ücreti": "%2.40",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’i yerli kamu ve özel sektör kısa vadeli borçlanma araçlarına yatırılır, portföyün ortalama vadesi 25-90 gün arasında tutulur.",
-    "Yatırımcı Profili": "Kısa vadeli tahvil/bono yatırımı yapmak isteyen, kısa vadeli faiz hareketlerinden faydalanmayı düşünen, düşük risk algısına sahip yatırımcılar"
+    "investor_profile": "Kısa vadeli tahvil/bono yatırımı yapmak isteyen, kısa vadeli faizlerde yaşanabilecek hareketlerden faydalanmayı düşünen, düşük risk algısına sahip yatırımcılar için uygundur.",
+    "investment_strategy": "Fon toplam değerinin en az %80’i devamlı olarak yerli kamu ve özel sektör borçlanma araçlarına yatırılır. Fon portföyünün aylık ağırlıklı ortalama vadesi en az 25, en fazla 90 gün olacak şekilde yönetilir. Likiditesi yüksek kısa vadeli kamu ve/veya özel sektör borçlanma araçları tercih edilir.",
+    "taxation": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Yatırımcılar 09:00-13:30 saatleri arasında (yarım günlerde 09:00-11:15) bir önceki iş günü hesaplanan fiyat üzerinden alım-satım yapabilir. Fon alım işlemleri iş günleri 00:00-13:30 arasında o günün fiyatından, 18:00-24:00 arasında ve tatil günlerinde ise ertesi iş günü fiyatından yapılır. Fon satım işlemleri iş günleri 00:00-16:30 ve 18:00-24:00 arasında yapılabilir. Garanti BBVA şubeleri, telefon, mobil, internet bankacılığı ve ATM kanalları kullanılabilir.",
+    "compare_measure": "%30 BIST-KYD DİBS 91 Gün + %5 BIST-KYD ÖSBA Değişken + %45 BIST-KYD ÖSBA Sabit + %15 BIST-KYD Repo (Brüt) + %5 BIST-KYD 1 Aylık Gösterge Mevduat TL",
+    "offering_date": null,
+    "annual_fee": "%2.40"
 }

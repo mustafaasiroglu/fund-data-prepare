@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy İkinci Para Piyasası (TL) Fonu",
-    "Fon Kodu": "GAL",
-    "Fonun Eşik Değeri": "",
-    "Fonun Karşılaştırma Ölçütü": "%15 BIST-KYD DİBS 91 Gün Endeksi + %20 BIST-KYD ÖSBA Sabit Endeksi + %30 BIST-KYD Repo (Brüt) Endeksi + %35 BIST-KYD 1 Aylık Mevduat TL Endeksi",
-    "Fonun Halka Arz Tarihi": "30.05.1990",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon, Garanti BBVA şubelerinden belirli saatler içinde alınabilir; işlemler iş günlerinde aynı gün veya geçerli fiyat üzerinden, hafta sonu ve tatillerde ise son iş günü fiyatından gerçekleşir. Telefon, mobil ve internet bankacılığı ile yalnızca satım işlemleri yapılabilir.",
-    "Yıllık Fon Yönetim Ücreti": "%1.40",
-    "Yatırım Stratejisi": "Fon portföyü, vadesine en fazla 184 gün kalmış, likiditesi yüksek TL cinsi para ve sermaye piyasası araçlarına yatırılır; portföyün ağırlıklı ortalama vadesi 45 günü aşamaz ve ana paranın korunması hedeflenir.",
-    "Yatırımcı Profili": "Düşük riskli, likiditesi yüksek enstrümanlara yatırım yapmak isteyen ve düzenli, istikrarlı getiri hedefleyen yatırımcılar"
+    "investor_profile": "Birikimlerini değerlendirirken düşük riskli aynı zamanda likiditesi yüksek enstrümanlara yatırım yaparak getiri potansiyeli elde etmek isteyen, istikrarlı ve düzenli getiri hedefleyerek günlük olarak getiri takibi yapmak isteyen, düşük risk profilindeki yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin tamamı devamlı olarak vadesine en fazla 184 gün kalmış, likiditesi yüksek para ve sermaye piyasası araçlarına yatırılır. Fon portföyünün günlük olarak hesaplanan ağırlıklı ortalama vadesi 45 günü aşamaz. Portföye yalnızca TL cinsi varlıklar dahil edilir, yabancı para, altın ve diğer kıymetli madenlere yer verilmez. Ana para değerinin korunarak pozitif getiri potansiyeli sağlanması hedeflenir.",
+    "taxation": "Gerçek kişiler için %17.5 ve tüzel kişiler için %0 stopaj.",
+    "trading_terms": "Fon Garanti BBVA şubelerinden alınabilir. Şubelerde 09:00-16:30 (yarım günlerde 09:00-11:15) saatleri arasında yapılan işlemler aynı gün, bir önceki işgünü fiyatıyla gerçekleşir. Anlaşmalı diğer kurumlardan 09:00-13:30 arasında o gün geçerli fiyattan işlem yapılır. Satım işlemleri Garanti BBVA telefon, mobil ve internet bankacılığı ile ATM üzerinden 00:00-24:00 saatleri arasında yapılabilir. İş günlerinde yapılan işlemler o günün, hafta sonu ve tatil günlerinde yapılan işlemler tatil öncesi son iş gününün fiyatıyla gerçekleşir.",
+    "compare_measure": "%15 BIST-KYD DİBS 91 Gün Endeksi + %20 BIST-KYD ÖSBA Sabit Endeksi + %30 BIST-KYD Repo (Brüt) Endeksi + %35 BIST-KYD 1 Aylık Mevduat TL Endeksi",
+    "offering_date": "30.05.1990",
+    "annual_fee": "%1.40"
 }

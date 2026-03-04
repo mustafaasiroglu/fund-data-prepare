@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Sağlık Sektörü Değişken Fon",
-    "Fon Kodu": "GZG",
-    "Fonun Eşik Değeri": null,
-    "Fonun Karşılaştırma Ölçütü": "%65 S&P Global 1200 Health Care Net Total Return USD Endeksi + %25 BIST 100 Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "13.09.2021",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon, Garanti BBVA şubeleri, İnternet Şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. Emirler 13:30’a kadar girildiğinde t+1 fiyat, t+1–t+3 valör; 13:30’dan sonra girildiğinde t+2 fiyat, t+2–t+4 valör ile gerçekleşir.",
-    "Yıllık Fon Yönetim Ücreti": "%2.70",
-    "Yatırım Stratejisi": "Fon toplam değerinin asgari %80’i sağlık sektöründe faaliyet gösteren veya bu sektöre ürün ve hizmet sağlayan şirketlerin yerli/yabancı hisse senetleri, ADR/GDR’ler, borçlanma araçları, kira sertifikaları ile bu temaya yatırım yapan fon ve ETF’lere yatırılır.",
-    "Yatırımcı Profili": "Sağlık sektörüne yatırım yapmak isteyen, farklı yatırım temalarına ilgi duyan, orta-uzun vadeli bakış açısına sahip ve TL bazında yatırım yapmak isteyen yatırımcılar"
+    "investor_profile": "• Sağlık sektörüne yatırım yapmak isteyen,\n• Farklı yatırım temalarına merak duyan,\n• Birikimlerini değerlendirirken orta-uzun vade bakış açısıyla düşünen,\n• TL bazında yatırım yapmak isteyen yatırımcılara yöneliktir.",
+    "investment_strategy": "Garanti Portföy Sağlık Sektörü Değişken Fon, sağlık sektöründeki getiri potansiyelinden yararlanmak isteyen yatırımcılar için tasarlanmıştır. Fon toplam değerinin devamlı olarak asgari %80’i sağlık sektöründe faaliyet gösteren şirketlerin veya bu şirketlere servis/ürün sağlayan şirketlerin ihraç ettikleri yerli/yabancı hisselere, Amerikan (ADR) ve Global (GDR) depo sertifikalarına, yerli/yabancı borçlanma araçlarına ve kira sertifikalarına yatırım yapacaktır. Fon ayrıca bu temaya yatırım imkanı sağlayan yerli/yabancı yatırım fonları ve borsa yatırım fonlarına da yatırım yapabilir. Portföy dağılımı, varlık ağırlıkları ve para birimleri portföy yöneticisinin piyasa görüşüne göre piyasa koşullarına bağlı olarak değişebilir.",
+    "taxation": "Gerçek kişiler için %17.5 ve Tüzel kişiler için %0 stopaj.",
+    "trading_terms": "Fon; tüm Garanti BBVA Şubeleri, İnternet Şube, Kurucu’nun aktif pazarlama sözleşmesi imzalamış olduğu anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. TEFAS üzerinden gerçekleşen işlemler için asgari alım/satım tutarı ayrıca belirlenmektedir. Emir giriş saati 13:30’dur. Emir giriş saatinden önce verilen alım ve satım emirlerinde fiyat t+1, valör t+1 (alım) ve t+3 (satım); emir giriş saatinden sonra verilen emirlerde fiyat t+2, valör t+2 (alım) ve t+4 (satım) olarak uygulanır.",
+    "compare_measure": "%65 S&P Global 1200 Health Care Net Total Return USD Endeksi + %25 BIST 100 Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "13.09.2021",
+    "annual_fee": "%2.70"
 }

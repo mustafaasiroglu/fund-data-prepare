@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Teknoloji Şirketleri Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
-    "Fon Kodu": "GRT",
-    "Fonun Eşik Değeri": "",
-    "Fonun Karşılaştırma Ölçütü": "%90 BIST Teknoloji Ağırlık Sınırlamalı Getiri Endeksi (XTKJS) + %10 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "29.01.2025",
-    "Vergilendirme": "Gerçek kişiler ve tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon payları Garanti BBVA şubeleri ve TEFAS üzerinden alınıp satılabilir; işlemler günlük olup emir saatine göre t+1, t+2 ve t+3 valörlüdür",
-    "Yıllık Fon Yönetim Ücreti": "%3.20",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’i BIST Teknoloji Ağırlık Sınırlamalı Getiri Endeksi’nde yer alan yerli teknoloji şirketlerinin hisse senetlerine ve bu endeksi takip eden borsa yatırım fonlarına yatırılır",
-    "Yatırımcı Profili": "Orta-uzun vadeli bakış açısına sahip, hisse senedi yatırımlarını bilen ve yüksek risk toleransı olan yatırımcılar"
+    "investor_profile": "Orta-uzun vadeli bakış açısıyla hisse senedi yatırımı yapmak isteyen, hisse senedi ve hisse senedi içeren yatırım fonlarını bilen, bu enstrümanlara ilgi duyan ve yüksek risk toleransına sahip yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin en az %80’i devamlı olarak BIST Teknoloji Ağırlık Sınırlamalı Getiri Endeksi’nde yer alan yerli ortaklık paylarına ve bu paylardan oluşan endeksleri takip etmek üzere kurulan borsa yatırım fonları katılma paylarına yatırılır. Fon portföyünde yalnızca Türk Lirası cinsinden varlıklar yer alır; yabancı para, altın, kıymetli madenler ve bunlara dayalı sermaye piyasası araçları ile bunlara yönelik türev işlemler kullanılmaz.",
+    "taxation": "Gerçek kişiler ve tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. TEFAS işlemleri için asgari alım/satım tutarı ayrıca belirlenir. Emir giriş saati 13:30’dur; emir giriş saatine göre fiyat ve valör süreleri t+1, t+2 ve t+3 olarak uygulanır.",
+    "compare_measure": "%90 BIST Teknoloji Ağırlık Sınırlamalı Getiri Endeksi (XTKJS) + %10 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "29.01.2025",
+    "annual_fee": "%3.20"
 }

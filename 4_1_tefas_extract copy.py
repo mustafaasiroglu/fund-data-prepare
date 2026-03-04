@@ -5,7 +5,7 @@ import os
 import time
 import requests
 
-DAYS_TO_FETCH = 30
+DAYS_TO_FETCH = 60
 DELAY_BETWEEN_REQUESTS = 5  # seconds
 MAX_RETRIES = 3
 RETRY_DELAY = 10  # seconds

@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Para Piyasası Serbest (TL) Fon",
-    "Fon Kodu": "GJH",
-    "Fonun Eşik Değeri": "%100 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Karşılaştırma Ölçütü": "%100 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "15.03.2021",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon sadece Garanti BBVA üzerinden nitelikli yatırımcılar tarafından alınıp satılabilir, aynı gün valörlüdür ve TEFAS’ta işlem görmez.",
-    "Yıllık Fon Yönetim Ücreti": "%1.50",
-    "Yatırım Stratejisi": "Ağırlıklı olarak kısa vadeli kamu ve/veya özel sektör borçlanma araçları, kira sertifikaları, mevduat ve para piyasası araçlarına yatırım yapmayı amaçlar.",
-    "Yatırımcı Profili": "Kısa vadeli ve düşük riskli yatırım araçlarıyla birikimlerini değerlendirmek isteyen nitelikli yatırımcılar"
+    "investor_profile": "Kısa vadeli ve düşük riskli yatırım araçlarıyla birikimlerini değerlendirmek isteyen, gecelik mevduata ve para piyasası fonlarına alternatif ürünler arayan, likidite yönetimi için aynı gün valörlü yatırım fonlarına portföyünde yer vermek isteyen Nitelikli Yatırımcılar. Fon, Serbest Fon olduğu için Nitelikli Yatırımcılar için uygundur.",
+    "investment_strategy": "Fon, yatırım öngörüsü doğrultusunda ağırlıklı olarak kısa vadeli kamu ve/veya özel sektör borçlanma araçlarına, kira sertifikalarına, mevduat ve para piyasası araçlarına yatırım yaparak sermaye kazancı sağlamayı amaçlar. Portföy dağılımı piyasa koşullarına göre esnek şekilde değiştirilebilir ve portföyün tamamı vadesine en fazla 184 gün kalmış, ağırlıklı ortalama vadesi en fazla 45 gün olan, Türk Lirası cinsinden para ve sermaye piyasası araçlarından oluşur.",
+    "taxation": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj uygulanmaktadır.",
+    "trading_terms": "Fon sadece Garanti BBVA üzerinden Nitelikli Yatırımcılar tarafından alınıp satılabilir ve TEFAS’ta işlem görmez. BIST Borçlanma Araçları Piyasası’nın açık olduğu günlerde 00:00-16:30 (yarım günlerde 00:00-11:15) saatleri arasında verilen alım-satım talimatları, bir önceki işgünü hesaplanan ve o gün için geçerli fiyat üzerinden aynı gün valörle gerçekleştirilir. Alım talimatları tutar olarak, satım talimatları pay sayısı veya tutar olarak verilebilir.",
+    "compare_measure": "%100 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "15 Mart 2021",
+    "annual_fee": "%1.50"
 }

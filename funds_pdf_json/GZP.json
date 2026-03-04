@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Birinci Fon Sepeti Fonu",
-    "Fon Kodu": "GZP",
-    "Fonun Eşik Değeri": "%100 BIST - KYD 1 Aylık Mevduat TL Endeksi",
-    "Fonun Karşılaştırma Ölçütü": "%100 BIST - KYD 1 Aylık Mevduat TL Endeksi",
-    "Fonun Halka Arz Tarihi": "10.03.2021",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon Garanti BBVA şubeleri ve TEFAS üzerinden alınıp satılır. 12:30 öncesi verilen alım-satım emirleri t+1 fiyatıyla, 12:30 sonrası verilen emirler t+2 fiyatıyla gerçekleşir.",
-    "Yıllık Fon Yönetim Ücreti": "%1.90",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’i yatırım fonları ve borsa yatırım fonlarına yatırılır. Orta ve uzun vadede TL bazında mevduat üstü getiri hedeflenir ve portföy aktif olarak yönetilir.",
-    "Yatırımcı Profili": "Orta-uzun vadede TL bazında mevduat üstü getiri hedefleyen, dengeli varlık dağılımı ve aktif yönetim isteyen yatırımcılar"
+    "investor_profile": "Orta-uzun vadede TL bazında mevduat üstü getiri hedefleyen, tek bir yatırım fonu ile dengeli varlık dağılımı yaparak birikimlerini çeşitlendirmek isteyen ve portföyünde piyasa koşullarına göre aktif yönetilen bir yatırım fonuna yer vermek isteyen yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin en az %80’i devamlı olarak yatırım fonları ve borsa yatırım fonlarının katılma paylarına yatırılır. Orta ve uzun vadede TL bazında yüksek getiri hedeflenir. Bu amaçla yurt içi ve yurt dışında TL ve dövize endeksli sermaye piyasası araçlarına yatırım yapan yerli ve yabancı yatırım fonları ile borsa yatırım fonlarına yatırım yapılabilir. Portföy dağılımı piyasa koşullarına ve portföy yöneticisinin görüşüne göre değişkenlik gösterir; risk değeri 3-4 aralığında tutulur.",
+    "taxation": "Gerçek kişiler için %17.5 stopaj, tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. TEFAS işlemleri için asgari alım-satım tutarı ayrıca belirlenir. 12:30’a kadar verilen alım ve satım emirleri t+1 fiyat ve t+1 valör ile, 12:30’dan sonra verilen emirler t+2 fiyat ve alımlar için t+2, satımlar için t+3 valör ile gerçekleşir.",
+    "compare_measure": "%100 BIST - KYD 1 Aylık Mevduat TL Endeksi",
+    "offering_date": "10 Mart 2021",
+    "annual_fee": "%1.90"
 }

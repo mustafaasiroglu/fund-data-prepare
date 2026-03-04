@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Kar Payı Ödeyen Ekim 2026 Serbest (Döviz) Fon",
-    "Fon Kodu": "GKM",
-    "Fonun Eşik Değeri": "%100 BIST-KYD 1 Aylık Mevduat USD Endeksi",
-    "Fonun Karşılaştırma Ölçütü": "BIST-KYD 1 Aylık Mevduat USD Endeksi",
-    "Fonun Halka Arz Tarihi": "09.04.2025",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Alımlar sadece talep toplama döneminde, satımlar aylık periyotlarda",
-    "Yıllık Fon Yönetim Ücreti": "%1",
-    "Yatırım Stratejisi": "USD cinsi eurobond ve döviz bazlı varlıklara yatırım yaparak Ekim 2026 vadeli, tahmin edilebilir USD bazında getiri ve yılda 4 kez kar payı ödemesi hedefi",
-    "Yatırımcı Profili": "Nitelikli yatırımcılar"
+    "investor_profile": "Döviz cinsi varlık ve işlemlerde belirli vadede yatırım yapmak isteyen, USD bazında tahmin edilebilir getiri ve düzenli kar payı hedefleyen Garanti BBVA Nitelikli Yatırımcıları için uygundur. Sadece nitelikli yatırımcılar içindir.",
+    "investment_strategy": "Fon, portföyünün tamamına yakını ile en geç Ekim 2026’da itfa olacak USD cinsi eurobondlar ve döviz cinsi para ve sermaye piyasası araçlarına yatırım yaparak yaklaşık 1,5 yıllık vadede USD bazında öngörülebilir getiri ve yılda dört kez kar payı sağlamayı hedefler.",
+    "taxation": "Gerçek kişiler için %17.5 stopaj, tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fona girişler sadece talep toplama döneminde yapılabilir. Fondan çıkışlar aylık periyotlarda mümkündür. Vade sonundan önce çıkış yapan yatırımcılardan %2 erken çıkış komisyonu alınır. Fon, TEFAS’ta işlem görmez ve sadece Garanti BBVA şubeleri üzerinden alınıp satılır. Vade sonunda otomatik olarak itfa edilir.",
+    "compare_measure": "%100 BIST-KYD 1 Aylık Mevduat USD Endeksi",
+    "offering_date": "09.04.2025",
+    "annual_fee": "Yıllık %1"
 }

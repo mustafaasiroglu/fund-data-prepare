@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Üçüncü Serbest (Döviz) Fon - SMART Döviz Fon",
-    "Fon Kodu": "GAS",
-    "Fonun Eşik Değeri": "%100 BIST-KYD 1 Aylık Mevduat USD Endeksi",
-    "Fonun Karşılaştırma Ölçütü": "BIST-KYD 1 Aylık Mevduat USD Endeksi",
-    "Fonun Halka Arz Tarihi": "05.06.2009",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Garanti BBVA, anlaşmalı dağıtıcılar ve TEFAS üzerinden USD veya TL bazında alım-satım yapılabilir. Emirler 13:30’a kadar girildiğinde t+1, sonrasında t+2 fiyat ve valörle gerçekleşir.",
-    "Yıllık Fon Yönetim Ücreti": "%1",
-    "Yatırım Stratejisi": "USD mevduat getirisini aşmayı hedefleyen, ağırlıklı olarak kısa vadeli özel sektör ve kamu eurobondlarına yatırım yapan serbest döviz fonudur.",
-    "Yatırımcı Profili": "Birikimlerini USD cinsinden değerlendirmek isteyen, orta-uzun vadeli ve nitelikli yatırımcılar"
+    "investor_profile": "Birikimlerini USD cinsinden değerlendirmek isteyen, orta-uzun vadede USD mevduat üzerinde bir getiri potansiyeli hedefleyen ve sadece nitelikli yatırımcı statüsüne sahip yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon dengeli bir varlık dağılımıyla USD mevduat getirisini aşmayı hedefler; portföyünde ağırlıklı olarak kısa vadeli özel sektör ve kamu eurobond yatırımlarına yer verir.",
+    "taxation": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Garanti BBVA, anlaşmalı dağıtıcı kurumlar ve TEFAS aracılığıyla USD veya TL bazında alım satım yapılabilir. Emir giriş saati 13:30’dur. Emirler saatten önce verilirse fiyat ve valör t+1, saatten sonra verilirse fiyat t+2 ve valör t+2/t+3 olarak uygulanır. TEFAS işlemlerinde asgari tutarlar ayrıca belirlenir.",
+    "compare_measure": "%100 BIST-KYD 1 Aylık Mevduat USD Endeksi",
+    "offering_date": "05.06.2009",
+    "annual_fee": "%1"
 }

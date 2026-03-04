@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Üçüncü Fon Sepeti Fonu",
-    "Fon Kodu": "GVI",
-    "Fonun Eşik Değeri": "%100 BIST - KYD 1 Aylık Mevduat TL Endeksi",
-    "Fonun Karşılaştırma Ölçütü": "%100 BIST - KYD 1 Aylık Mevduat TL Endeksi",
-    "Fonun Halka Arz Tarihi": "08.06.2022",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0",
-    "Alım Satım Esasları": "Fon, Garanti BBVA şubeleri ve TEFAS üzerinden alınıp satılabilir; işlemler günlük olarak belirlenen saat ve valör esaslarına tabidir.",
-    "Yıllık Fon Yönetim Ücreti": "%1.90",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’i yatırım fonları ve borsa yatırım fonlarına yatırılarak, orta-uzun vadede TL bazında yüksek getiri hedefleyen aktif ve agresif varlık dağılımı stratejisi izlenir.",
-    "Yatırımcı Profili": "Orta-uzun vadede TL bazında yüksek getiri hedefleyen, agresif varlık dağılımını ve yüksek volatiliteyi tolere edebilen yatırımcılar"
+    "investor_profile": "Orta-uzun vadede TL bazında yüksek getiri potansiyeli hedefleyen, tek bir fonla agresif varlık dağılımı ile birikimlerini çeşitlendirmek isteyen, piyasa şartlarına göre aktif yönetilen bir yatırım fonuna portföyünde yer vermek isteyen ve yüksek volatiliteye toleranslı yatırımcılar için uygundur.",
+    "investment_strategy": "Fon toplam değerinin en az %80’i sürekli olarak yerli ve yabancı yatırım fonları ile borsa yatırım fonlarının katılma paylarına yatırılır. Orta ve uzun vadede TL bazında yüksek getiri hedeflenir; portföy dağılımı piyasa koşullarına ve portföy yöneticisinin görüşüne göre aktif olarak değiştirilir. Risk değeri 5-7 aralığında tutulur.",
+    "taxation": "Gerçek kişiler için %17.5 stopaj, tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. TEFAS işlemleri için asgari alım/satım tutarları ayrıca belirlenir. 12:30’a kadar girilen alım-satım emirleri t+1 fiyat ve valör, bu saatten sonra girilen emirler t+2 fiyat ve valör ile gerçekleşir.",
+    "compare_measure": "%100 BIST - KYD 1 Aylık Mevduat TL Endeksi",
+    "offering_date": "08 Haziran 2022",
+    "annual_fee": "%1.90"
 }

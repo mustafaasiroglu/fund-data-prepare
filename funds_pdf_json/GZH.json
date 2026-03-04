@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Temiz Enerji Değişken Fon",
-    "Fon Kodu": "GZH",
-    "Fonun Eşik Değeri": null,
-    "Fonun Karşılaştırma Ölçütü": "%35 Nasdaq OMX Clean Edge Smart Grid Infrastructure Getiri Endeksi + %30 S&P Global Clean Energy Transition Getiri Endeksi + %25 BIST Elektrik Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "18.01.2021",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon Garanti BBVA şubeleri, dijital kanallar, anlaşmalı dağıtıcılar ve TEFAS üzerinden alınıp satılabilir; işlem fiyatı ve valörü emir saatine göre t+1 ila t+4 arasında değişir.",
-    "Yıllık Fon Yönetim Ücreti": "%2.70",
-    "Yatırım Stratejisi": "Temiz, yenilenebilir ve/veya alternatif enerji teknolojilerinde faaliyet gösteren yerli ve yabancı şirketlerin sermaye piyasası araçlarına yatırım yapmak; fon toplam değerinin asgari %80’ini bu temaya uygun varlıklara yönlendirmek.",
-    "Yatırımcı Profili": "Orta-uzun vadeli bakan, risk toleransı yüksek yatırımcılar"
+    "investor_profile": "Birikimlerini değerlendirirken orta-uzun vadeli bakan, temiz, yenilenebilir ve alternatif enerji teknolojileri ile bu alanlarda faaliyet gösteren yerli ve yabancı şirketlerin sermaye piyasası araçlarına portföyünde yer vermek isteyen, risk toleransı yüksek yatırımcılara yöneliktir.",
+    "investment_strategy": "Fonun teması; temiz, yenilenebilir ve/veya alternatif enerji teknolojilerinde üretici, geliştirici, dağıtıcı ve/veya kurucu sıfatıyla faaliyet gösteren şirketlerin sermaye piyasası araçlarına yatırımdır. Fon toplam değerinin asgari %80’i bu şirketlerin veya bu şirketlere hizmet sağlayan kurumların ihraç ettikleri yerli/yabancı hisse senetleri, ADR/GDR’ler, borçlanma araçları, kira sertifikaları ile tema ile uyumlu yatırım fonları ve borsa yatırım fonlarına yatırılır.",
+    "taxation": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon, Garanti BBVA Şubeleri, İnternet ve Mobil Şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. TEFAS işlemlerinde asgari alım/satım tutarı ayrıca belirlenir. Emirler 13:30’a kadar girildiğinde alım ve satım işlemleri için fiyat t+1, valör alımda t+1 satımda t+3; 13:30’dan sonra girildiğinde fiyat t+2, valör alımda t+2 satımda t+4 olarak uygulanır.",
+    "compare_measure": "%35 Nasdaq OMX Clean Edge Smart Grid Infrastructure Getiri Endeksi + %30 S&P Global Clean Energy Transition Getiri Endeksi + %25 BIST Elektrik Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "18.01.2021",
+    "annual_fee": "%2.70"
 }

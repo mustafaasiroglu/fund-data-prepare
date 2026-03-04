@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Para Piyasası Katılım Serbest (TL) Fon",
-    "Fon Kodu": "GKH",
-    "Fonun Eşik Değeri": "%100 BIST-KYD 1 Aylık Kar Payı TL Endeksi",
-    "Fonun Karşılaştırma Ölçütü": "%100 BIST-KYD 1 Aylık Kar Payı TL Endeksi",
-    "Fonun Halka Arz Tarihi": "27.07.2022",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Sadece Nitelikli Yatırımcılara satılır, aynı gün (t+0) alım-satım imkanı vardır; 13:30 öncesi verilen emirler t+0, sonrası t+1 fiyat ve valör ile gerçekleşir.",
-    "Yıllık Fon Yönetim Ücreti": "%1",
-    "Yatırım Stratejisi": "Katılım finans esaslarına uygun, ağırlıklı olarak kısa vadeli ve likit TL cinsi para ve sermaye piyasası araçlarına yatırım yapan para piyasası fonudur.",
-    "Yatırımcı Profili": "Faizsiz/katılım finans ilkelerine uygun, aynı gün alım-satım imkanı isteyen Nitelikli Yatırımcılar"
+    "investor_profile": "Faizsiz/katılım finans ilkelerine uygun yatırım araçlarına portföyünde yer vermek isteyen, aynı gün alım-satım imkanından yararlanmak isteyen ve serbest fon türü olması nedeniyle sadece Nitelikli Yatırımcılar.",
+    "investment_strategy": "Katılım esaslarına göre yönetilen, portföyünün tamamı vadesine en fazla 184 gün kalmış, likiditesi yüksek TL cinsi para ve sermaye piyasası araçlarından oluşan; ağırlıklı ortalama vadesi en fazla 45 gün olan, kira sertifikaları, katılma hesapları, murabaha işlemleri ve katılım finans ilkelerine uygun diğer araçlara yatırım yapmayı amaçlayan para piyasası fonudur.",
+    "taxation": "Gerçek kişiler için %17.5 ve tüzel kişiler için %0 stopaj.",
+    "trading_terms": "Fon katılma payları yalnızca Nitelikli Yatırımcılara satılır. Tüm Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. Alım için alt limit yoktur. 13:30’a kadar verilen emirler t+0, sonrasında verilen emirler t+1 fiyat ve valör ile gerçekleşir.",
+    "compare_measure": "%100 BIST-KYD 1 Aylık Kar Payı TL Endeksi",
+    "offering_date": "27 Temmuz 2022",
+    "annual_fee": "%1"
 }

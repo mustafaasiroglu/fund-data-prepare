@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Gümüş Katılım Serbest Fon",
-    "Fon Kodu": "GUK",
-    "Fonun Eşik Değeri": "%90 Bloomberg Gümüş fiyatı (TL) + %10 BIST-KYD 1 Aylık Kar Payı TL Endeksi",
-    "Fonun Karşılaştırma Ölçütü": "%90 Bloomberg Gümüş fiyatı (TL) + %10 BIST-KYD 1 Aylık Kar Payı TL Endeksi",
-    "Fonun Halka Arz Tarihi": "03.11.2025",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon, Garanti BBVA şubeleri, dijital kanallar, anlaşmalı dağıtıcılar ve TEFAS üzerinden alınıp satılabilir. Alım için alt limit yoktur. Emirler 13:30’dan önce ve sonra verilmesine göre t+1, t+2, t+3 valörlü olarak gerçekleşir.",
-    "Yıllık Fon Yönetim Ücreti": "%2,5",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’i fiziki gümüş ve gümüşe dayalı, faizsiz finans ilkelerine uygun para ve sermaye piyasası araçları ile yerli/yabancı yatırım fonları ve ETF’lere yatırılır. Kalan kısım faizsiz finans ilkelerine uygun TL veya yabancı para cinsinden araçlarda değerlendirilir.",
-    "Yatırımcı Profili": "Orta-uzun vadeli bakış açısına sahip, fiziki gümüş ve gümüşe dayalı faizsiz varlıklara yatırım yapmak isteyen, yüksek risk toleransına sahip nitelikli yatırımcılar"
+    "investor_profile": "Orta-uzun vadeli bakış açısıyla birikimlerini değerlendirmek isteyen, fiziki gümüş ve gümüşe dayalı faizsiz finans ilkelerine uygun varlıklara yatırım yapmak isteyen, yüksek risk toleransına sahip Nitelikli Yatırımcılar için uygundur. Fon, serbest fon türünde olduğu için yalnızca Nitelikli Yatırımcılar tarafından alınabilir.",
+    "investment_strategy": "Fon toplam değerinin en az %80’i devamlı olarak fiziki gümüş, gümüşe dayalı faizsiz finans ilkelerine uygun para ve sermaye piyasası araçları, gümüşe dayalı yatırım fonları ve gümüş endekslerini takip eden faizsiz finans ilkelerine uygun yerli/yabancı borsa yatırım fonlarına yatırılır. Kalan kısım TL ve/veya yabancı para cinsinden faizsiz finans ilkelerine uygun diğer para ve sermaye piyasası araçlarına yönlendirilebilir. Fonun tüm yatırımları uluslararası katılım finans ilkelerine uygun olarak yönetilir.",
+    "taxation": "Gerçek kişiler için %17.5 stopaj, tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon, Garanti BBVA Şubeleri, İnternet ve Mobil Şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. Fon alımı için alt limit bulunmamaktadır. 13:30’a kadar verilen alım-satım emirleri t+1 fiyatıyla, 13:30’dan sonra verilen emirler t+2 fiyatıyla gerçekleşir. Valör süreleri alımda t+1 veya t+2, satımda t+2 veya t+3 olarak uygulanır. Yarım günlerde emir saati 10:30’dur.",
+    "compare_measure": "%90 Bloomberg Gümüş fiyatı (TL) (Bloomberg’de ilan edilen XAG kodlu ABD Doları cinsinden spot gümüş ons fiyatının TCMB alış kuru ile çarpılmasıyla hesaplanan değer) + %10 BIST-KYD 1 Aylık Kar Payı TL Endeksi",
+    "offering_date": "03.11.2025",
+    "annual_fee": "%2,5"
 }

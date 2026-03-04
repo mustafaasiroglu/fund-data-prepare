@@ -6,7 +6,61 @@
     "category_tr": "Fon Sepeti Fonları",
     "category_en": "Fund of Funds",
     "alias_tr": "birinci-fon-sepeti-fonu",
-    "alias_en": "first-fund-of-funds"
+    "alias_en": "first-fund-of-funds",
+    "first_offering_date": "2021-03-10",
+    "annual_management_fee": 1.90165,
+    "latest_price_close": 6.816316,
+    "latest_price_date": "2026-03-02",
+    "net_asset_value": 5042871111.43,
+    "distribution": [
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "77.64"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "8.78"
+      },
+      {
+        "Name": "Tahvil (%)",
+        "Percentage": "5.93"
+      },
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "5.58"
+      },
+      {
+        "Name": "Kamu Kira Sertifikaları (TL) (%)",
+        "Percentage": "2.06"
+      }
+    ],
+    "returns": {
+      "Weekly": -0.546763,
+      "OneMonth": 1.911591,
+      "ThreeMonth": 11.530958,
+      "SixMonth": 22.658551,
+      "FRomBeginOfYear": 8.418611,
+      "OneYear": 53.773526,
+      "ThreeYear": 284.849946,
+      "FirstOfferingDate": 581.6316
+    },
+    "risk_level": "3 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-birinci-fon-sepeti-fonu-gzp.pdf",
+    "compare_measure": "Fon&rsquo;un eşik değeri %100 BIST-KYD 1 Aylık Mevduat TL Endeksi&rsquo;dir.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzp_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzp_ic_tuzugu_20150409.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzp_yat_bilgi_20250623.pdf"
+      }
+    ]
   },
   {
     "code": "GZJ",
@@ -15,7 +69,69 @@
     "category_tr": "Fon Sepeti Fonları",
     "category_en": "Fund of Funds",
     "alias_tr": "ikinci-fon-sepeti-fonu",
-    "alias_en": "second-fund-of-funds"
+    "alias_en": "second-fund-of-funds",
+    "first_offering_date": "2021-03-10",
+    "annual_management_fee": 1.90165,
+    "latest_price_close": 8.144372,
+    "latest_price_date": "2026-03-02",
+    "net_asset_value": 2366311349.41,
+    "distribution": [
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "70.84"
+      },
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "10.8"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "8.17"
+      },
+      {
+        "Name": "Kıymetli Madenler Cinsinden BYF (%)",
+        "Percentage": "7.23"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "2.11"
+      },
+      {
+        "Name": "Özel Tahvil (%)",
+        "Percentage": "0.51"
+      },
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "0.34"
+      }
+    ],
+    "returns": {
+      "Weekly": -1.331731,
+      "OneMonth": 1.870395,
+      "ThreeMonth": 15.345114,
+      "SixMonth": 25.211307,
+      "FRomBeginOfYear": 11.689123,
+      "OneYear": 52.31786,
+      "ThreeYear": 298.060813,
+      "FirstOfferingDate": 714.4372
+    },
+    "risk_level": "4 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-ikinci-fon-sepeti-fonu-gzj.pdf",
+    "compare_measure": "Fon&rsquo;un eşik değeri %100 BIST-KYD 1 Aylık Mevduat TL Endeksi&rsquo;dir.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzj_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzj_ic_tuzugu_20220111.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzj_yat_bilgi_20250623.pdf"
+      }
+    ]
   },
   {
     "code": "GVI",
@@ -24,7 +140,65 @@
     "category_tr": "Fon Sepeti Fonları",
     "category_en": "Fund of Funds",
     "alias_tr": "ucuncu-fon-sepeti-fonu",
-    "alias_en": "third-fund-of-funds"
+    "alias_en": "third-fund-of-funds",
+    "first_offering_date": "2022-06-08",
+    "annual_management_fee": 1.90165,
+    "latest_price_close": 5.477741,
+    "latest_price_date": "2026-03-02",
+    "net_asset_value": 1699201975.13,
+    "distribution": [
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "59.51"
+      },
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "14"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "12.6"
+      },
+      {
+        "Name": "Kıymetli Madenler Cinsinden BYF (%)",
+        "Percentage": "12.18"
+      },
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "1.54"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "0.17"
+      }
+    ],
+    "returns": {
+      "Weekly": -2.234715,
+      "OneMonth": 1.183597,
+      "ThreeMonth": 17.234099,
+      "SixMonth": 26.649662,
+      "FRomBeginOfYear": 13.871412,
+      "OneYear": 49.581314,
+      "ThreeYear": 296.05438,
+      "FirstOfferingDate": 447.7741
+    },
+    "risk_level": "5 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-uecuencue-fon-sepeti-fonu-gvi.pdf",
+    "compare_measure": "Fon&rsquo;un eşik değeri %100 BIST-KYD 1 Aylık Mevduat TL Endeksi&rsquo;dir.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gvi_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gvi_ic_tuzugu_20220608.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gvi_yat_bilgi_20250623.pdf"
+      }
+    ]
   },
   {
     "code": "GZV",
@@ -33,7 +207,65 @@
     "category_tr": "Fon Sepeti Fonları",
     "category_en": "Fund of Funds",
     "alias_tr": "esg-surdurulebilirlik-fon-sepeti-fonu",
-    "alias_en": "esg-sustainability-fund-of-funds"
+    "alias_en": "esg-sustainability-fund-of-funds",
+    "first_offering_date": "2021-02-17",
+    "annual_management_fee": 2.9017499999999994,
+    "latest_price_close": 7.566463,
+    "latest_price_date": "2026-03-02",
+    "net_asset_value": 94203078.7,
+    "distribution": [
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "65.79"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "28.57"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "3.41"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "1.27"
+      },
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "0.73"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "0.24"
+      }
+    ],
+    "returns": {
+      "Weekly": -2.035202,
+      "OneMonth": 0.668099,
+      "ThreeMonth": 10.321661,
+      "SixMonth": 19.146146,
+      "FRomBeginOfYear": 7.63361,
+      "OneYear": 46.356448,
+      "ThreeYear": 223.477534,
+      "FirstOfferingDate": 656.6463
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-esg-suerdueruelebilirlik-fon-sepeti-fonu-gzv.pdf",
+    "compare_measure": "Fonun karşılaştırma &ouml;l&ccedil;&uuml;t&uuml; %65 S&amp;P 500 ESG Toplam Getiri Endeksi (S&amp;P 500 ESG Total Return Index) + %25 BIST S&uuml;rd&uuml;r&uuml;lebilirlik Getiri Endeksi + %10 BIST-KYD Repo (Br&uuml;t) Endeksi'dir.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzv_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzv_ic_tuzugu_20220111.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzv_yat_bilgi_20250704.pdf"
+      }
+    ]
   },
   {
     "code": "GTL",

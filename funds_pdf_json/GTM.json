@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Temettü Ödeyen Şirketler Hisse Senedi (TL) Fonu",
-    "Fon Kodu": "GTM",
-    "Fonun Eşik Değeri": null,
-    "Fonun Karşılaştırma Ölçütü": "%90 BIST Temettü Getiri Endeksi (XTMTU) + %10 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "03.08.2022",
-    "Vergilendirme": "Gerçek ve tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcılar ve TEFAS üzerinden alınıp satılabilir; emir saatine göre t+1 ve t+2 fiyat/valör uygulanır.",
-    "Yıllık Fon Yönetim Ücreti": "%3.20",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’i BIST Temettü Endeksi’nde yer alan temettü ödeyen yerli şirketlerin hisse senetlerine ve bu endeksi takip eden ETF’lere yatırılır; yalnızca TL cinsinden varlıklara yatırım yapılır.",
-    "Yatırımcı Profili": "Orta-uzun vadeli düşünen ve yüksek risk toleransına sahip, temettü ödeyen şirketlerin hisse senetlerine yatırım yapmak isteyen yatırımcılar"
+    "investor_profile": "Portföyünde temettü ödeyen şirketlerin hisse senetlerine yer vermek isteyen, orta-uzun vadeli düşünen ve yüksek riske toleransı olan yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin en az %80’i devamlı olarak BIST Temettü Endeksi (XTMTU)’nde yer alan yerli ortaklık paylarına (hisse senedi) ve bu paylardan oluşan endeksleri takip etmek üzere kurulan borsa yatırım fonları katılma paylarına yatırılır. Portföyde yalnızca Türk Lirası cinsinden varlık ve işlemler yer alır; yabancı para cinsinden varlıklar, altın ve diğer kıymetli madenler ile bunlara dayalı araçlara yatırım yapılmaz.",
+    "taxation": "Gerçek ve tüzel kişiler için %0 stopaj.",
+    "trading_terms": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. Emir giriş saati 13:30’dur. 13:30’dan önce verilen alım ve satım emirleri t+1 fiyatıyla; alımda t+1, satımda t+2 valörle gerçekleşir. 13:30’dan sonra verilen emirler t+2 fiyatıyla; alımda t+2, satımda t+3 valörle gerçekleşir. TEFAS işlemlerinde asgari alım-satım tutarı ayrıca belirlenir.",
+    "compare_measure": "%90 BIST Temettü Getiri Endeksi (XTMTU) + %10 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "03 Ağustos 2022",
+    "annual_fee": "%3.20"
 }

@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Siber Güvenlik Teknolojileri Değişken Fon",
-    "Fon Kodu": "SGT",
-    "Fonun Eşik Değeri": null,
-    "Fonun Karşılaştırma Ölçütü": "%65 Nasdaq CTA Cybersecurity Net Total Return Index + %25 BIST Teknoloji Ağırlık Sınırlandırmalı Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "19.02.2025",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcılar ve TEFAS aracılığıyla alınıp satılabilir. Emir saatine göre fiyat t+1 veya t+2, valör t+1 ila t+4 olarak uygulanır.",
-    "Yıllık Fon Yönetim Ücreti": "%2.70",
-    "Yatırım Stratejisi": "Fon toplam değerinin asgari %80’i siber güvenlik alanında faaliyet gösteren yerli ve yabancı şirketlerin paylarına, ilgili temaya yatırım imkânı sağlayan yatırım fonları ve ETF’lere yatırılır.",
-    "Yatırımcı Profili": "Siber güvenlik temasına yatırım yapmak isteyen, orta-uzun vadeli bakış açısına sahip, tematik fonlarla portföyünü çeşitlendirmek isteyen yatırımcılar"
+    "investor_profile": "Siber güvenlik alanına yatırım yapmak isteyen, birikimlerini değerlendirirken orta-uzun vadeli bakan, tematik yatırım fonlarıyla portföyünü çeşitlendirmek isteyen ve TL ile fon alımı yapmak isteyen yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin asgari %80’i devamlı olarak siber güvenlik alanında faaliyet gösteren şirketlerin yerli/yabancı ortaklık paylarına, Amerikan ve Global Depo Sertifikalarına, yerli özel sektör borçlanma araçlarına, yerli kira sertifikalarına ve ilgili temaya yatırım imkanı sağlayan yerli/yabancı yatırım fonları ile borsa yatırım fonlarına yatırılır. Fon opsiyon satıcısı olarak opsiyon sözleşmelerine taraf olamaz.",
+    "taxation": "Gerçek kişiler için %17.5 ve tüzel kişiler için %0 stopaj uygulanmaktadır.",
+    "trading_terms": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. Emirler 13:30’a kadar girildiğinde alım-satım fiyatı t+1, valör alımda t+1 satımda t+3; 13:30’dan sonra girildiğinde fiyat t+2, valör alımda t+2 satımda t+4 olarak uygulanır. TEFAS işlemleri için asgari alım/satım tutarı ayrıca belirlenir.",
+    "compare_measure": "%65 Nasdaq CTA Cybersecurity Net Total Return Index + %25 BIST Teknoloji Ağırlık Sınırlandırmalı Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "19.02.2025",
+    "annual_fee": "%2.70"
 }

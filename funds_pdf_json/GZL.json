@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Tarım ve Gıda Sektörü Değişken Fon",
-    "Fon Kodu": "GZL",
-    "Fonun Eşik Değeri": "",
-    "Fonun Karşılaştırma Ölçütü": "%40 Indxx Global Agriculture Net Total Return USD Endeksi (IGAINT) + %25 Dynamic Food & Beverage Intellidex Getiri Endeksi (DZFTR) + %25 BIST Gıda Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "27.09.2021",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0",
-    "Alım Satım Esasları": "Günlük; 13:30’a kadar verilen emirlerde fiyat t+1, valör t+1 (alım) / t+3 (satım), 13:30’dan sonra verilen emirlerde fiyat t+2, valör t+2 (alım) / t+4 (satım)",
-    "Yıllık Fon Yönetim Ücreti": "%2.70",
-    "Yatırım Stratejisi": "Fon toplam değerinin asgari %80’inin tarım ve gıda sektörlerinde faaliyet gösteren şirketlerin yerli/yabancı payları, ADR/GDR’leri, borçlanma araçları, kira sertifikaları ve bu temaya yatırım yapan fonlara yatırılması",
-    "Yatırımcı Profili": "Tarım ve gıda sektörüne yatırım yapmak isteyen, orta-uzun vadeli bakış açısına sahip yatırımcılar"
+    "investor_profile": "Tarım ve gıda sektörüne yatırım yapmak isteyen, farklı yatırım temalarına merak duyan, birikimlerini değerlendirirken orta-uzun vade bakış açısıyla düşünen ve TL ile fon alımı yapmak isteyen yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin devamlı olarak asgari %80’i tarım ve gıda sektörlerinde faaliyet gösteren şirketlerin veya bu şirketlere servis/ürün sağlayan şirketlerin ihraç ettikleri yerli/yabancı hisselere, ADR ve GDR’lere, yerli/yabancı borçlanma araçlarına, kira sertifikalarına yatırım yapacaktır. Ayrıca bu temaya yatırım imkanı sağlayan yerli/yabancı yatırım fonları ve borsa yatırım fonlarına da yatırım yapabilir. Portföy dağılımı ve para birimleri portföy yöneticisinin piyasa görüşüne göre şekillenir.",
+    "taxation": "Gerçek kişiler için %17.5 ve tüzel kişiler için %0 stopaj uygulanmaktadır.",
+    "trading_terms": "Fon, Garanti BBVA şubeleri, internet şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. Emirler saat 13:30’a kadar girildiğinde alım ve satım işlemleri t+1 fiyatla gerçekleşir; 13:30’dan sonra girilen emirlerde fiyat t+2’dir. Valör süreleri alımda t+1 veya t+2, satımda ise t+3 veya t+4 olarak uygulanır. TEFAS işlemlerinde asgari alım/satım tutarları ayrıca belirlenir.",
+    "compare_measure": "%40 Indxx Global Agriculture Net Total Return USD Endeksi (IGAINT) + %25 Dynamic Food & Beverage Intellidex Getiri Endeksi (DZFTR) + %25 BIST Gıda Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "27.09.2021",
+    "annual_fee": "%2.70"
 }

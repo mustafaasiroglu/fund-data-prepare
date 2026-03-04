@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Yabancı Teknoloji Hisse Senedi Fonu",
-    "Fon Kodu": "GUH",
-    "Fonun Eşik Değeri": null,
-    "Fonun Karşılaştırma Ölçütü": "%95 Nasdaq 100 Teknoloji Sektörü Getiri Endeksi + %5 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "28.04.2014",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0",
-    "Alım Satım Esasları": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcılar ve TEFAS üzerinden alınıp satılabilir",
-    "Yıllık Fon Yönetim Ücreti": "%3.00",
-    "Yatırım Stratejisi": "Global teknoloji sektöründeki hisse senetleri, depo sertifikaları ve teknoloji temalı yabancı ETF’lere yatırım",
-    "Yatırımcı Profili": "Orta-uzun vadeli, global teknoloji sektörünü takip eden, risk toleransı yüksek yatırımcılar"
+    "investor_profile": "Orta-uzun vadeli bakış açısına sahip, global teknoloji sektörlerini takip eden, yatırımlarının bir kısmını teknoloji alanında değerlendirmek isteyen, teknoloji sektörü endekslerindeki hisse senetleri ve borsa yatırım fonlarından oluşan bir portföye yatırım yapmak isteyen ve risk toleransı yüksek yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon, global teknoloji sektörüne yatırım yapmak isteyen yatırımcılara yöneliktir. Portföyünün en az %80’i devamlı olarak teknoloji, teknolojik donanım, telekomünikasyon, elektronik ticaret, biyoteknoloji, medikal teknoloji, yazılım, etkileşimli medya ve hizmetler gibi teknoloji temalı endekslerde yer alan yabancı ortaklık payları (hisse senetleri), depo sertifikaları ve bu endekslere dayalı yabancı borsa yatırım fonlarından oluşur. Amaç, ilgili teknoloji sektörlerindeki değer artışlarından getiri sağlamaktır.",
+    "taxation": "Gerçek kişiler için %17.5 stopaj, tüzel kişiler için %0 stopaj uygulanmaktadır.",
+    "trading_terms": "Fon; Garanti BBVA Şubeleri, İnternet ve Mobil Şube, Kurucu’nun anlaşmalı dağıtıcı kuruluşları ve TEFAS aracılığıyla alınıp satılabilir. TEFAS işlemlerinde asgari alım-satım tutarları ayrıca belirlenir. Emirler 13:30’a kadar verildiğinde alım ve satım fiyatı t+1, valör alımda t+1, satımda t+3; 13:30’dan sonra verildiğinde fiyat t+2, valör alımda t+2, satımda t+4 olarak uygulanır.",
+    "compare_measure": "%95 Nasdaq 100 Teknoloji Sektörü Getiri Endeksi (Nasdaq-100 Technology Sector Total Return Index) + %5 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "28.04.2014",
+    "annual_fee": "%3.00"
 }

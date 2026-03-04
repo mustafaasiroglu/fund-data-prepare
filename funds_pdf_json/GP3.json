@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Üçüncü Serbest (Döviz-Avro) Fon",
-    "Fon Kodu": "GP3",
-    "Fonun Eşik Değeri": "%100 BIST - KYD 1 Aylık Mevduat EUR Endeksi",
-    "Fonun Karşılaştırma Ölçütü": "BIST - KYD 1 Aylık Mevduat EUR Endeksi",
-    "Fonun Halka Arz Tarihi": "05.11.2025",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon sadece Garanti BBVA üzerinden Nitelikli Yatırımcılar tarafından alınıp satılabilir, TEFAS’ta işlem görmez. Emirler 13:30’a kadar ve sonrasında farklı valör ve fiyat esaslarına göre gerçekleşir.",
-    "Yıllık Fon Yönetim Ücreti": "%1",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’i Avro cinsinden ihraç edilen borçlanma araçları, kira sertifikaları ve para ve sermaye piyasası araçlarına yatırılır; amaç Avro bazında getiri sağlamaktır.",
-    "Yatırımcı Profili": "Birikimlerini Euro (Avro) cinsinden değerlendirmek ve orta-uzun vadede döviz bazında getiri elde etmek isteyen nitelikli yatırımcılar"
+    "investor_profile": "Birikimlerini Euro (Avro) cinsinden değerlendirmek ve orta-uzun vadede döviz bazında getiri fırsatından yararlanmak isteyen, sadece nitelikli yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin en az %80’i devamlı olarak T.C. Hazine ve Maliye Bakanlığı tarafından Avro cinsinden ihraç edilen borçlanma araçları ve kira sertifikaları ile ihraççıların Avro cinsinden ihraç edilen para ve sermaye piyasası araçlarına yatırılır. Kalan kısmı yerli veya yabancı TL veya döviz cinsinden para ve sermaye piyasası araçlarına yatırılabilir. Amaç, ağırlıklı olarak Avro cinsi varlıklara yatırım yaparak döviz bazında getiri sağlamaktır.",
+    "taxation": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon sadece Garanti BBVA üzerinden nitelikli yatırımcılar tarafından alınıp satılabilir, TEFAS’ta işlem görmez. Emir giriş saati 13:30’dur. Emir giriş saatinden önce verilen alım ve satım emirlerinde fiyat t+1, valör t+1; emir giriş saatinden sonra verilen emirlerde fiyat t+2, valör alımda t+2, satımda t+3 olarak uygulanır.",
+    "compare_measure": "%100 BIST - KYD 1 Aylık Mevduat EUR Endeksi",
+    "offering_date": "05.11.2025",
+    "annual_fee": "%1"
 }

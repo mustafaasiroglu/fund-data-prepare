@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy İkinci Fon Sepeti Fonu",
-    "Fon Kodu": "GZJ",
-    "Fonun Eşik Değeri": "%100 BIST - KYD 1 Aylık Mevduat TL Endeksi",
-    "Fonun Karşılaştırma Ölçütü": "",
-    "Fonun Halka Arz Tarihi": "10 Mart 2021",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon; Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcılar ve TEFAS üzerinden alınıp satılabilir. Emir saatine göre fiyat ve valör t+1, t+2 ve t+3 olarak uygulanır.",
-    "Yıllık Fon Yönetim Ücreti": "%1.90",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’i yatırım fonları ve borsa yatırım fonlarına yatırılır. Orta ve uzun vadede TL bazında yüksek getiri hedeflenir; yurt içi ve yurt dışı TL ve dövize endeksli yerli/yabancı fonlara yatırım yapılabilir. Dağılım piyasa koşullarına göre aktif olarak yönetilir.",
-    "Yatırımcı Profili": "Orta-uzun vadede TL bazında yüksek getiri hedefleyen, tek fonla dinamik varlık dağılımı isteyen, aktif yönetimi tercih eden ve yüksek volatiliteye toleranslı yatırımcılar."
+    "investor_profile": "Birikimlerini değerlendirirken orta-uzun vadede TL bazında yüksek bir getiri potansiyeli yakalamayı hedefleyen, tek bir yatırım fonuna yatırım yaparak dinamik bir varlık dağılımı ile birikimlerini kolayca çeşitlendirmek isteyen, portföyünde piyasa şartlarına göre aktif yönetilen bir yatırım fonuna yer vermek isteyen ve yüksek volatiliteye toleranslı olan yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin en az %80’i devamlı olarak yatırım fonları ve borsa yatırım fonlarının katılma paylarına yatırılır. Fon, orta ve uzun vadede TL bazında yüksek getiri sağlamayı hedefler. Bu doğrultuda yurt içi ve yurt dışında TL ve dövize endeksli sermaye piyasası araçlarına yatırım yapan yerli/yabancı yatırım fonu ve borsa yatırım fonu katılma paylarına yatırım yapılabilir. Portföy dağılımı piyasa koşullarına ve portföy yöneticisinin görüşüne göre değişkenlik gösterebilir ve risk/volatilite açısından bir sınırlama bulunmamaktadır.",
+    "taxation": "Gerçek kişiler için %17.5 ve tüzel kişiler için %0 stopaj uygulanmaktadır.",
+    "trading_terms": "Fon; Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. TEFAS işlemlerinde asgari alım-satım tutarları ayrıca belirlenir. 12:30’a kadar verilen alım ve satım emirleri t+1 fiyat ve t+1 valörle, bu saatten sonra verilen emirler t+2 fiyat ve t+2 (satımda t+3) valörle gerçekleşir.",
+    "compare_measure": "%100 BIST - KYD 1 Aylık Mevduat TL Endeksi",
+    "offering_date": "10 Mart 2021",
+    "annual_fee": "%1.90"
 }

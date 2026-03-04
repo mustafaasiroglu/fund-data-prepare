@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Garanti BBVA İklim Endeksi Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
-    "Fon Kodu": "GIE",
-    "Fonun Eşik Değeri": "",
-    "Fonun Karşılaştırma Ölçütü": "%90 Garanti BBVA İklim Getiri Endeksi (GBNIE) + %10 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "09.01.2023",
-    "Vergilendirme": "Gerçek ve Tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon, Garanti BBVA şubeleri ve TEFAS üzerinden alınıp satılabilir; işlemler günlük olup emir saatine göre t+1, t+2 valör uygulanır",
-    "Yıllık Fon Yönetim Ücreti": "%2",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’i Garanti BBVA İklim Endeksi’nde yer alan paylara ve bu endeksi takip eden ETF’lere yatırılır",
-    "Yatırımcı Profili": "Sürdürülebilirlik ve iklim temalı, TL bazında getiri hedefleyen, orta-uzun vadeli ve yüksek risk toleransına sahip yatırımcılar"
+    "investor_profile": "Birikimlerini sürdürülebilirlik ve iklim alanında değerlendirmek isteyen, TL bazında getiri potansiyeli elde etmeyi hedefleyen, hisse senedi yoğun fon olması nedeniyle orta-uzun vadeli düşünen ve yüksek risk toleransına sahip yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin en az %80’i devamlı olarak Garanti BBVA İklim Endeksi’nde (GBNIE) yer alan ihraççı paylarına ve bu paylardan oluşan endeksleri takip etmek üzere kurulan borsa yatırım fonlarının katılma paylarına yatırılır. Portföyde yer alacak ortaklık payları, baz alınan endeks ile fon birim pay değeri arasındaki korelasyon katsayısı en az %90 olacak şekilde örnekleme yoluyla seçilir. Fon portföyünde yalnızca Türk Lirası cinsinden varlık ve işlemler yer alır.",
+    "taxation": "Gerçek ve tüzel kişiler için %0 stopaj uygulanmaktadır.",
+    "trading_terms": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. TEFAS işlemleri için asgari alım/satım tutarları ayrıca belirlenir. Emirler 13:30’a kadar verilirse alım ve satım işlemleri t+1 fiyatıyla, sonrasında t+2 fiyatıyla gerçekleşir; valör süreleri işlemin zamanına göre t+1 ile t+3 arasında değişir.",
+    "compare_measure": "%90 Garanti BBVA İklim Getiri Endeksi (GBNIE) + %10 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "09 Ocak 2023",
+    "annual_fee": "%2"
 }

@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy BIST 100 Dışı Şirketler Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
-    "Fon Kodu": "GOH",
-    "Fonun Eşik Değeri": null,
-    "Fonun Karşılaştırma Ölçütü": "%90 BIST Tüm-100 Getiri Endeksi (XTUMY) + %10 BIST KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "31.05.2021",
-    "Vergilendirme": "Gerçek kişiler ve tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. Emirler 13:30'a kadar verildiğinde t+1 fiyat ve valör, sonrasında t+2 fiyat ve t+2/t+3 valör uygulanır.",
-    "Yıllık Fon Yönetim Ücreti": "%3.20",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’i BIST Tüm-100 Endeksi’nde (XTUMY) yer alan, BIST 100 dışında kalan yerli şirketlerin paylarına ve bu paylara dayalı borsa yatırım fonlarına yatırılır. Portföy yalnızca TL cinsinden varlıklardan oluşur.",
-    "Yatırımcı Profili": "Orta-uzun vadeli düşünen, hisse senedi piyasalarını bilen ve yüksek risk toleransına sahip yatırımcılar"
+    "investor_profile": "Birikimlerini değerlendirirken orta-uzun vadeli bakan, BIST 100 Dışı Şirketlerin hisse senedi performanslarından yararlanmak isteyen, hisse senedi işlemlerini bilen ve hisse senedi içeren yatırım fonlarına portföyünde daha önce yer vermiş, yüksek risk toleransına sahip yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon, BIST 100 dışında kalan şirketlere yatırım yaparak birikimlerini değerlendirmek isteyen yatırımcılar için tasarlanmıştır. Fon toplam değerinin en az %80’i devamlı olarak BIST Tüm-100 Endeksi’nde (XTUMY) yer alan yerli ortaklık paylarına ve bu paylardan oluşan endeksleri takip etmek üzere kurulan borsa yatırım fonları katılma paylarına yatırılır. Fon portföyünde yalnızca Türk Lirası cinsinden varlık ve işlemler yer alır; yabancı para birimi cinsinden varlıklar, altın ve diğer kıymetli madenler ile bunlara dayalı sermaye piyasası araçları ve türevler yer almaz.",
+    "taxation": "Gerçek kişiler ve tüzel kişiler için %0 stopaj.",
+    "trading_terms": "Fon, tüm Garanti BBVA Şubeleri, İnternet ve Mobil Şube, Kurucu’nun aktif imzalamış olduğu anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. TEFAS üzerinden gerçekleşen işlemler için asgari alım/satım tutarı ayrıca belirlenir. Emirler saat 13:30’a kadar girildiğinde alım ve satım işlemleri t+1 fiyat ve t+1 valör ile, 13:30’dan sonra girildiğinde t+2 fiyat ve t+2/t+3 valör ile gerçekleşir.",
+    "compare_measure": "%90 BIST Tüm-100 Getiri Endeksi (XTUMY) + %10 BIST KYD Repo (Brüt) Endeksi",
+    "offering_date": "31.05.2021",
+    "annual_fee": "%3.20"
 }

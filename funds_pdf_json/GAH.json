@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Mutlak Getiri Hedefli Değişken Fon",
-    "Fon Kodu": "GAH",
-    "Fonun Eşik Değeri": "%100 BIST-KYD 1 Aylık Mevduat TL Endeksi",
-    "Fonun Karşılaştırma Ölçütü": "Belirtilmemiş",
-    "Fonun Halka Arz Tarihi": "12.02.2018",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon TEFAS’ta işlem görür. Emirler 13:30’a kadar girildiğinde alım-satım fiyatı t+1, valör t+1; 13:30 sonrası fiyat t+2, valör alımda t+2 satımda t+3",
-    "Yıllık Fon Yönetim Ücreti": "%2.70",
-    "Yatırım Stratejisi": "Çoklu varlık stratejisiyle yurtiçi ve yurtdışı piyasalarda farklı varlık sınıflarına yatırım yaparak orta-uzun vadede TL mevduat üzerinde mutlak getiri hedefler",
-    "Yatırımcı Profili": "TL mevduat üzerinde getiri arayan, çoklu varlık stratejisine ilgi duyan, orta-uzun vadeli bakış açısına sahip yatırımcılar"
+    "investor_profile": "TL mevduat üzerinde bir getiri potansiyeli elde etmek isteyen, çoklu varlık stratejisi ile yönetilen bir fona portföyünde yer vermek isteyen, birikimlerini değerlendirirken orta-uzun vade bakış açısıyla düşünen ve TL ile fon alımı yapmak isteyen yatırımcılara yöneliktir.",
+    "investment_strategy": "Fonun temel amacı, uzun vadeli yatırım perspektifiyle TL mevduat üzerinde bir getiri sağlamaktır. Fon; yurtiçi ve yurtdışı piyasalarda TL ve dövize endeksli kamu ve/veya özel sektör borçlanma araçları, ortaklık payları, kira sertifikaları, yatırım fonları, altın ve diğer kıymetli madenler ile bunlara dayalı sermaye piyasası araçlarına yatırım yaparak orta-uzun vadede TL bazında mutlak getiri sağlamayı hedefler. Olumsuz piyasa koşullarında riskleri azaltmak amacıyla türev araçlarda kısa pozisyonlar alabilir.",
+    "taxation": "Gerçek kişiler için %17.5 ve tüzel kişiler için %0 stopaj uygulanmaktadır.",
+    "trading_terms": "Fon TEFAS’ta işlem görmektedir. TEFAS üzerinden gerçekleşen işlemler için asgari alım/satım tutarları belirlenmektedir. 13:30’dan önce verilen alım ve satım emirleri t+1 fiyat ve valörle, 13:30’dan sonra verilen emirler ise t+2 fiyat ve t+2 veya t+3 valörle gerçekleşmektedir.",
+    "compare_measure": "%100 BIST-KYD 1 Aylık Mevduat TL Endeksi",
+    "offering_date": "12.02.2018",
+    "annual_fee": "%2.70"
 }

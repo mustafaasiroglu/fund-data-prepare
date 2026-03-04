@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Sürdürülebilirlik Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
-    "Fon Kodu": "GZR",
-    "Fonun Eşik Değeri": "",
-    "Fonun Karşılaştırma Ölçütü": "%90 BIST Sürdürülebilirlik Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "18.01.2021",
-    "Vergilendirme": "%0",
-    "Alım Satım Esasları": "TEFAS üzerinden alınıp satılır; 13:30'a kadar verilen emirlerde fiyat t+1, valör t+1 (satımda t+2), 13:30'dan sonra verilen emirlerde fiyat t+2, valör t+2 (satımda t+3)",
-    "Yıllık Fon Yönetim Ücreti": "%2.20",
-    "Yatırım Stratejisi": "Fon portföyünün en az %80’i oranında BIST Sürdürülebilirlik Endeksi’nde yer alan hisse senetlerine ve bu endeksi takip eden borsa yatırım fonlarına yatırım yaparak sürdürülebilirlik teması kapsamında sermaye kazancı elde etmeyi amaçlar.",
-    "Yatırımcı Profili": "Orta-uzun vadeli bakış açısına sahip, hisse senedi işlemlerini bilen ve yüksek riske toleransı olan yatırımcılar"
+    "investor_profile": "Orta-uzun vadede, kurumsal sürdürülebilirlik performansı yüksek şirketlerin yer aldığı BIST Sürdürülebilirlik Endeksi’nde birikimlerini değerlendirmek isteyen; hisse senedi işlemlerini bilen, daha önce hisse senedi içeren fonlara yatırım yapmış ve yüksek risk toleransına sahip yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon, sürdürülebilirlik temasında yatırım yapmak isteyenler için tasarlanmıştır. Portföyünün en az %80’ini BIST Sürdürülebilirlik Endeksi’nde yer alan ortaklık payları ile bu endeksi takip etmek üzere kurulan borsa yatırım fonlarının katılma paylarına yatırır. Amaç, ağırlıklı olarak bu varlıklara yatırım yaparak sermaye kazancı elde etmektir.",
+    "taxation": "Gerçek kişiler ve tüzel kişiler için %0 stopaj uygulanmaktadır.",
+    "trading_terms": "Fon TEFAS aracılığıyla alınıp satılabilir. Emirler 13:30’a kadar verildiğinde fiyat ve valör t+1, 13:30’dan sonra verildiğinde fiyat t+2, valör t+2 veya t+3 olarak uygulanır. TEFAS işlemleri için asgari alım/satım tutarları ayrıca belirlenir. Fon portföyünde yalnızca TL cinsinden varlıklar yer alır.",
+    "compare_measure": "%90 BIST Sürdürülebilirlik Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "18.01.2021",
+    "annual_fee": "%2.20"
 }

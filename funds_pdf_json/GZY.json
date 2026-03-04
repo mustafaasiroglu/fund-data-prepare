@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Turizm ve Seyahat Sektörü Değişken Fon",
-    "Fon Kodu": "GZY",
-    "Fonun Eşik Değeri": null,
-    "Fonun Karşılaştırma Ölçütü": "%65 Stoxx Global 3000 Travel & Leisure Net Return USD Endeksi + %25 BIST Ulaştırma Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "25.10.2021",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0",
-    "Alım Satım Esasları": "13:30’a kadar girilen alım-satım emirleri t+1 fiyatıyla; 13:30’dan sonra girilen emirler t+2 fiyatıyla gerçekleşir. Valör süreleri alımda t+1/t+2, satımda t+3/t+4 şeklindedir. Garanti BBVA kanalları ve TEFAS üzerinden alım-satım yapılabilir.",
-    "Yıllık Fon Yönetim Ücreti": "%2.70",
-    "Yatırım Stratejisi": "Fon toplam değerinin asgari %80’i turizm, seyahat, konaklama, ulaştırma ve yeme-içme sektörlerinde faaliyet gösteren şirketlerin yerli/yabancı hisse senetleri, ADR/GDR’leri, borçlanma araçları, kira sertifikaları ile bu temaya yatırım yapan fon ve ETF’lere yatırılır.",
-    "Yatırımcı Profili": "Turizm ve seyahat sektörüne yatırım yapmak isteyen, orta-uzun vadeli bakış açısına sahip, farklı yatırım temalarına ilgi duyan yatırımcılar"
+    "investor_profile": "Turizm ve seyahat sektörüne yatırım yapmak isteyen, farklı yatırım temalarına merak duyan, birikimlerini orta-uzun vadede değerlendirmeyi düşünen ve TL ile fon alımı yapmak isteyen yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin asgari %80’i turizm, seyahat, konaklama, ulaştırma, yeme-içme sektörlerinde faaliyet gösteren şirketlerin veya bu şirketlere hizmet/ürün sağlayan şirketlerin yerli ve yabancı hisse senetlerine, ADR/GDR’lerine, yerli/yabancı borçlanma araçlarına, kira sertifikalarına ve bu temaya yatırım imkanı sağlayan yerli/yabancı yatırım fonları ile borsa yatırım fonlarına yatırılır. Portföy dağılımı piyasa koşullarına göre aktif olarak yönetilir.",
+    "taxation": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon; Garanti BBVA şubeleri, internet şubesi, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. Emir giriş saati 13:30’dur. Bu saatten önce verilen alım-satım emirlerinde fiyat t+1, valör alımda t+1, satımda t+3; saatten sonra verilen emirlerde fiyat t+2, valör alımda t+2, satımda t+4 olarak uygulanır. TEFAS işlemlerinde asgari alım-satım tutarı ayrıca belirlenebilir.",
+    "compare_measure": "%65 Stoxx Global 3000 Travel & Leisure Net Return USD Endeksi + %25 BIST Ulaştırma Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "25.10.2021",
+    "annual_fee": "%2.70"
 }

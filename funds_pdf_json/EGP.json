@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Ekim 2028 Sürdürülebilirlik Serbest (Döviz-ABD Doları) Fon",
-    "Fon Kodu": "EGP",
-    "Fonun Eşik Değeri": "%100 BIST-KYD 1 Aylık Mevduat USD Endeksi",
-    "Fonun Karşılaştırma Ölçütü": "%100 BIST-KYD 1 Aylık Mevduat USD Endeksi",
-    "Fonun Halka Arz Tarihi": "10.01.2024",
-    "Vergilendirme": "%17.5",
-    "Alım Satım Esasları": "Alımlar haftalık, satımlar aylık olarak gerçekleştirilir",
-    "Yıllık Fon Yönetim Ücreti": "%1",
-    "Yatırım Stratejisi": "Yeşil ve sürdürülebilir sermaye piyasası araçlarına yatırım yaparak vade sonunda USD bazında tahmin edilebilir getiri hedefleyen serbest fon",
-    "Yatırımcı Profili": "Nitelikli yatırımcılar"
+    "investor_profile": "USD cinsi yatırım yapmayı tercih eden, yaklaşık 4,8 yıllık vadede tahmin edilebilir getiri hedefleyen ve yeşil/sürdürülebilir sermaye piyasası araçlarına yatırım yapmak isteyen Garanti BBVA Nitelikli Yatırımcıları için tasarlanmıştır. Sadece nitelikli yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin en az %80’i ile devamlı olarak Kurul’un Yeşil/Sürdürülebilir Borçlanma Aracı ve Kira Sertifikası Rehberi kapsamında ihraç edilmiş yeşil ve sürdürülebilir sermaye piyasası araçlarına yatırım yapılır. Portföyün tamamına yakını en geç 27.10.2028 tarihinde itfa olacak USD cinsi yeşil/sürdürülebilir sermaye piyasası araçlarından oluşur. Vade sonunda USD bazında tahmin edilebilir getiri hedeflenir.",
+    "taxation": "Gerçek kişiler için %17.5 stopaj, tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon’a girişler haftalık, çıkışlar aylıktır. Alım talimatları haftanın üçüncü iş günü saat 13:30’a kadar verilir; satım talimatları her ayın son iş günü saat 13:30’a kadar iletilir. Vade tarihinden (27.10.2028) önce çıkış yapan yatırımcılardan %2 erken çıkış komisyonu alınır. Vade sonunda otomatik satım yapılır.",
+    "compare_measure": "%100 BIST-KYD 1 Aylık Mevduat USD Endeksi",
+    "offering_date": "10.01.2024",
+    "annual_fee": "Yıllık %1"
 }

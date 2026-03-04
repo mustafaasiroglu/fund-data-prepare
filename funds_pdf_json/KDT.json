@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Katılım Serbest (Döviz) Fon",
-    "Fon Kodu": "KDT",
-    "Fonun Eşik Değeri": "%100 BIST-KYD 1 Aylık Kar Payı USD Endeksi",
-    "Fonun Karşılaştırma Ölçütü": "",
-    "Fonun Halka Arz Tarihi": "29 Nisan 2024",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcılar ve TEFAS aracılığıyla alınıp satılabilir. İşlemler TL ve USD cinsinden yapılır. Emir saatine göre t+1, t+2 ve t+3 valörlü işlemler uygulanır.",
-    "Yıllık Fon Yönetim Ücreti": "%0.40",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’i döviz cinsinden ihraç edilen kira sertifikaları ve faizsiz finans ilkelerine uygun para ve sermaye piyasası araçlarına yatırılır. Yatırımlar yalnızca faizsiz finans ilkelerine uygun varlıklardan oluşur.",
-    "Yatırımcı Profili": "Faizsiz/katılım finans ilkelerine uygun yatırım yapmak isteyen ve serbest fon niteliği gereği yalnızca nitelikli yatırımcılar"
+    "investor_profile": "Faizsiz/katılım finans ilkelerine uygun yatırım araçlarına portföyünde yer vermek isteyen ve serbest fon türü olması nedeniyle sadece Nitelikli Yatırımcı statüsüne sahip yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin en az %80’i devamlı olarak T.C. Hazine ve Maliye Bakanlığı tarafından döviz cinsinden ihraç edilen kira sertifikaları ile yerli ihraççıların döviz cinsinden ihraç edilen faizsiz finans ilkelerine uygun para ve sermaye piyasası araçlarına yatırılır. Fon yalnızca faizsiz finans ilkelerine uygun varlıklara yatırım yapar ve uygunluk Türkiye Finans Katılım Bankası A.Ş. Danışma Komitesi tarafından gözetilir.",
+    "taxation": "Gerçek kişiler için %17.5 stopaj, tüzel kişiler için %0 stopaj uygulanmaktadır.",
+    "trading_terms": "Fon katılma payları Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. İşlemler TL ve USD cinsinden yapılabilir. Fon payları A (TL) ve B (USD) grubu olarak ayrılmıştır. Emir giriş saatine göre fiyat ve valör süreleri t+1, t+2 ve t+3 olarak uygulanmaktadır.",
+    "compare_measure": "%100 BIST-KYD 1 Aylık Kar Payı USD Endeksi",
+    "offering_date": "29 Nisan 2024",
+    "annual_fee": "%0.40"
 }

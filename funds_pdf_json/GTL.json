@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Birinci Para Piyasası (TL) Fonu",
-    "Fon Kodu": "GTL",
-    "Fonun Eşik Değeri": null,
-    "Fonun Karşılaştırma Ölçütü": "%15 BIST-KYD DİBS 91 Gün Endeksi + %20 BIST-KYD ÖSBA Sabit Endeksi + %30 BIST-KYD Repo (Brüt) Endeksi + %35 BIST-KYD 1 Aylık Mevduat TL Endeksi",
-    "Fonun Halka Arz Tarihi": "18.02.2013",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon alım ve satım işlemleri iş günlerinde belirlenen saat aralıklarında Garanti BBVA kanalları ve anlaşmalı kurumlar üzerinden yapılır; işlemler zamanına göre aynı gün veya sonraki iş günü fiyatından gerçekleşir.",
-    "Yıllık Fon Yönetim Ücreti": "%1.40",
-    "Yatırım Stratejisi": "Fon toplam değerinin tamamı vadesine en fazla 184 gün kalmış, likiditesi yüksek TL cinsi para ve sermaye piyasası araçlarına yatırılır; portföyün ağırlıklı ortalama vadesi 45 günü aşmaz.",
-    "Yatırımcı Profili": "Düşük riskli, likiditesi yüksek ve istikrarlı getiri arayan yatırımcılar"
+    "investor_profile": "Birikimlerini değerlendirirken düşük riskli aynı zamanda likiditesi yüksek enstrümanlara yatırım yaparak getiri potansiyeli elde etmek isteyen, istikrarlı ve düzenli getiri hedefleyerek günlük olarak getiri takibi yapmak isteyen, düşük risk profilindeki yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin tamamı, devamlı olarak vadesine en fazla 184 gün kalmış, likiditesi yüksek para ve sermaye piyasası araçlarına yatırılır. Fon portföyünün günlük olarak hesaplanan ağırlıklı ortalama vadesi 45 günü aşamaz. Fon portföyüne yalnızca TL cinsi varlıklar ve işlemler dahil edilir; yabancı para cinsi varlıklar, altın ve diğer kıymetli madenler ile bunlara dayalı sermaye piyasası araçlarına yer verilmez. Amaç ana para değerini koruyarak pozitif getiri potansiyeli sağlamaktır.",
+    "taxation": "Gerçek kişiler için %17.5 stopaj, tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon alım işlemleri Garanti BBVA kanallarından iş günlerinde 00:00-16:30 saatleri arasında aynı gün fiyatından, 18:00-24:00 saatleri arasında ise ertesi iş günü fiyatından yapılır. Anlaşmalı diğer kurumlardan alımlar iş günleri 09:00-13:30 arasında gerçekleşir. Fon satım işlemleri Garanti BBVA kanallarından 00:00-24:00 saatleri arasında, şubelerden 09:00-16:30 arasında yapılır. Fiyat hesaplama saatlerinde (17:30-18:00) geri alım emri alınmaz.",
+    "compare_measure": "%15 BIST-KYD DİBS 91 Gün Endeksi + %20 BIST-KYD ÖSBA Sabit Endeksi + %30 BIST-KYD Repo (Brüt) Endeksi + %35 BIST-KYD 1 Aylık Mevduat TL Endeksi",
+    "offering_date": "18.02.2013",
+    "annual_fee": "%1.40"
 }

@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Blockchain Teknolojileri Değişken Fon",
-    "Fon Kodu": "GBV",
-    "Fonun Eşik Değeri": "",
-    "Fonun Karşılaştırma Ölçütü": "%65 Nasdaq Blockchain Economy Net Total Return USD Endeksi + %25 BIST Teknoloji Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "04.10.2021",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon, Garanti BBVA şubeleri ve TEFAS üzerinden alınıp satılabilir. 13:30 öncesi verilen emirlerde alım-satım fiyatı t+1, valör alımda t+1 satımda t+3; 13:30 sonrası verilen emirlerde fiyat t+2, valör alımda t+2 satımda t+4 olarak uygulanır.",
-    "Yıllık Fon Yönetim Ücreti": "%2.70",
-    "Yatırım Stratejisi": "Fon toplam değerinin asgari %80’i blockchain teknolojilerini kullanan veya bu alanda faaliyet gösteren şirketlerin yerli ve yabancı sermaye piyasası araçlarına yatırım yapacak şekilde yönetilir.",
-    "Yatırımcı Profili": "Blockchain teknolojilerine yatırım yapmak isteyen, farklı yatırım temalarına ilgi duyan, orta-uzun vadeli bakış açısına sahip yatırımcılar"
+    "investor_profile": "Blockchain (blokzincir) teknolojilerine yatırım yapmak isteyen, farklı yatırım temalarına merak duyan, birikimlerini orta-uzun vadede değerlendirmeyi hedefleyen ve TL ile fon alımı yapmak isteyen yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin asgari %80’i, blockchain teknolojilerini kullanan, bu teknolojilere yönelik Ar-Ge faaliyetlerinde bulunan, blockchain teknolojilerini destekleyen veya bu alanda ürün/hizmet sunan şirketlerin yerli/yabancı pay senetlerine, ADR/GDR’lerine, borçlanma araçlarına ve kira sertifikalarına yatırılır. Fon ayrıca bu temaya yatırım imkanı sağlayan yerli/yabancı yatırım fonları ve borsa yatırım fonlarına da yatırım yapabilir. Portföy dağılımı ve para birimi piyasa koşullarına göre portföy yöneticisi tarafından belirlenir.",
+    "taxation": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj uygulanmaktadır.",
+    "trading_terms": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. TEFAS işlemlerinde asgari alım/satım tutarları ayrıca belirlenir. 13:30’dan önce verilen alım-satım emirleri t+1 fiyatıyla, 13:30’dan sonra verilen emirler t+2 fiyatıyla gerçekleşir; valör süreleri alımda t+1/t+2, satımda t+3/t+4’tür.",
+    "compare_measure": "%65 Nasdaq Blockchain Economy Net Total Return USD Endeksi + %25 BIST Teknoloji Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "04.10.2021",
+    "annual_fee": "%2.70"
 }

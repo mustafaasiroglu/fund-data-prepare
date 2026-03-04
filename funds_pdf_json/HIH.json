@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Holdingler ve İştirakleri Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
-    "Fon Kodu": "HIH",
-    "Fonun Eşik Değeri": "",
-    "Fonun Karşılaştırma Ölçütü": "%60 BIST Holding ve Yatırım Getiri Endeksi (XHOLD) + %30 BIST100 Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "18.06.2025",
-    "Vergilendirme": "Gerçek kişiler ve tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon alım-satım işlemleri TEFAS üzerinden ve Garanti BBVA şubeleri, internet ve mobil şube aracılığıyla gerçekleştirilir.",
-    "Yıllık Fon Yönetim Ücreti": "%3.20",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’i BIST Holding ve Yatırım Endeksi’nde yer alan holdingler ile bu holdinglerin BIST100 Endeksi içindeki iştiraklerinin hisse senetlerine ve bu hisseleri takip eden borsa yatırım fonlarına yatırılır.",
-    "Yatırımcı Profili": "Orta-uzun vadeli bakış açısına sahip, hisse senedi piyasalarını bilen ve yüksek risk toleransı olan yatırımcılar"
+    "investor_profile": "Birikimlerini orta-uzun vadeli bir bakış açısıyla hisse senedi yatırımlarında değerlendirmek isteyen, hisse senedi işlemlerine ve hisse senedi içeren yatırım fonlarına yatırım yapmaya ilgi duyan ve bu enstrümanları bilen, yüksek risk toleransına sahip yatırımcılara yöneliktir.",
+    "investment_strategy": "Fonun yatırım amacı, yatırımcıların Türkiye’nin holdingleri ve iştiraklerinin büyüme olanaklarına ve kazançlarına iştirak etmesini sağlamaktır. Fon toplam değerinin en az %80’i devamlı olarak BIST Holding ve Yatırım Endeksi’nde yer alan holdingler ile bu holdinglerin BIST100 Endeksi içerisindeki iştiraklerinin ortaklık paylarına ve bu paylardan oluşan endeksleri takip etmek üzere kurulan borsa yatırım fonlarının katılma paylarına yatırılır. Portföy yalnızca Türk Lirası cinsinden varlıklardan oluşur; yabancı para, altın, kıymetli madenler ve bunlara dayalı araçlar ile opsiyon satışı yapılmaz.",
+    "taxation": "Gerçek kişiler ve tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon, tüm Garanti BBVA Şubeleri, İnternet ve Mobil Şube, kurucunun anlaşmalı dağıtıcı kuruluşları ve TEFAS aracılığıyla alınıp satılabilir. TEFAS işlemleri için asgari alım-satım tutarları ayrıca belirlenir. Emirler 13:30’a kadar verildiğinde alım ve satım fiyatı t+1, valör t+1; 13:30’dan sonra verilen emirlerde fiyat t+2, valör alımda t+2, satımda t+3 olarak uygulanır.",
+    "compare_measure": "%60 BIST Holding ve Yatırım Getiri Endeksi (XHOLD) + %30 BIST100 Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "18.06.2025",
+    "annual_fee": "%3.20"
 }

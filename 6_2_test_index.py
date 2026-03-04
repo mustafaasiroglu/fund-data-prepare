@@ -9,6 +9,9 @@ Environment variables required:
 import os
 import json
 import requests
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # ── Configuration ────────────────────────────────────────────────────────────
 SEARCH_ENDPOINT = os.getenv("AZURE_SEARCH_ENDPOINT")
@@ -25,24 +28,34 @@ HEADERS = {
 }
 
 
-default_fields = ["fund_name", 
-                       "fund_code",
-                       "benchmark",
-                       "comparison_criteria",
-                       "ipo_date",
-                       "taxation",
-                       "trading_rules",
-                       "annual_management_fee",
-                        "investment_strategy",
-                        "investor_profile",
-                        "latest_price",
-                        "latest_price_date",
-                        "total_shares",
-                        "investor_count",
-                       "portfolio_size",
-                       "recommended",
-                       "recommendation_date",
-                       ]
+default_fields = [
+    "code",
+    "title_tr",
+    "title_en",
+    "category_tr",
+    "category_en",
+    "first_offering_date",
+    "annual_management_fee",
+    "risk_level",
+    "compare_measure",
+    "taxation",
+    "trading_terms",
+    "investment_strategy",
+    "investor_profile",
+    "pdf_url",
+    "recommended",
+    "latest_price_close",
+    "latest_price_date",
+    "net_asset_value",
+    "return_weekly",
+    "return_one_month",
+    "return_three_month",
+    "return_six_month",
+    "return_from_begin_of_year",
+    "return_one_year",
+    "return_three_year",
+    "return_first_offering_date",
+]
 
 def search_funds(query: str, search_fields: list[str] = None, top: int = 5, filters: str = None, fields: list[str] = default_fields) -> list[dict]:
     """
@@ -106,7 +119,7 @@ if __name__ == "__main__":
     print("\n" + "=" * 60)
     print("TEST 3: Select specific fields – 'altın'")
     print("=" * 60)
-    results = search_funds("altın", top=5, fields=["fund_code", "fund_name", "category_tr", "latest_price", "portfolio_size"])
+    results = search_funds("altın", top=5, fields=["code", "title_tr", "category_tr", "latest_price_close", "net_asset_value"])
     print(results)
 
     # Test 4: Filter by category
@@ -120,5 +133,5 @@ if __name__ == "__main__":
     print("\n" + "=" * 60)
     print("TEST 5: Search investment strategy – 'döviz'")
     print("=" * 60)
-    results = search_funds("döviz", top=5, fields=["fund_code", "fund_name", "investment_strategy", "latest_price"])
+    results = search_funds("döviz", top=5, fields=["code", "title_tr", "investment_strategy", "latest_price_close"])
     print(results)

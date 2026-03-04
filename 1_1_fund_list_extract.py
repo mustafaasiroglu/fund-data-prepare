@@ -62,6 +62,7 @@ try:
                 "alias_tr": alias_tr,
                 "alias_en": alias_en
             })
+            
     # Print fund list to file
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(fund_list, f, ensure_ascii=False, indent=2)

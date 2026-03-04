@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Metaverse ve Yeni Teknolojiler Değişken Fon",
-    "Fon Kodu": "MET",
-    "Fonun Eşik Değeri": null,
-    "Fonun Karşılaştırma Ölçütü": "%65 Solactive Global Metaverse Net Total Return Endeksi + %15 BIST Teknoloji Getiri Endeksi + %10 BIST İletişim Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "21 Mart 2022",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0",
-    "Alım Satım Esasları": "Fon, Garanti BBVA Şubeleri, İnternet Şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. Emirler saat 13:30 öncesi ve sonrası verilmesine göre t+1 / t+2 fiyat ve t+1-t+4 valör esaslarına tabidir.",
-    "Yıllık Fon Yönetim Ücreti": "%2.70",
-    "Yatırım Stratejisi": "Fon toplam değerinin asgari %80’i Metaverse ve yeni teknolojiler alanında faaliyet gösteren şirketlerin sermaye piyasası araçlarına yatırılır.",
-    "Yatırımcı Profili": "Metaverse ve yeni teknolojilere yatırım yapmak isteyen, orta-uzun vadeli bakış açısına sahip, yüksek risk toleransı olan yatırımcılar"
+    "investor_profile": "Metaverse ve Yeni Teknolojilere yatırım yapmak isteyen, birikimlerini orta-uzun vade bakış açısıyla değerlendiren, TL ile fon alımı yapmak isteyen ve yüksek risk toleransına sahip yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin asgari %80’i Metaverse teknolojilerini kullanan veya bu teknolojilere yönelik Ar-Ge faaliyetlerinde bulunan şirketler ile teknoloji, bilgi teknolojileri, iletişim, telekomünikasyon, e-ticaret, biyoteknoloji, medikal teknoloji ve yazılım sektörlerinde faaliyet gösteren şirketlerin sermaye piyasası araçlarına yatırılır. Kripto varlıklar ve kripto para piyasası işlemleri portföye dahil edilmez.",
+    "taxation": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon; Garanti BBVA şubeleri, İnternet Şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. Emirler 13:30’dan önce verilirse alım ve satım fiyatı t+1, valör alımda t+1, satımda t+3; 13:30’dan sonra verilirse fiyat t+2, valör alımda t+2, satımda t+4 olarak uygulanır. TEFAS işlemleri için asgari alım-satım tutarları ayrıca belirlenir.",
+    "compare_measure": "%65 Solactive Global Metaverse Net Total Return Endeksi + %15 BIST Teknoloji Getiri Endeksi + %10 BIST İletişim Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "21 Mart 2022",
+    "annual_fee": "%2.70"
 }

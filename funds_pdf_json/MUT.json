@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Mutlak Getiri Hedefli Hisse Senedi Serbest Fon (Hisse Senedi Yoğun Fon)",
-    "Fon Kodu": "MUT",
-    "Fonun Eşik Değeri": "%100 BIST-KYD 1 Aylık Mevduat TL Endeksi",
-    "Fonun Karşılaştırma Ölçütü": "",
-    "Fonun Halka Arz Tarihi": "21.08.2024",
-    "Vergilendirme": "Gerçek ve tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. Emir giriş saati 13:30’dur (yarım günlerde 10:30).",
-    "Yıllık Fon Yönetim Ücreti": "%2.50",
-    "Yatırım Stratejisi": "Hisse senedi seçimleri ve uzun-kısa pozisyonlar ile piyasa yönünden bağımsız, mutlak getiri hedeflenmektedir. BIST’te işlem gören hisse senetleri ve türev araçlar ağırlıklı olarak kullanılır.",
-    "Yatırımcı Profili": "Düşük volatilite ile TL mevduat üzerinde mutlak getiri hedefleyen, nitelikli yatırımcılar için uygundur."
+    "investor_profile": "Düşük volatilite ile TL mevduat üzerinde mutlak getiri elde etmeyi hedefleyen, Serbest Fon olduğu için Nitelikli Yatırımcılar için uygun yatırımcılar.",
+    "investment_strategy": "Hisse senedi seçimleri ile hisse senedi piyasasının yönünden bağımsız şekilde mutlak getiri yaratmayı hedefler. Ağırlıklı olarak BIST’te işlem gören hisse senetlerinde uzun ve/veya kısa pozisyonlar alınarak, VİOP BIST endekslerinde kısa pozisyonlardan elde edilen getiriler ve türev araçlarla desteklenen arbitraj stratejileriyle TL bazında mevduat üzerinde getiri amaçlanır.",
+    "taxation": "Gerçek kişiler ve tüzel kişiler için %0 stopaj.",
+    "trading_terms": "Fon; Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. Emirler 13:30’a kadar girildiğinde t+1 fiyat ve t+1 valör, sonrasında t+2 fiyat ve t+2/t+3 valör uygulanır. Yarım günlerde emir saati 10:30’dur.",
+    "compare_measure": "%100 BIST-KYD 1 Aylık Mevduat TL Endeksi",
+    "offering_date": "21 Ağustos 2024",
+    "annual_fee": "%2.50"
 }

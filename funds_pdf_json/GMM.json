@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Kar Payı Ödeyen Mart 2027 Serbest (Döviz) Fon",
-    "Fon Kodu": "GMM",
-    "Fonun Eşik Değeri": "%100 BIST-KYD 1 Aylık Mevduat USD Endeksi",
-    "Fonun Karşılaştırma Ölçütü": "BIST-KYD 1 Aylık Mevduat USD Endeksi",
-    "Fonun Halka Arz Tarihi": "12.05.2025",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0",
-    "Alım Satım Esasları": "Alım yalnızca talep toplama döneminde, satım işlemleri aylık periyotlarda yapılır",
-    "Yıllık Fon Yönetim Ücreti": "%1",
-    "Yatırım Stratejisi": "En geç Mart 2027’de itfa olacak USD cinsi eurobondlara yatırım yaparak USD bazında tahmin edilebilir getiri ve yılda 4 kez kar payı sağlamayı hedefler",
-    "Yatırımcı Profili": "Nitelikli yatırımcılar"
+    "investor_profile": "Sadece Nitelikli Yatırımcılar içindir. Nitelikli yatırımcılar, en az 10 milyon TL tutarında Türk ve/veya yabancı para ve sermaye piyasası aracına sahip olan, USD cinsi yatırım yapmayı ve belirli vadede tahmin edilebilir döviz bazında getiri ile düzenli kar payı elde etmeyi hedefleyen gerçek ve tüzel kişilerdir.",
+    "investment_strategy": "Fon, portföyünün tamamına yakını ile en geç 2027 yılı Mart ayı içinde itfa olacak USD cinsi varlık ve işlemlere (özellikle eurobondlara) yatırım yapar. Yaklaşık 1,9 yıllık vade sonunda USD bazında tahmin edilebilir getiri hedefler, fonda vade sonuna kadar kalan yatırımcılar için öngörülebilir getiri sağlamayı amaçlar ve elde edilen getirinin bir kısmını yatırımcılara yılda 4 defa kar payı olarak ödemeyi hedefler.",
+    "taxation": "Vergilendirme gerçek kişiler için %17.5 stopaj, tüzel kişiler için %0 stopaj şeklindedir.",
+    "trading_terms": "Fon’a girişler yalnızca talep toplama döneminde yapılabilir. Fondan çıkışlar aylık periyotlarda mümkündür. Her ayın son iş günü saat 13:30’a kadar verilen satım talimatları aynı ay sonu fiyatından, bu saatten sonra verilenler ise bir sonraki ay sonu fiyatından gerçekleşir. Vade sonundan önce çıkışlarda %2 erken çıkış komisyonu uygulanır. Fon vadesi olan 31.03.2027 tarihinde otomatik olarak bozulur ve çıkış komisyonu alınmaz.",
+    "compare_measure": "%100 BIST-KYD 1 Aylık Mevduat USD Endeksi",
+    "offering_date": "12.05.2025",
+    "annual_fee": "Yıllık %1"
 }

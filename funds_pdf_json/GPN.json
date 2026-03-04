@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Para Piyasası Katılım (TL) Fonu",
-    "Fon Kodu": "GPN",
-    "Fonun Eşik Değeri": "Alt limit bulunmamaktadır",
-    "Fonun Karşılaştırma Ölçütü": "%100 BIST-KYD 1 Aylık Kar Payı TL Endeksi",
-    "Fonun Halka Arz Tarihi": "08.10.2025",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0",
-    "Alım Satım Esasları": "Aynı gün alım-satım imkanı (13:30 öncesi t+0, sonrası t+1)",
-    "Yıllık Fon Yönetim Ücreti": "%1",
-    "Yatırım Stratejisi": "Katılım finans esaslarına uygun, vadesi en fazla 184 gün olan, TL cinsi faizsiz para ve sermaye piyasası araçlarına yatırım yapan para piyasası fonu",
-    "Yatırımcı Profili": "Faizsiz/katılım finans ilkelerine uygun yatırım yapmak ve aynı gün alım-satım imkanı isteyen yatırımcılar"
+    "investor_profile": "Faizsiz/katılım finans ilkelerine uygun yatırım araçlarına portföyünde yer vermek isteyen ve aynı gün alım-satım imkanından yararlanmak isteyen yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon, katılım esaslarına göre yönetilen bir para piyasası fonudur. Toplam değerinin tamamı devamlı olarak vadesine en fazla 184 gün kalmış, likiditesi yüksek, katılım finans ilke ve esaslarına uygun, faize dayalı olmayan TL cinsi para ve sermaye piyasası araçlarına yatırılır. Portföyün ağırlıklı ortalama vadesi 45 günü aşamaz. Yabancı para, altın ve kıymetli madenler portföye dahil edilmez.",
+    "taxation": "Gerçek kişiler için %17.5 ve tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. Fon alımı için alt limit yoktur. 13:30'a kadar verilen emirler t+0 fiyat ve valörle, sonrasında verilen emirler t+1 fiyat ve valörle gerçekleşir (yarım günlerde saat 10:30).",
+    "compare_measure": "%100 BIST-KYD 1 Aylık Kar Payı TL Endeksi",
+    "offering_date": "8 Ekim 2025",
+    "annual_fee": "%1"
 }

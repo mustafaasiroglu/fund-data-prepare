@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Bankacılık Sektörü Hisse Senedi Serbest Fon (Hisse Senedi Yoğun Fon)",
-    "Fon Kodu": "GBJ",
-    "Fonun Eşik Değeri": "Nitelikli yatırımcılar için asgari 10 milyon TL",
-    "Fonun Karşılaştırma Ölçütü": "%90 BIST Banka Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "24.04.2024",
-    "Vergilendirme": "Gerçek kişiler ve tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon; Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. 13:30'a kadar verilen emirler için fiyat t+1, valör t+1 (satımda t+2); 13:30 sonrası emirler için fiyat t+2, valör t+2 (satımda t+3) olarak uygulanır.",
-    "Yıllık Fon Yönetim Ücreti": "%3.20",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’i devamlı olarak BIST’te işlem gören bankacılık sektöründe faaliyet gösteren şirketlerin paylarına ve bankacılık endekslerini takip eden borsa yatırım fonlarına yatırılarak bankacılık sektöründeki değer artışlarından getiri sağlamayı hedefler.",
-    "Yatırımcı Profili": "Orta-uzun vadeli bakış açısına sahip, yüksek getiri hedefleyen, yüksek risk toleransı olan, ağırlıklı olarak hisse senedi ve hisse senedi yoğun fonlara yatırım yapmayı bilen nitelikli yatırımcılar."
+    "investor_profile": "Orta-uzun vadeli bakış açısına sahip, yüksek getiri potansiyeli hedefleyen ve bu amaçla yüksek risk toleransı olan, ağırlıklı olarak hisse senedi ve hisse senedi içeren yatırım fonlarına ilgi duyan, bu enstrümanları bilen Nitelikli Yatırımcılar için uygundur.",
+    "investment_strategy": "Fon toplam değerinin en az %80’i devamlı olarak BIST’te işlem gören bankacılık sektöründe faaliyet gösteren şirketlerin paylarına, bu paylardan oluşan endeksleri takip eden borsa yatırım fonlarına ve pay endekslerine dayalı türev araçlara yatırılır. Fon, bankacılık sektöründeki değer artışlarından yararlanmayı hedefleyen hisse senedi yoğun serbest fondur.",
+    "taxation": "Gerçek kişiler ve tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. Emirler saat 13:30’a kadar iletildiğinde t+1, sonrasında iletildiğinde t+2 fiyatıyla gerçekleşir; valör süreleri t+1 ila t+3 arasındadır. TEFAS işlemleri için asgari alım-satım tutarları ayrıca belirlenir.",
+    "compare_measure": "%90 BIST Banka Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "24 Nisan 2024",
+    "annual_fee": "%3.20"
 }

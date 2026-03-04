@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy BIST 30 Endeksi Hisse Senedi (TL) Fonu",
-    "Fon Kodu": "GAE",
-    "Fonun Eşik Değeri": "",
-    "Fonun Karşılaştırma Ölçütü": "%95 BIST30 Endeksi + %5 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "15.09.2000",
-    "Vergilendirme": "%0 stopaj",
-    "Alım Satım Esasları": "Fon, Garanti BBVA şubeleri ve TEFAS üzerinden günlük alınıp satılabilir; 13:30 öncesi ve sonrası emirlerde farklı fiyat ve valör uygulanır.",
-    "Yıllık Fon Yönetim Ücreti": "%2,051",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’i BIST 30 Endeksi’nde yer alan hisse senetlerine yatırılarak endeks getirisini yaklaşık %90 korelasyonla takip etmeyi hedefler.",
-    "Yatırımcı Profili": "Orta-uzun vadeli bakış açısına sahip, hisse senedi bilgisi olan ve yüksek risk toleransına sahip yatırımcılar"
+    "investor_profile": "Birikimlerini değerlendirirken orta-uzun vadeli bakan, BIST 30 Endeksinde yer alan şirketlerin performansına ortak olmak isteyen, hisse senedi işlemlerini bilen ve hisse senedi içeren yatırım fonlarına portföyünde daha önce yer vermiş, yüksek risk toleransına sahip yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin en az %80’i devamlı olarak BIST30 Endeksi’nde yer alan şirketlerin hisse senetlerine yatırılır. Fon, orta-uzun vadede tasarrufların büyümesini hedefler ve endeks getirisini %90 korelasyon ile takip eder. Portföyde yalnızca Türk Lirası cinsinden varlıklar yer alır; yabancı para, altın, kıymetli madenler ve bunlara dayalı araçlar ile türev araçlara yer verilmez.",
+    "taxation": "Gerçek kişiler ve tüzel kişiler için %0 stopaj.",
+    "trading_terms": "Fon, Garanti BBVA Şubeleri, İnternet ve Mobil Şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. TEFAS işlemleri için asgari alım/satım tutarı ayrıca belirlenir. Emirler 13:30’a kadar verildiğinde alım-satım fiyatı t+1, valör t+1; 13:30’dan sonra verildiğinde fiyat t+2, valör alımda t+2, satımda t+3 olarak uygulanır.",
+    "compare_measure": "%95 BIST30 Endeksi + %5 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "15.09.2000",
+    "annual_fee": "%2,051"
 }

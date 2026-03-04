@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Ekim 2026 Serbest (Döviz-ABD Doları) Fon",
-    "Fon Kodu": "HAG",
-    "Fonun Eşik Değeri": "%100 BIST-KYD 1 Aylık Mevduat USD Endeksi",
-    "Fonun Karşılaştırma Ölçütü": "%100 BIST-KYD 1 Aylık Mevduat USD Endeksi",
-    "Fonun Halka Arz Tarihi": "30.01.2023",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0",
-    "Alım Satım Esasları": "Alımlar haftalık, satımlar aylık yapılır",
-    "Yıllık Fon Yönetim Ücreti": "%1",
-    "Yatırım Stratejisi": "Portföyün tamamına yakını ile 14.10.2026 vadesine kadar itfa olacak USD cinsi kamu ve/veya özel sektör eurobondlarına yatırım yaparak, vade sonunda USD bazında öngörülebilir getiri hedefler",
-    "Yatırımcı Profili": "Nitelikli yatırımcılar"
+    "investor_profile": "Yaklaşık 4 yıllık vadede USD bazında öngörülebilir getiri hedefleyen, döviz cinsi yatırım yapmayı tercih eden Garanti BBVA Nitelikli Yatırımcıları için uygundur.",
+    "investment_strategy": "Fon, portföyünün tamamına yakını ile en geç Ekim 2026’da itfa olacak USD cinsi kamu ve/veya özel sektör eurobondlarına yatırım yapar. 14.10.2026 vade sonuna kadar fonda kalan yatırımcılar için USD bazında öngörülebilir getiri hedeflenir.",
+    "taxation": "Gerçek kişiler için %17.5 stopaj, tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Alımlar haftalık olarak her haftanın üçüncü iş günü saat 13:30’a kadar verilen talimatlarla yapılır; satımlar aylık olarak her ayın son iş günü saat 13:30’a kadar verilir. Vade öncesi çıkışlarda %2 erken çıkış komisyonu uygulanır.",
+    "compare_measure": "%100 BIST-KYD 1 Aylık Mevduat USD Endeksi",
+    "offering_date": "30.01.2023",
+    "annual_fee": "Yıllık %1"
 }

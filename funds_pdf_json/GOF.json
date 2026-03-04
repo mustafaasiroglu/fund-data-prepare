@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Otuzikinci Serbest (Döviz) Fon",
-    "Fon Kodu": "GOF",
-    "Fonun Eşik Değeri": "%100 BIST-KYD 1 Aylık Mevduat USD Endeksi",
-    "Fonun Karşılaştırma Ölçütü": "%100 BIST-KYD 1 Aylık Mevduat USD Endeksi",
-    "Fonun Halka Arz Tarihi": "05.11.2025",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon sadece Garanti BBVA üzerinden ve yalnızca Nitelikli Yatırımcılar tarafından alınıp satılabilir, TEFAS’ta işlem görmez",
-    "Yıllık Fon Yönetim Ücreti": "%1",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’i döviz ve döviz cinsi varlıklara yatırım yapılarak döviz bazında getiri hedeflenir",
-    "Yatırımcı Profili": "Birikimlerini USD cinsinden değerlendirmek ve orta-uzun vadede döviz bazında getiri hedefleyen nitelikli yatırımcılar"
+    "investor_profile": "Birikimlerini USD cinsinden değerlendirmek ve orta-uzun vadede döviz bazında getiri fırsatından yararlanmak isteyen nitelikli yatırımcılar.",
+    "investment_strategy": "Fon toplam değerinin en az %80’i ile devamlı olarak döviz ve döviz cinsi varlık ve işlemlere yatırım yapılarak döviz bazında getiri sağlanması hedeflenmektedir. Bu kapsamda, ağırlıklı olarak T.C. Hazine ve Maliye Bakanlığı tarafından döviz cinsinden ihraç edilen borçlanma araçları ve kira sertifikaları ile yerli ihraççıların döviz cinsinden ihraç ettiği para ve sermaye piyasası araçlarına yatırım yapılır. Fon toplam değerinin azami %20’si TL veya yabancı para cinsinden diğer para ve sermaye piyasası araçlarına yatırılabilir.",
+    "taxation": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon sadece Garanti BBVA üzerinden nitelikli yatırımcılar tarafından alınıp satılabilir ve TEFAS’ta işlem görmez. Emir giriş saati 13:30’dur. Emir giriş saatinden önce verilen alım-satım emirleri t+1 fiyat, t+1 valör; saatten sonra verilen emirler t+2 fiyat, t+2 veya t+3 valör ile gerçekleşir.",
+    "compare_measure": "%100 BIST-KYD 1 Aylık Mevduat USD Endeksi",
+    "offering_date": "05.11.2025",
+    "annual_fee": "%1"
 }

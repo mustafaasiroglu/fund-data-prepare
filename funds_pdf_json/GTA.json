@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Altın Fonu",
-    "Fon Kodu": "GTA",
-    "Fonun Eşik Değeri": "%95 BIST-KYD Altın Fiyat Ağırlıklı Ortalama + %5 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Karşılaştırma Ölçütü": "%95 BIST-KYD Altın Fiyat Ağırlıklı Ortalama + %5 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0",
-    "Alım Satım Esasları": "Fon günlük olarak alınıp satılabilir; emirler 13:30’a kadar verilirse t+1, sonra verilirse t+2 fiyat ve valör ile gerçekleşir. Garanti BBVA kanalları ve TEFAS üzerinden işlem yapılabilir.",
-    "Yıllık Fon Yönetim Ücreti": "%1.95",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’i borsada işlem gören altın, altına dayalı para ve sermaye piyasası araçları ile altına dayalı mevduata yatırılır.",
-    "Yatırımcı Profili": "Türk Lirası birikimleriyle altına yatırım yapmak isteyen, yüksek risk algısına sahip, orta-uzun vadede birikimlerini değerlendirmeyi düşünen yatırımcılar"
+    "investor_profile": "Türk Lirası birikimleriyle altına yatırım yapmak isteyen, yüksek risk algısına sahip, birikimlerini orta-uzun vadede değerlendirmeyi düşünen müşteriler için uygundur.",
+    "investment_strategy": "Fon toplam değerinin en az %80’i devamlı olarak borsada işlem gören altın ve altına dayalı para ve sermaye piyasası araçları ile altına dayalı mevduata yatırılır. Fonun günlük fiyatı belirlenirken Borsa İstanbul Kıymetli Madenler Piyasası’nda geçen standart ons altın işlemlerinin USD bazında ağırlıklı ortalaması ve TCMB tarafından açıklanan USD/TRY döviz alış kuru kullanılır.",
+    "taxation": "Gerçek kişiler için %17.5 ve tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon, Garanti BBVA Şubeleri, İnternet ve Mobil Şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. TEFAS işlemleri için asgari alım/satım tutarı ayrıca belirlenir. Emirler 13:30’a kadar girildiğinde t+1, sonrasında girildiğinde t+2 fiyat ve valör ile gerçekleşir.",
+    "compare_measure": "%95 BIST-KYD Altın Fiyat Ağırlıklı Ortalama + %5 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": null,
+    "annual_fee": "%1.95"
 }

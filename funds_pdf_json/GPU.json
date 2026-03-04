@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Üçüncü Değişken Fon (SMART Büyüme Değişken Fon)",
-    "Fon Kodu": "GPU",
-    "Fonun Eşik Değeri": "Gecelik Türk Lirası referans faiz oranının performans dönemine denk gelen bileşik getirisi",
-    "Fonun Karşılaştırma Ölçütü": "",
-    "Fonun Halka Arz Tarihi": "",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon, Garanti BBVA şubeleri, internet ve mobil şube ile TEFAS üzerinden alınıp satılabilir. Emirler 13:30’a kadar ve sonrasında verilmesine göre t+1, t+2, t+3 valörlü olarak gerçekleşir.",
-    "Yıllık Fon Yönetim Ücreti": "%2.50",
-    "Yatırım Stratejisi": "Portföyün bir kısmı sabit getirili enstrümanlara, kalan kısmı hisse senedi, eurobond, yabancı borsa yatırım fonları ve altın gibi varlıklara yatırılır. Aktif portföy yönetimi ile piyasa koşullarına göre net hisse senedi ve döviz pozisyonları ayarlanır.",
-    "Yatırımcı Profili": "Orta-uzun vadede birikimlerini değerlendirmek isteyen, değişen piyasa koşullarına uyum sağlayabilen ve risk algısı orta-yüksek seviyede olan yatırımcılar"
+    "investor_profile": "Birikimlerini orta-uzun vadede değerlendirip Türk Lirası mevduat üzeri getiri hedefleyen, değişen piyasa koşullarına uyum sağlayabilen bir yatırım aracı arayan, risk algısı orta-yüksek seviyede olan yatırımcılar için uygundur.",
+    "investment_strategy": "Fon, portföyünün bir bölümünü sabit getirili enstrümanlara yatırırken kalan bölümünü hisse senedi, eurobond, yabancı borsa yatırım fonları ve altın gibi yatırım araçlarıyla değerlendirir. Aktif portföy yönetimiyle değişen piyasa koşullarına göre net hisse senedi ve döviz pozisyonlarını ayarlayarak orta-uzun vadede her piyasa koşulunda makul getiri sağlamayı hedefler. Fonun risk değeri SPK mevzuatı çerçevesinde 4-5 aralığındadır.",
+    "taxation": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj uygulanmaktadır.",
+    "trading_terms": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. TEFAS üzerinden yapılan işlemler için asgari alım-satım tutarları ayrıca belirlenir. 13:30'a kadar verilen alım-satım emirlerinde fiyat t+1, valör t+1 (satımda t+2); 13:30'dan sonra verilen emirlerde fiyat t+2, valör t+2 (satımda t+3) olarak uygulanır.",
+    "compare_measure": "Gecelik Türk Lirası referans faiz oranının performans dönemine denk gelen bileşik getirisi",
+    "offering_date": null,
+    "annual_fee": "%2.50"
 }

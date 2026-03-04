@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy İkinci Değişken Fon (SMART Dengeli Değişken Fon)",
-    "Fon Kodu": "GPI",
-    "Fonun Eşik Değeri": "Gecelik Türk Lirası referans faiz oranının performans dönemine denk gelen bileşik getirisi",
-    "Fonun Karşılaştırma Ölçütü": null,
-    "Fonun Halka Arz Tarihi": null,
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon; Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. Emir saatine göre t+1, t+2 ve t+3 valörlü işlemler uygulanır.",
-    "Yıllık Fon Yönetim Ücreti": "%2.50",
-    "Yatırım Stratejisi": "Çoklu varlık stratejisiyle sabit getirili enstrümanlar, hisse senedi, eurobond, yabancı borsa yatırım fonları ve altın gibi araçlara yatırım yapar; aktif portföy yönetimiyle piyasa koşullarına göre pozisyonlar ayarlanır.",
-    "Yatırımcı Profili": "Orta risk seviyesine sahip, birikimlerini orta-uzun vadede değerlendirmek ve mevduat üzeri getiri hedefleyen yatırımcılar"
+    "investor_profile": "Birikimlerini orta-uzun vadede değerlendirip Türk Lirası mevduat üzeri getiri hedefleyen, değişen piyasa koşullarına uyum sağlayabilen bir yatırım aracı arayan, risk algısı orta seviyede olan yatırımcılar için uygundur.",
+    "investment_strategy": "Fon, portföyünün bir bölümünü sabit getirili enstrümanlara yatırırken kalan bölümünü hisse senedi, eurobond, yabancı borsa yatırım fonu ve altın gibi yatırım araçlarıyla değerlendirir. Aktif portföy yönetimi stratejisiyle piyasa koşullarına göre net hisse senedi ve döviz pozisyonlarını ayarlayarak orta-uzun vadede makul getiriler hedefler. Fonun risk değeri SPK mevzuatı çerçevesinde 3 ila 4 aralığındadır.",
+    "taxation": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon, Garanti BBVA Şubeleri, İnternet ve Mobil Şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. TEFAS üzerinden yapılan işlemler için asgari alım/satım tutarları ayrıca belirlenir. Emirler saat 13:30’a kadar girildiğinde alım ve satım işlemleri t+1 fiyatıyla gerçekleşir; 13:30 sonrası girilen emirlerde fiyat t+2’dir. Valör süreleri alım ve satım işlemlerinde t+1 ile t+3 arasında değişmektedir.",
+    "compare_measure": "Gecelik Türk Lirası referans faiz oranının performans dönemine denk gelen bileşik getirisi",
+    "offering_date": null,
+    "annual_fee": "%2.50"
 }

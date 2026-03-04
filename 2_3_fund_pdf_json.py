@@ -3,9 +3,12 @@ import re
 import requests
 import json
 import time
+from dotenv import load_dotenv
 
-llm_endpoint = "https://mstf-openai-sw.openai.azure.com/"
-llm_model = "gpt-5.2-chat"
+load_dotenv()
+
+llm_endpoint = os.getenv("AZURE_OPENAI_ENDPOINT")
+llm_model = os.getenv("AZURE_OPENAI_DEPLOYMENT")  
 llm_api_key = os.getenv("AZURE_OPENAI_KEY")
 
 output_folder = "funds_pdf_json"
@@ -19,16 +22,13 @@ def extract_fund_data_from_md(alias):
     # Use LLM to extract data from md_content
     # This is a placeholder for the actual LLM extraction logic
     sample_data = {
-        "Fon Adı": "Example Fund",
-        "Fon Kodu": "EXAMPLE",
-        "Fonun Eşik Değeri": "1000 TL",
-        "Fonun Karşılaştırma Ölçütü": "BIST 100",
-        "Fonun Halka Arz Tarihi": "01.01.2020",
-        "Vergilendirme": "%15",
-        "Alım Satım Esasları": "Günlük",
-        "Yıllık Fon Yönetim Ücreti": "%1",
-        "Yatırım Stratejisi": "Hisse senedi ağırlıklı",
-        "Yatırımcı Profili": "Orta riskli yatırımcı"
+        "investor_profile": "Yatırımcı Profili",
+        "investment_strategy": "Yatırım Stratejisi",
+        "taxation": "Vergilendirme",
+        "trading_terms": "Alım Satım Esasları",
+        "compare_measure": "Fonun Eşik Değeri eg.  %100 BIST-KYD1 Aylık Mevduat TL Endeksi",
+        "offering_date": "Fonun Halka Arz Tarihi",
+        "annual_fee": "Yıllık Fon Yönetim Ücreti"
     }
 
     prompt = f"""Extract the following information from the given markdown content about a fund. Return ONLY a valid JSON object, no markdown formatting, no code blocks, no extra text: """ + json.dumps(sample_data, ensure_ascii=False, indent=2)
@@ -45,7 +45,11 @@ def extract_fund_data_from_md(alias):
     ]
     
     response = requests.post(url, headers=headers, json={"messages": messages, "response_format": {"type": "json_object"}})
-    content = response.json().get("choices", [{}])[0].get("message", {}).get("content", "")
+    resp_json = response.json()
+    if response.status_code != 200 or "error" in resp_json:
+        print(f"API error for {alias}: {response.status_code} - {resp_json.get('error', resp_json)}")
+        return None
+    content = resp_json.get("choices", [{}])[0].get("message", {}).get("content", "")
     
     # Strip markdown code block formatting if present
     content = content.strip()
@@ -64,7 +68,7 @@ fund_list_path = "fund_list.json"
 with open(fund_list_path, "r", encoding="utf-8") as f:
     fund_list = json.load(f)
 
-for fund in fund_list:
+for fund in fund_list:  # Process only the first 4 funds for testing
     alias = fund["alias_tr"]
     if not alias:
         continue

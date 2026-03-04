@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Birinci Hisse Senedi Serbest Fon (Hisse Senedi Yoğun Fon)",
-    "Fon Kodu": "GBH",
-    "Fonun Eşik Değeri": "%90 BIST100 Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Karşılaştırma Ölçütü": "",
-    "Fonun Halka Arz Tarihi": "06.03.2023",
-    "Vergilendirme": "Gerçek kişiler ve tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcılar ve TEFAS aracılığıyla alınıp satılabilir. Emir saatine göre t+1 ve t+2 fiyat/valör uygulanır.",
-    "Yıllık Fon Yönetim Ücreti": "%3.20",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’i devamlı olarak yerli hisse senetlerine ve hisse senedi endekslerini takip eden borsa yatırım fonlarına yatırılan, dinamik yönetilen hisse senedi yoğun bir portföy yapısına sahiptir.",
-    "Yatırımcı Profili": "Orta-uzun vadeli düşünen, yüksek getiri hedefleyen, yüksek risk toleransına sahip ve yalnızca Nitelikli Yatırımcılar için uygun yatırımcılar"
+    "investor_profile": "Birikimlerini değerlendirirken orta-uzun vadeli bakan, piyasa zamanlaması yapmaya gerek kalmadan çeşitlendirilmiş ve dinamik yönetilen bir portföy isteyen, yüksek getiri potansiyeli hedefleyen ve bu hedef için yüksek risk toleransına sahip, ağırlıklı olarak hisse senedi ve hisse senedi içeren fonlara yatırım yapmaya ilgi duyan, bu enstrümanları bilen Nitelikli Yatırımcılara yöneliktir. Fon, Serbest Fon olduğu için yalnızca Nitelikli Yatırımcılar için uygundur.",
+    "investment_strategy": "Fon, dinamik olarak yönetilen bir hisse senedi portföyü ile birikimlerini değerlendirmek isteyen Nitelikli Yatırımcılar için tasarlanmıştır. Fon toplam değerinin en az %80’i devamlı olarak yerli hisse senetlerine ve ortaklık paylarına ilişkin endeksleri takip etmek üzere kurulan borsa yatırım fonlarına yatırılır. Hisse senedi yoğun fon olması nedeniyle portföyün en az %80’i BIST’te işlem gören paylara, pay ve pay endekslerine dayalı vadeli işlem ve opsiyon sözleşmelerinin nakit teminatları ve primlerine, aracı kuruluş varantlarına ve pay endekslerini takip eden borsa yatırım fonlarına yatırılır.",
+    "taxation": "Gerçek kişiler ve tüzel kişiler için %0 stopaj uygulanmaktadır.",
+    "trading_terms": "Fon, tüm Garanti BBVA Şubeleri, İnternet ve Mobil Şube, Kurucu’nun anlaşmalı dağıtıcı kuruluşları ve TEFAS aracılığıyla alınıp satılabilir. TEFAS üzerinden gerçekleşen işlemler için asgari alım-satım tutarları ayrıca belirlenmektedir. Emirler saat 13:30’a kadar verildiğinde alım ve satım işlemleri t+1 fiyatı ile, sonrasında verildiğinde t+2 fiyatı ile gerçekleşir; valör süreleri işlemin zamanına göre t+1, t+2 veya t+3 olarak uygulanır.",
+    "compare_measure": "%90 BIST100 Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "06 Mart 2023",
+    "annual_fee": "%3.20"
 }

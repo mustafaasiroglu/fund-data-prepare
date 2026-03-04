@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Yarı İletken Teknolojileri Değişken Fon",
-    "Fon Kodu": "YIT",
-    "Fonun Eşik Değeri": null,
-    "Fonun Karşılaştırma Ölçütü": "%65 NYSE Semiconductor Net Total Return Index (ICESEMIN) + %25 BIST Teknoloji Ağırlık Sınırlandırmalı Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "26.02.2025",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcılar ve TEFAS aracılığıyla alınıp satılabilir. İşlem fiyatı ve valör süreleri emir giriş saatine göre t+1, t+2, t+3 ve t+4 olarak uygulanır.",
-    "Yıllık Fon Yönetim Ücreti": "%2.70",
-    "Yatırım Stratejisi": "Fon toplam değerinin asgari %80’i yarı iletken teknolojileri alanında faaliyet gösteren şirketlerin ve bu alana hizmet sağlayan kuruluşların yerli ve yabancı sermaye piyasası araçlarına ve ilgili temaya yatırım imkanı sağlayan fonlara yatırılır.",
-    "Yatırımcı Profili": "Yarı iletken teknolojilerine yatırım yapmak isteyen, orta-uzun vadeli bakış açısına sahip, tematik fonlara ilgi duyan ve TL ile yatırım yapmak isteyen yatırımcılar"
+    "investor_profile": "Yarı iletken teknolojileri alanına yatırım yapmak isteyen, birikimlerini değerlendirirken orta-uzun vadeli bakan, tematik yatırım fonlarına ilgi duyan ve TL ile fon alımı yapmak isteyen yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin asgari %80’i devamlı olarak yarı iletken teknolojileri alanında faaliyet gösteren veya bu teknolojilerin geliştirilmesini destekleyen şirketlerin ve tedarikçi/hizmet sağlayıcılarının ihraç ettiği yerli ve yabancı ortaklık payları, ADR/GDR’ler, ilgili temaya yatırım imkanı sağlayan yerli/yabancı yatırım fonları ve borsa yatırım fonlarına yatırılır. Fon opsiyon satıcısı olarak opsiyon sözleşmelerine taraf olamaz.",
+    "taxation": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. Emirler 13:30’a kadar verildiğinde alım ve satım fiyatı t+1, valör alımda t+1 satımda t+3; 13:30’dan sonra verildiğinde fiyat t+2, valör alımda t+2 satımda t+4 olarak uygulanır. TEFAS işlemleri için asgari alım/satım tutarları ayrıca belirlenir.",
+    "compare_measure": "%65 NYSE Semiconductor Net Total Return Index (ICESEMIN) + %25 BIST Teknoloji Ağırlık Sınırlandırmalı Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "26.02.2025",
+    "annual_fee": "%2.70"
 }

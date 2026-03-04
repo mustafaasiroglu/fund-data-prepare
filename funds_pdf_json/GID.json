@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy İnşaat Sektörü Değişken Fon",
-    "Fon Kodu": "GID",
-    "Fonun Eşik Değeri": "",
-    "Fonun Karşılaştırma Ölçütü": "%30 Dow Jones US Real Estate Capped Index TR Endeksi + %20 BIST Gayrimenkul Y.O. Getiri Endeksi + %20 BIST İnşaat Getiri Endeksi + %20 BIST Taş Toprak Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "10 Temmuz 2024",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0",
-    "Alım Satım Esasları": "Fon, Garanti BBVA şubeleri ve TEFAS aracılığıyla alınıp satılabilir; işlemler günlük olup emir giriş saatine göre t+1 ila t+4 valör uygulanır.",
-    "Yıllık Fon Yönetim Ücreti": "%2.90",
-    "Yatırım Stratejisi": "Fon toplam değerinin asgari %80’i inşaat sektöründe faaliyet gösteren veya bu sektöre hizmet sağlayan şirketlerin yerli ve yabancı payları, GYO payları, ADR/GDR’ler, borçlanma ve kira sertifikaları ile temaya dayalı yatırım fonları ve ETF’lere yatırılır.",
-    "Yatırımcı Profili": "Orta-uzun vadeli bakış açısına sahip, TL cinsinden birikimlerini değerlendirmek isteyen, tematik fonlarla portföyünü çeşitlendirmeyi ve inşaat ile gayrimenkul sektörünün getiri potansiyelinden yararlanmayı hedefleyen yatırımcılar"
+    "investor_profile": "Birikimlerini değerlendirirken orta-uzun vadeli bakan, TL cinsinden birikimlerini değerlendirmek isteyen, tematik yatırım fonlarıyla portföyünü çeşitlendirmek isteyen ve inşaat ile gayrimenkul sektörünün getiri potansiyelinden yararlanmayı hedefleyen yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin asgari %80’i sürekli olarak inşaat sektöründe faaliyet gösteren şirketlerin veya bu şirketlere hizmet, servis ve ürün sağlayan şirketlerin ihraç ettikleri yerli/yabancı ortaklık paylarına, GYO paylarına, ADR/GDR’lere, yerli/yabancı borçlanma araçlarına, kira sertifikalarına, gayrimenkul sertifikalarına, yerli gayrimenkul yatırım fonları ile temaya yatırım imkânı sağlayan yerli/yabancı yatırım fonları ve borsa yatırım fonu katılma paylarına yatırılır. Portföy dağılımı ve para birimleri portföy yöneticisinin piyasa görüşüne göre değişebilir.",
+    "taxation": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj uygulanır.",
+    "trading_terms": "Fon; Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. TEFAS işlemleri için asgari alım/satım tutarı ayrıca belirlenir. 13:30’a kadar verilen alım-satım emirleri t+1 fiyatla gerçekleşir (alım valör t+1, satım valör t+3); 13:30’dan sonra verilen emirler t+2 fiyatla gerçekleşir (alım valör t+2, satım valör t+4). Yarım günlerde emir saati 10:30’dur.",
+    "compare_measure": "%30 Dow Jones US Real Estate Capped Index TR Endeksi + %20 BIST Gayrimenkul Y.O. Getiri Endeksi + %20 BIST İnşaat Getiri Endeksi + %20 BIST Taş Toprak Getiri Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi (yabancı para cinsinden endeksler TCMB günlük USD/TRY alış kuru ile TL’ye çevrilir).",
+    "offering_date": "10 Temmuz 2024",
+    "annual_fee": "%2.90"
 }

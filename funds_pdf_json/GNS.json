@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Enerji Şirketleri Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
-    "Fon Kodu": "GNS",
-    "Fonun Eşik Değeri": null,
-    "Fonun Karşılaştırma Ölçütü": "%90 BIST Elektrik Getiri Endeksi (XELKT) + %10 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "12.02.2025",
-    "Vergilendirme": "Gerçek kişiler ve tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon, Garanti BBVA şubeleri, internet ve mobil şube ile TEFAS aracılığıyla alınıp satılabilir. Emirler 13:30’a kadar girildiğinde t+1, sonrasında t+2 fiyat ve valörle gerçekleşir.",
-    "Yıllık Fon Yönetim Ücreti": "%3.20",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’i BIST Elektrik Endeksi’nde (XELKT) yer alan yerli enerji şirketlerinin paylarına ve bu payları takip eden ETF’lere yatırılır.",
-    "Yatırımcı Profili": "Orta-uzun vadeli bakış açısına sahip, hisse senedi bilgisi olan ve yüksek risk toleransına sahip yatırımcılar"
+    "investor_profile": "Orta-uzun vadeli bakış açısıyla hisse senedi yatırımı yapmak isteyen, hisse senedi ve hisse senedi içeren yatırım fonlarına ilgi duyan ve bu enstrümanları bilen, yüksek risk toleransına sahip yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin en az %80’i devamlı olarak BIST Elektrik Endeksi’nde (XELKT) yer alan yerli ortaklık paylarına ve bu paylardan oluşan endeksleri takip etmek üzere kurulan borsa yatırım fonları katılma paylarına yatırılır. Amaç, Türkiye’de enerji sektöründe faaliyet gösteren şirketlerin büyüme olanakları ve kazançlarına yatırım yapılmasını sağlamaktır. Fon portföyünde yalnızca Türk Lirası cinsinden varlık ve işlemler yer alır.",
+    "taxation": "Gerçek kişiler ve tüzel kişiler için %0 stopaj.",
+    "trading_terms": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. TEFAS işlemleri için asgari alım/satım tutarı ayrıca belirlenir. Emirler saat 13:30’a kadar girildiğinde alım ve satım işlemleri t+1 fiyat ve valörle, sonrasında girildiğinde t+2 fiyat ve t+2 veya t+3 valörle gerçekleşir.",
+    "compare_measure": "%90 BIST Elektrik Getiri Endeksi (XELKT) + %10 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "12.02.2025",
+    "annual_fee": "%3.20"
 }

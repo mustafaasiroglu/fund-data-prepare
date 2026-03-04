@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy İkinci Serbest (Döviz-Avro) Fon",
-    "Fon Kodu": "EUN",
-    "Fonun Eşik Değeri": "%100 BIST-KYD 1 Aylık Mevduat EUR Endeksi",
-    "Fonun Karşılaştırma Ölçütü": "%100 BIST-KYD 1 Aylık Mevduat EUR Endeksi",
-    "Fonun Halka Arz Tarihi": "06.05.2024",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon, Garanti BBVA şubeleri, dijital kanallar ve TEFAS aracılığıyla TL veya EUR cinsinden alınıp satılabilir. Emirler 13:30 öncesi veya sonrası verilmesine göre t+1, t+2 ve t+3 valörlü olarak gerçekleşir. Fon sadece Nitelikli Yatırımcılar tarafından alınabilir.",
-    "Yıllık Fon Yönetim Ücreti": "%0.80",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’ini Avro cinsi varlık ve işlemlere yatırarak döviz bazında getiri sağlamayı hedefler. Bu kapsamda ağırlıklı olarak Avro cinsinden ihraç edilen borçlanma araçları, kira sertifikaları ve para ve sermaye piyasası araçlarına yatırım yapar.",
-    "Yatırımcı Profili": "Birikimlerini Avro cinsinden değerlendirmek isteyen, orta-uzun vadede döviz bazında getiri hedefleyen ve Nitelikli Yatırımcı statüsüne sahip yatırımcılar"
+    "investor_profile": "Birikimlerini Avro (Euro) cinsinden değerlendirmek isteyen, Euro cinsinden mevduat oranlarını cazip bulmayan ve farklı bir getiri potansiyeli arayan, orta-uzun vadede döviz bazında getiri elde etmeyi hedefleyen ve sadece Nitelikli Yatırımcılar tarafından alınabilen yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon, toplam değerinin en az %80’i oranında Avro cinsi varlık ve işlemlere yatırım yaparak döviz bazında getiri sağlamayı hedeflemektedir. Bu kapsamda, fon toplam değerinin en az %80’i devamlı olarak T.C. Hazine ve Maliye Bakanlığı tarafından Avro cinsinden ihraç edilen borçlanma araçları ve kira sertifikaları ile yerli ihraççıların Avro cinsinden ihraç edilen para ve sermaye piyasası araçlarına yatırılır.",
+    "taxation": "Gerçek kişiler için %17.5 ve tüzel kişiler için %0 stopaj uygulanmaktadır.",
+    "trading_terms": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. Fon katılma paylarının alım satımı TL ve EUR cinsinden yapılabilir. Paylar A (TL) ve B (EUR) grubu olarak ikiye ayrılmıştır. Emir giriş saati 13:30 olup, emir saatine göre fiyat ve valör süreleri t+1, t+2 ve t+3 olarak uygulanmaktadır.",
+    "compare_measure": "%100 BIST-KYD 1 Aylık Mevduat EUR Endeksi",
+    "offering_date": "06 Mayıs 2024",
+    "annual_fee": "%0.80"
 }

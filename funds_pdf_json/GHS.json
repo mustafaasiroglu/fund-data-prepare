@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun Fon)",
-    "Fon Kodu": "GHS",
-    "Fonun Eşik Değeri": null,
-    "Fonun Karşılaştırma Ölçütü": "%90 BIST100 Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
-    "Fonun Halka Arz Tarihi": "30.06.1997",
-    "Vergilendirme": "Gerçek kişiler ve tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcılar ve TEFAS aracılığıyla alınıp satılabilir. Emir giriş saatine göre fiyat ve valör t+1 ile t+3 arasında değişmektedir.",
-    "Yıllık Fon Yönetim Ücreti": "%3.20",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’i devamlı olarak BIST’te işlem gören yerli hisse senetlerine ve bunlara dayalı sermaye piyasası araçlarına yatırılır. Portföy yalnızca TL cinsinden varlıklardan oluşur.",
-    "Yatırımcı Profili": "Orta-uzun vadeli bakış açısına sahip, hisse senedi piyasalarını bilen ve yüksek risk toleransı olan yatırımcılar"
+    "investor_profile": "Birikimlerini orta-uzun vadeli bir bakış açısıyla hisse senedi yatırımlarında değerlendirmek isteyen, hisse senedi işlemlerini bilen ve hisse senedi içeren yatırım fonlarına portföyünde daha önce yer vermiş, yüksek riske toleransı olan yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin en az %80’i devamlı olarak yerli ihraççıların ortaklık paylarına yatırılır. Fon portföyü ağırlıklı olarak BIST’te işlem gören hisse senetleri, hisse senedi ve endekslerine dayalı vadeli işlem ve opsiyon sözleşmelerinin nakit teminatları ile aracı kuruluş varantlarından oluşur. Portföy yalnızca Türk Lirası cinsinden varlıklara yatırım yapar; yabancı para, altın ve diğer kıymetli madenler ile bunlara dayalı sermaye piyasası araçlarına yatırım yapılmaz.",
+    "taxation": "Gerçek kişiler ve tüzel kişiler için %0 stopaj uygulanmaktadır.",
+    "trading_terms": "Fon, Garanti BBVA şubeleri, internet ve mobil şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. TEFAS üzerinden yapılan işlemler için asgari alım-satım tutarları ayrıca belirlenir. 13:30’a kadar verilen alım-satım emirleri t+1 fiyatı ile, 13:30’dan sonra verilen emirler t+2 fiyatı ile gerçekleşir; valör süreleri işlem zamanına göre t+1 ile t+3 arasında değişmektedir.",
+    "compare_measure": "%90 BIST100 Endeksi + %10 BIST-KYD Repo (Brüt) Endeksi",
+    "offering_date": "30.06.1997",
+    "annual_fee": "%3.20"
 }

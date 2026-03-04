@@ -1,12 +1,9 @@
 {
-    "Fon Adı": "Garanti Portföy Uzun Vadeli Borçlanma Araçları Fonu",
-    "Fon Kodu": "GUV",
-    "Fonun Eşik Değeri": null,
-    "Fonun Karşılaştırma Ölçütü": "%60 BIST-KYD DİBS Tüm Endeksi + %30 BIST-KYD DİBS Uzun Endeksi + %5 BIST-KYD ÖSBA Sabit Endeksi + %5 BIST-KYD 1 Aylık Mevduat TL Endeksi",
-    "Fonun Halka Arz Tarihi": "27.05.2024",
-    "Vergilendirme": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj",
-    "Alım Satım Esasları": "Fon, Garanti BBVA Şubeleri, İnternet ve Mobil Şube, anlaşmalı dağıtıcılar ve TEFAS aracılığıyla alınıp satılabilir. Emirler 13:30'a kadar verildiğinde t+1, sonrasında t+2 fiyat ve valör ile gerçekleşir.",
-    "Yıllık Fon Yönetim Ücreti": "%2.00",
-    "Yatırım Stratejisi": "Fon toplam değerinin en az %80’i uzun vadeli yerli ve yabancı kamu ve/veya özel sektör borçlanma araçlarına yatırılır. Portföyün aylık ağırlıklı ortalama vadesi 730 günden fazladır. Fon, sınırlı oranda yabancı para ve sermaye piyasası araçları ile türev araçlara yatırım yapabilir.",
-    "Yatırımcı Profili": "Uzun vadeli bakış açısına sahip, uzun vadeli borçlanma araçlarına yatırım yapmak isteyen ve faiz oranlarındaki dönemsel hareketlerden faydalanmayı hedefleyen yatırımcılar"
+    "investor_profile": "Birikimlerini değerlendirirken uzun vadeli bakan, uzun vadeli borçlanma araçlarından oluşan bir fona yatırım yapmak isteyen, uzun vadeli varlıklara yatırım yaparken faiz oranlarındaki olası dönemsel hareketlerden faydalanmayı hedefleyen yatırımcılara yöneliktir.",
+    "investment_strategy": "Fon toplam değerinin en az %80’i devamlı olarak yerli ve yabancı kamu ve/veya özel sektör uzun vadeli borçlanma araçlarına yatırılır. Fon portföyünün aylık ağırlıklı ortalama vadesi 730 günden fazladır. Fon toplam değerinin en fazla %20’si oranında yabancı para ve sermaye piyasası araçlarına yatırım yapılabilir. Riskten korunma ve/veya yatırım amacıyla türev araçlar, yapılandırılmış yatırım araçları ve ileri valörlü işlemler portföye dahil edilebilir.",
+    "taxation": "Gerçek kişiler için %17.5, tüzel kişiler için %0 stopaj uygulanmaktadır.",
+    "trading_terms": "Fon, Garanti BBVA Şubeleri, İnternet ve Mobil Şube, anlaşmalı dağıtıcı kuruluşlar ve TEFAS aracılığıyla alınıp satılabilir. Emirler saat 13:30’a kadar verildiğinde t+1, sonrasında verildiğinde t+2 fiyat ve valör ile gerçekleşir. TEFAS işlemleri için asgari alım/satım tutarı ayrıca belirlenmektedir.",
+    "compare_measure": "%60 BIST-KYD DİBS Tüm Endeksi + %30 BIST-KYD DİBS Uzun Endeksi + %5 BIST-KYD ÖSBA Sabit Endeksi + %5 BIST-KYD 1 Aylık Mevduat TL Endeksi",
+    "offering_date": "27 Mayıs 2024",
+    "annual_fee": "%2.00"
 }
