@@ -167,7 +167,6 @@ Each entry in `fund_list_enriched.json` contains:
   "Yatırımcı Profili": "...",
   "Price History": [ ... ],
   "Recommended": true,
-  "Recommendation Date": "230226"
 }
 ```
 

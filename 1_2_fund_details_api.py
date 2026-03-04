@@ -22,7 +22,7 @@ response = requests.post(url, headers=headers)
 #response = "2026-03-02"
 latest_date = response.text.strip('"')
 
-for fund in fund_list[:4]:
+for fund in fund_list:
     
     code = fund["code"]
 

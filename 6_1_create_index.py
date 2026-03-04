@@ -57,7 +57,7 @@ INDEX_DEFINITION = {
         {"name": "pdf_url",                "type": "Edm.String",  "filterable": False, "retrievable": True},
 
         # Recommendation
-        {"name": "recommended",  "type": "Edm.Boolean", "filterable": True},
+        {"name": "is_recommended",  "type": "Edm.Boolean", "filterable": True},
 
         # Latest price & fund size
         {"name": "latest_price_close",  "type": "Edm.Double",  "filterable": True, "sortable": True},
@@ -130,7 +130,7 @@ def transform_document(fund: dict) -> dict:
         "investor_profile":      fund.get("investor_profile", ""),
         "pdf_url":               fund.get("pdf_url", ""),
         # Recommendation
-        "recommended":           fund.get("recommended", False),
+        "is_recommended":           fund.get("is_recommended", False),
         # Latest price & fund size
         "latest_price_close":    fund.get("latest_price_close"),
         "latest_price_date":     fund.get("latest_price_date", ""),

@@ -11,10 +11,16 @@ output_folder = "funds_html"
 with open("fund_list.json", "r", encoding="utf-8") as f:
     fund_list = json.load(f)
 
-for fund in fund_list[:4]:  
+for fund in fund_list:  
     alias = fund.get("alias_tr")
-    fund_detail_page = f"https://www.garantibbvaportfoy.com.tr/{alias}"
-    html = requests.get(fund_detail_page).text
+
+    #check if html already exists for this fund
+    if os.path.exists(f"{output_folder}/{alias}.html"):
+        with open(f"{output_folder}/{alias}.html", "r", encoding="utf-8") as f:
+            html = f.read()
+    else:
+        fund_detail_page = f"https://www.garantibbvaportfoy.com.tr/{alias}"
+        html = requests.get(fund_detail_page).text
 
     with open(f"{output_folder}/{alias}.html", "w", encoding="utf-8") as f:
         f.write(html)

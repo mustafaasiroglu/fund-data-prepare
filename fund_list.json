@@ -9,40 +9,40 @@
     "alias_en": "first-fund-of-funds",
     "first_offering_date": "2021-03-10",
     "annual_management_fee": 1.90165,
-    "latest_price_close": 6.816316,
-    "latest_price_date": "2026-03-02",
-    "net_asset_value": 5042871111.43,
+    "latest_price_close": 6.783119,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 5065415554.21,
     "distribution": [
       {
         "Name": "Yatırım Fonları Katılma Payları (%)",
-        "Percentage": "77.64"
+        "Percentage": "78.06"
       },
       {
         "Name": "Vadeli İşlemler Nakit Teminatları (%)",
-        "Percentage": "8.78"
+        "Percentage": "8.69"
       },
       {
         "Name": "Tahvil (%)",
-        "Percentage": "5.93"
+        "Percentage": "5.89"
       },
       {
         "Name": "Yabancı Borsa Yatırım Fonları (%)",
-        "Percentage": "5.58"
+        "Percentage": "5.33"
       },
       {
         "Name": "Kamu Kira Sertifikaları (TL) (%)",
-        "Percentage": "2.06"
+        "Percentage": "2.04"
       }
     ],
     "returns": {
-      "Weekly": -0.546763,
-      "OneMonth": 1.911591,
-      "ThreeMonth": 11.530958,
-      "SixMonth": 22.658551,
-      "FRomBeginOfYear": 8.418611,
-      "OneYear": 53.773526,
-      "ThreeYear": 284.849946,
-      "FirstOfferingDate": 581.6316
+      "Weekly": -0.922458,
+      "OneMonth": 0.774552,
+      "ThreeMonth": 10.796988,
+      "SixMonth": 22.501659,
+      "FRomBeginOfYear": 7.890588,
+      "OneYear": 51.462527,
+      "ThreeYear": 281.726467,
+      "FirstOfferingDate": 578.3119
     },
     "risk_level": "3 / 7",
     "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-birinci-fon-sepeti-fonu-gzp.pdf",
@@ -72,48 +72,48 @@
     "alias_en": "second-fund-of-funds",
     "first_offering_date": "2021-03-10",
     "annual_management_fee": 1.90165,
-    "latest_price_close": 8.144372,
-    "latest_price_date": "2026-03-02",
-    "net_asset_value": 2366311349.41,
+    "latest_price_close": 8.007301,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 2324623800.64,
     "distribution": [
       {
         "Name": "Yatırım Fonları Katılma Payları (%)",
-        "Percentage": "70.84"
+        "Percentage": "73.04"
       },
       {
         "Name": "Yabancı Borsa Yatırım Fonları (%)",
-        "Percentage": "10.8"
+        "Percentage": "10.83"
       },
       {
         "Name": "Vadeli İşlemler Nakit Teminatları (%)",
-        "Percentage": "8.17"
+        "Percentage": "8.1"
       },
       {
         "Name": "Kıymetli Madenler Cinsinden BYF (%)",
-        "Percentage": "7.23"
-      },
-      {
-        "Name": "Mevduat (TL) (%)",
-        "Percentage": "2.11"
+        "Percentage": "7.14"
       },
       {
         "Name": "Özel Tahvil (%)",
-        "Percentage": "0.51"
+        "Percentage": "0.53"
       },
       {
         "Name": "Hisse (%)",
         "Percentage": "0.34"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "0.02"
       }
     ],
     "returns": {
-      "Weekly": -1.331731,
-      "OneMonth": 1.870395,
-      "ThreeMonth": 15.345114,
-      "SixMonth": 25.211307,
-      "FRomBeginOfYear": 11.689123,
-      "OneYear": 52.31786,
-      "ThreeYear": 298.060813,
-      "FirstOfferingDate": 714.4372
+      "Weekly": -2.789734,
+      "OneMonth": -1.1468,
+      "ThreeMonth": 13.3276,
+      "SixMonth": 24.324269,
+      "FRomBeginOfYear": 9.809379,
+      "OneYear": 47.429055,
+      "ThreeYear": 290.309506,
+      "FirstOfferingDate": 700.7301
     },
     "risk_level": "4 / 7",
     "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-ikinci-fon-sepeti-fonu-gzj.pdf",
@@ -143,44 +143,40 @@
     "alias_en": "third-fund-of-funds",
     "first_offering_date": "2022-06-08",
     "annual_management_fee": 1.90165,
-    "latest_price_close": 5.477741,
-    "latest_price_date": "2026-03-02",
-    "net_asset_value": 1699201975.13,
+    "latest_price_close": 5.347053,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 1655344688.17,
     "distribution": [
       {
         "Name": "Yatırım Fonları Katılma Payları (%)",
-        "Percentage": "59.51"
+        "Percentage": "57.89"
       },
       {
         "Name": "Yabancı Borsa Yatırım Fonları (%)",
-        "Percentage": "14"
+        "Percentage": "14.68"
       },
       {
         "Name": "Vadeli İşlemler Nakit Teminatları (%)",
-        "Percentage": "12.6"
+        "Percentage": "13.24"
       },
       {
         "Name": "Kıymetli Madenler Cinsinden BYF (%)",
-        "Percentage": "12.18"
+        "Percentage": "12.59"
       },
       {
         "Name": "Hisse (%)",
-        "Percentage": "1.54"
-      },
-      {
-        "Name": "Mevduat (TL) (%)",
-        "Percentage": "0.17"
+        "Percentage": "1.6"
       }
     ],
     "returns": {
-      "Weekly": -2.234715,
-      "OneMonth": 1.183597,
-      "ThreeMonth": 17.234099,
-      "SixMonth": 26.649662,
-      "FRomBeginOfYear": 13.871412,
-      "OneYear": 49.581314,
-      "ThreeYear": 296.05438,
-      "FirstOfferingDate": 447.7741
+      "Weekly": -4.299585,
+      "OneMonth": -2.837491,
+      "ThreeMonth": 14.540747,
+      "SixMonth": 25.239973,
+      "FRomBeginOfYear": 11.154667,
+      "OneYear": 42.785276,
+      "ThreeYear": 285.787198,
+      "FirstOfferingDate": 434.7053
     },
     "risk_level": "5 / 7",
     "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-uecuencue-fon-sepeti-fonu-gvi.pdf",
@@ -210,25 +206,25 @@
     "alias_en": "esg-sustainability-fund-of-funds",
     "first_offering_date": "2021-02-17",
     "annual_management_fee": 2.9017499999999994,
-    "latest_price_close": 7.566463,
-    "latest_price_date": "2026-03-02",
-    "net_asset_value": 94203078.7,
+    "latest_price_close": 7.374361,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 90478289.01,
     "distribution": [
       {
         "Name": "Yabancı Borsa Yatırım Fonları (%)",
-        "Percentage": "65.79"
+        "Percentage": "65.6"
       },
       {
         "Name": "Yatırım Fonları Katılma Payları (%)",
-        "Percentage": "28.57"
+        "Percentage": "28.64"
       },
       {
         "Name": "Para Piyasaları (%)",
-        "Percentage": "3.41"
+        "Percentage": "3.48"
       },
       {
         "Name": "Vadeli İşlemler Nakit Teminatları (%)",
-        "Percentage": "1.27"
+        "Percentage": "1.3"
       },
       {
         "Name": "Hisse (%)",
@@ -240,14 +236,14 @@
       }
     ],
     "returns": {
-      "Weekly": -2.035202,
-      "OneMonth": 0.668099,
-      "ThreeMonth": 10.321661,
-      "SixMonth": 19.146146,
-      "FRomBeginOfYear": 7.63361,
-      "OneYear": 46.356448,
-      "ThreeYear": 223.477534,
-      "FirstOfferingDate": 656.6463
+      "Weekly": -4.058988,
+      "OneMonth": -3.094185,
+      "ThreeMonth": 7.614687,
+      "SixMonth": 16.184858,
+      "FRomBeginOfYear": 4.900941,
+      "OneYear": 40.544973,
+      "ThreeYear": 211.519226,
+      "FirstOfferingDate": 637.4361
     },
     "risk_level": "6 / 7",
     "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-esg-suerdueruelebilirlik-fon-sepeti-fonu-gzv.pdf",
@@ -274,7 +270,81 @@
     "category_tr": "Para Piyasası Fonları",
     "category_en": "Money Market Funds",
     "alias_tr": "birinci-para-piyasasi-fonu",
-    "alias_en": "first-money-market-fund"
+    "alias_en": "first-money-market-fund",
+    "first_offering_date": "2013-02-18",
+    "annual_management_fee": 1.4016,
+    "latest_price_close": 0.112984,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 141600710446.06,
+    "distribution": [
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "50.68"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "27.37"
+      },
+      {
+        "Name": "Tahvil (%)",
+        "Percentage": "15.82"
+      },
+      {
+        "Name": "Özel Tahvil (%)",
+        "Percentage": "4.41"
+      },
+      {
+        "Name": "Hazine Bonosu (%)",
+        "Percentage": "0.72"
+      },
+      {
+        "Name": "Kamu Kira Sertifikaları (TL) (%)",
+        "Percentage": "0.47"
+      },
+      {
+        "Name": "Finansman Bonosu (%)",
+        "Percentage": "0.38"
+      },
+      {
+        "Name": "Varlığa Dayalı Menkul Kıymetler (%)",
+        "Percentage": "0.06"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "0.06"
+      },
+      {
+        "Name": "Özel Sektör Kira Sertifikaları (%)",
+        "Percentage": "0.03"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.666453,
+      "OneMonth": 2.702457,
+      "ThreeMonth": 9.448804,
+      "SixMonth": 20.674592,
+      "FRomBeginOfYear": 6.232899,
+      "OneYear": 50.862575,
+      "ThreeYear": 232.081239,
+      "FirstOfferingDate": 1029.84
+    },
+    "risk_level": "1 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/fon-brosuru-birinci-para-piyasasi-tl-fonu-gtl-05022026.pdf",
+    "compare_measure": "%15 BIST-KYD DİBS 91 G&uuml;n Endeksi + %20 BIST-KYD &Ouml;SBA Sabit Endeksi+ %30 BIST-KYD Repo (Br&uuml;t) Endeksi + %35 BIST-KYD 1 Aylık Mevduat TL Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gtl_izahname__20260205.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gtl_ic_tuzugu_20150622.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gtl_yat_bilgi_20260205.pdf"
+      }
+    ]
   },
   {
     "code": "GAL",
@@ -283,7 +353,81 @@
     "category_tr": "Para Piyasası Fonları",
     "category_en": "Money Market Funds",
     "alias_tr": "ikinci-para-piyasasi-fonu",
-    "alias_en": "second-money-market-fund"
+    "alias_en": "second-money-market-fund",
+    "first_offering_date": "1990-05-30",
+    "annual_management_fee": 1.4016,
+    "latest_price_close": 345.158977,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 72182171901.51,
+    "distribution": [
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "31.19"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "30.9"
+      },
+      {
+        "Name": "Tahvil (%)",
+        "Percentage": "26.94"
+      },
+      {
+        "Name": "Özel Tahvil (%)",
+        "Percentage": "8.25"
+      },
+      {
+        "Name": "Hazine Bonosu (%)",
+        "Percentage": "1.14"
+      },
+      {
+        "Name": "Finansman Bonosu (%)",
+        "Percentage": "0.74"
+      },
+      {
+        "Name": "Kamu Kira Sertifikaları (TL) (%)",
+        "Percentage": "0.57"
+      },
+      {
+        "Name": "Varlığa Dayalı Menkul Kıymetler (%)",
+        "Percentage": "0.12"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "0.09"
+      },
+      {
+        "Name": "Özel Sektör Kira Sertifikaları (%)",
+        "Percentage": "0.06"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.645181,
+      "OneMonth": 2.665773,
+      "ThreeMonth": 9.396697,
+      "SixMonth": 20.590023,
+      "FRomBeginOfYear": 6.197822,
+      "OneYear": 50.095783,
+      "ThreeYear": 230.692778,
+      "FirstOfferingDate": 11663.84101
+    },
+    "risk_level": "1 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/fon-brosuru-ikinci-para-piyasasi-tl-fonu-gal-05022026.pdf",
+    "compare_measure": "%15 BIST-KYD DİBS 91 G&uuml;n Endeksi + %20 BIST-KYD &Ouml;SBA Sabit Endeksi+ %30 BIST-KYD Repo (Br&uuml;t) Endeksi + %35 BIST-KYD 1 Aylık Mevduat TL Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gal_izahname__20260205.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gal_ic_tuzugu_20150622.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gal_yat_bilgi_20260205.pdf"
+      }
+    ]
   },
   {
     "code": "GPZ",
@@ -292,7 +436,69 @@
     "category_tr": "Para Piyasası Fonları",
     "category_en": "Money Market Funds",
     "alias_tr": "ucuncu-para-piyasasi-fonu",
-    "alias_en": "third-money-market-fund"
+    "alias_en": "third-money-market-fund",
+    "first_offering_date": "2021-07-26",
+    "annual_management_fee": 0.949,
+    "latest_price_close": 1.639524,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 6727125449.84,
+    "distribution": [
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "50.8"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "22.48"
+      },
+      {
+        "Name": "Tahvil (%)",
+        "Percentage": "11.7"
+      },
+      {
+        "Name": "Özel Tahvil (%)",
+        "Percentage": "10.66"
+      },
+      {
+        "Name": "Finansman Bonosu (%)",
+        "Percentage": "2.25"
+      },
+      {
+        "Name": "Hazine Bonosu (%)",
+        "Percentage": "1.09"
+      },
+      {
+        "Name": "Kamu Kira Sertifikaları (TL) (%)",
+        "Percentage": "1.02"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.679291,
+      "OneMonth": 2.760806,
+      "ThreeMonth": 9.566093,
+      "SixMonth": 21.026127,
+      "FRomBeginOfYear": 6.331064,
+      "OneYear": 52.306016,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 63.9524
+    },
+    "risk_level": "1 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-uecuencue-para-piyasasi-fonu-gpz.pdf",
+    "compare_measure": "%15 BIST-KYD DİBS 91 G&uuml;n Endeksi + %20 BIST-KYD &Ouml;SBA Sabit Endeksi+ %30 BIST-KYD Repo (Br&uuml;t) Endeksi + %35 BIST-KYD 1 Aylık Mevduat TL Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpz_izahname__20251222.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpz_ic_tuzugu_20220107.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpz_yat_bilgi_20251222.pdf"
+      }
+    ]
   },
   {
     "code": "GJH",
@@ -301,7 +507,45 @@
     "category_tr": "Para Piyasası Fonları",
     "category_en": "Money Market Funds",
     "alias_tr": "para-piyasasi-serbest-fon",
-    "alias_en": "money-market-hedge-fund"
+    "alias_en": "money-market-hedge-fund",
+    "first_offering_date": "2021-03-15",
+    "annual_management_fee": 1.5001499999999999,
+    "latest_price_close": 3.288171,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 118225659862.44,
+    "distribution": [
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "100"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.690681,
+      "OneMonth": 2.769892,
+      "ThreeMonth": 9.352076,
+      "SixMonth": 20.416448,
+      "FRomBeginOfYear": 6.176208,
+      "OneYear": 50.598033,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 228.8171
+    },
+    "risk_level": "2 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-para-piyasasi-serbest-tl-fon-gjh.pdf",
+    "compare_measure": "Fon&rsquo;un eşik değeri %100 BIST-KYD Repo (Br&uuml;t) Endeksi&rsquo;dir.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gjh_izahname__20240801.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gjh_ic_tuzugu_20240717.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gjh_yat_bilgi_20250414.pdf"
+      }
+    ]
   },
   {
     "code": "PIP",
@@ -310,7 +554,45 @@
     "category_tr": "Para Piyasası Fonları",
     "category_en": "Money Market Funds",
     "alias_tr": "ikinci-para-piyasasi-serbest-tl-fon",
-    "alias_en": "second-money-market-hedge-tl-fund"
+    "alias_en": "second-money-market-hedge-tl-fund",
+    "first_offering_date": "2025-05-05",
+    "annual_management_fee": 0.7008,
+    "latest_price_close": 1.403829,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 37258030222.35,
+    "distribution": [
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "100"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.707477,
+      "OneMonth": 2.806957,
+      "ThreeMonth": 9.428269,
+      "SixMonth": 20.66005,
+      "FRomBeginOfYear": 6.249664,
+      "OneYear": 0.0,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 40.3829
+    },
+    "risk_level": "2 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-ikinci-para-piyasasi-serbest-tl-fon-pip.pdf",
+    "compare_measure": "Fonun eşik değeri, %100 BIST-KYD Repo (Br&uuml;t) Endeksi'dir.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/pip_izahname__20250616.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/pip-ic-tuzugu-20250505.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/pip_yat_bilgi_20251222.pdf"
+      }
+    ]
   },
   {
     "code": "GNP",
@@ -319,7 +601,53 @@
     "category_tr": "Para Piyasası Fonları",
     "category_en": "Money Market Funds",
     "alias_tr": "nema-para-piyasasi-tl-fonu",
-    "alias_en": "accrued-money-market-tl-fund"
+    "alias_en": "accrued-money-market-tl-fund",
+    "first_offering_date": "2025-08-12",
+    "annual_management_fee": 1.4016,
+    "latest_price_close": 1.23656,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 1643735994.67,
+    "distribution": [
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "76.11"
+      },
+      {
+        "Name": "Tahvil (%)",
+        "Percentage": "12.36"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "11.53"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.683376,
+      "OneMonth": 2.726588,
+      "ThreeMonth": 9.347449,
+      "SixMonth": 20.458666,
+      "FRomBeginOfYear": 6.206487,
+      "OneYear": 0.0,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 23.656
+    },
+    "risk_level": "1 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/fon-brosuru-nema-para-piyasasi-tl-fonu-gnp.pdf",
+    "compare_measure": "%15 BIST-KYD DİBS 91 G&uuml;n Endeksi + %20 BIST-KYD &Ouml;SBA Sabit Endeksi + %30 BIST-KYD Repo (Br&uuml;t) Endeksi + %35 BIST-KYD 1 Aylık Mevduat TL Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gnp_izahname__20250820.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gnp_ic_tuzugu_20250820.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gnp_yat_bilgi_20250820.pdf"
+      }
+    ]
   },
   {
     "code": "TGT",
@@ -328,7 +656,77 @@
     "category_tr": "Borçlanma Araçları Fonları",
     "category_en": "Debt Instruments Funds",
     "alias_tr": "kisa-vadeli-borclanma-araclari-fonu",
-    "alias_en": "short-term-debt-instruments-fund"
+    "alias_en": "short-term-debt-instruments-fund",
+    "first_offering_date": "2012-04-20",
+    "annual_management_fee": 2.4017,
+    "latest_price_close": 0.10184,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 4198914962.11,
+    "distribution": [
+      {
+        "Name": "Özel Tahvil (%)",
+        "Percentage": "37.72"
+      },
+      {
+        "Name": "Tahvil (%)",
+        "Percentage": "36.45"
+      },
+      {
+        "Name": "Finansman Bonosu (%)",
+        "Percentage": "17.48"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "3.85"
+      },
+      {
+        "Name": "Katılma Hesabı (TL) (%)",
+        "Percentage": "2.26"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "1.4"
+      },
+      {
+        "Name": "Kamu Kira Sertifikaları (TL) (%)",
+        "Percentage": "0.37"
+      },
+      {
+        "Name": "Varlığa Dayalı Menkul Kıymetler (%)",
+        "Percentage": "0.35"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "0.12"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.525131,
+      "OneMonth": 2.428967,
+      "ThreeMonth": 9.594938,
+      "SixMonth": 20.70069,
+      "FRomBeginOfYear": 6.199489,
+      "OneYear": 48.604281,
+      "ThreeYear": 211.342097,
+      "FirstOfferingDate": 918.4
+    },
+    "risk_level": "2 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-kisa-vadeli-borclanma-araclari-fonu-tgt.pdf",
+    "compare_measure": "%45 BIST-KYD &Ouml;SBA Sabit Endeksi + %30 BIST-KYD DİBS 91 G&uuml;n + %15 BIST-KYD Repo (Br&uuml;t) Endeksi + %5 BIST-KYD &Ouml;SBA Değişken Endeksi + %5 BIST-KYD 1 Aylık G&ouml;sterge Mevduat TL Endeksi&nbsp;",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/tgt_izahname__20231121.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/tgt_ic_tuzugu_20150622.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/tgt_yat_bilgi_20250617.pdf"
+      }
+    ]
   },
   {
     "code": "GA1",
@@ -337,7 +735,61 @@
     "category_tr": "Borçlanma Araçları Fonları",
     "category_en": "Debt Instruments Funds",
     "alias_tr": "borclanma-araclari-fonu",
-    "alias_en": "debt-instruments-fund"
+    "alias_en": "debt-instruments-fund",
+    "first_offering_date": "1987-10-22",
+    "annual_management_fee": 2.50025,
+    "latest_price_close": 1.784536,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 489950711.3,
+    "distribution": [
+      {
+        "Name": "Tahvil (%)",
+        "Percentage": "85.04"
+      },
+      {
+        "Name": "Özel Tahvil (%)",
+        "Percentage": "8.71"
+      },
+      {
+        "Name": "Finansman Bonosu (%)",
+        "Percentage": "4.56"
+      },
+      {
+        "Name": "Varlığa Dayalı Menkul Kıymetler (%)",
+        "Percentage": "1.04"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "0.65"
+      }
+    ],
+    "returns": {
+      "Weekly": -0.011318,
+      "OneMonth": 0.44794,
+      "ThreeMonth": 8.514161,
+      "SixMonth": 19.600157,
+      "FRomBeginOfYear": 4.796524,
+      "OneYear": 35.074136,
+      "ThreeYear": 187.791767,
+      "FirstOfferingDate": 9526.906502
+    },
+    "risk_level": "2 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/fon-brosuru-borc-lanma-arac-lari-fonu-ga1.pdf",
+    "compare_measure": "%55 BIST-KYD DİBS T&uuml;m Endeksi + %25 BIST-KYD &Ouml;SBA Değişken Endeksi + %10 BIST-KYD Repo (Br&uuml;t) Endeksi + %10 BIST-KYD 1 Aylık Mevduat TL Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/ga1_izahname__20260102.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/ga1_ic_tuzugu_20150622.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/ga1_yat_bilgi_20260102.pdf"
+      }
+    ]
   },
   {
     "code": "GPA",
@@ -346,7 +798,69 @@
     "category_tr": "Borçlanma Araçları Fonları",
     "category_en": "Debt Instruments Funds",
     "alias_tr": "eurobond-borclanma-araclari-doviz-fonu",
-    "alias_en": "eurobond-debt-instruments-fx-fund"
+    "alias_en": "eurobond-debt-instruments-fx-fund",
+    "first_offering_date": "2016-01-08",
+    "annual_management_fee": 2.9017499999999994,
+    "latest_price_close": 20.946179,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 778767283.24,
+    "distribution": [
+      {
+        "Name": "Kamu Dış Borçlanma Araçları (%)",
+        "Percentage": "53.01"
+      },
+      {
+        "Name": "Özel Sektör Dış Borçlanma Araçları (%)",
+        "Percentage": "27.55"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "11.31"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "7"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "0.94"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "0.13"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "0.06"
+      }
+    ],
+    "returns": {
+      "Weekly": -0.712479,
+      "OneMonth": 0.897637,
+      "ThreeMonth": 3.973861,
+      "SixMonth": 12.179177,
+      "FRomBeginOfYear": 2.192151,
+      "OneYear": 33.030745,
+      "ThreeYear": 212.918123,
+      "FirstOfferingDate": 1994.6179
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-eurobond-borclanma-araclari-doeviz-fonu-gpa.pdf",
+    "compare_measure": "%85 BIST-KYD Eurobond USD (TL) Endeksi + %5 BIST-KYD Eurobond EUR (TL) Endeksi + %10 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpa_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpa_ic_tuzugu_20150622.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpa_yat_bilgi_20250624.pdf"
+      }
+    ]
   },
   {
     "code": "GUB",
@@ -355,7 +869,57 @@
     "category_tr": "Borçlanma Araçları Fonları",
     "category_en": "Debt Instruments Funds",
     "alias_tr": "ozel-sektor-borclanma-araclari-fonu",
-    "alias_en": "private-sector-debt-fund"
+    "alias_en": "private-sector-debt-fund",
+    "first_offering_date": "2024-05-27",
+    "annual_management_fee": 2.0002,
+    "latest_price_close": 2.147944,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 1470050727.25,
+    "distribution": [
+      {
+        "Name": "Özel Tahvil (%)",
+        "Percentage": "58.62"
+      },
+      {
+        "Name": "Finansman Bonosu (%)",
+        "Percentage": "31.71"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "8.51"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "1.16"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.687109,
+      "OneMonth": 2.821391,
+      "ThreeMonth": 9.547117,
+      "SixMonth": 20.619849,
+      "FRomBeginOfYear": 6.356291,
+      "OneYear": 49.298909,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 114.7944
+    },
+    "risk_level": "1 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-oezel-sektoer-borclanma-araclari-fonu-gub.pdf",
+    "compare_measure": "%70 BIST-KYD &Ouml;SBA Sabit Endeksi + %15 BIST-KYD &Ouml;SBA Değişken Endeksi + %15 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gub_izahname__20251222.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gub_ic_tuzugu_20240522.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gub_yat_bilgi_20251222.pdf"
+      }
+    ]
   },
   {
     "code": "GUV",
@@ -364,7 +928,53 @@
     "category_tr": "Borçlanma Araçları Fonları",
     "category_en": "Debt Instruments Funds",
     "alias_tr": "uzun-vadeli-borclanma-araclari-fonu",
-    "alias_en": "long-term-debt-instruments-fund"
+    "alias_en": "long-term-debt-instruments-fund",
+    "first_offering_date": "2024-05-27",
+    "annual_management_fee": 2.0002,
+    "latest_price_close": 1.646075,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 1238241499.53,
+    "distribution": [
+      {
+        "Name": "Tahvil (%)",
+        "Percentage": "96.76"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "2.3"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "0.94"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.031783,
+      "OneMonth": -0.235037,
+      "ThreeMonth": 7.416841,
+      "SixMonth": 20.869708,
+      "FRomBeginOfYear": 2.105599,
+      "OneYear": 26.352121,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 64.6075
+    },
+    "risk_level": "5 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-uzun-vadeli-borclanma-araclari-fonu-guv.pdf",
+    "compare_measure": "%60 BIST-KYD DİBS T&uuml;m Endeksi + %30 BIST-KYD DİBS Uzun Endeksi + %5 BIST-KYD &Ouml;SBA Sabit Endeksi + %5 BIST-KYD 1 Aylık Mevduat TL Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/guv_izahname__20251222.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/guv_ic_tuzugu_20240514.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/guv_yat_bilgi_20251222.pdf"
+      }
+    ]
   },
   {
     "code": "GAH",
@@ -373,7 +983,89 @@
     "category_tr": "Değişken Fonlar",
     "category_en": "Variable Funds",
     "alias_tr": "mutlak-getiri-hedefli-degisken-fon",
-    "alias_en": "absolute-return-targeted-variable-fund"
+    "alias_en": "absolute-return-targeted-variable-fund",
+    "first_offering_date": "2018-02-12",
+    "annual_management_fee": 2.7009999999999996,
+    "latest_price_close": 11.236272,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 528830850.23,
+    "distribution": [
+      {
+        "Name": "Tahvil (%)",
+        "Percentage": "19.31"
+      },
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "18.88"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "15.98"
+      },
+      {
+        "Name": "Özel Tahvil (%)",
+        "Percentage": "11.67"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "10.52"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "7.66"
+      },
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "6.09"
+      },
+      {
+        "Name": "Finansman Bonosu (%)",
+        "Percentage": "4.58"
+      },
+      {
+        "Name": "Kamu Kira Sertifikaları (TL) (%)",
+        "Percentage": "2.34"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "1.64"
+      },
+      {
+        "Name": "Özel Sektör Kira Sertifikaları (%)",
+        "Percentage": "1.27"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "0.07"
+      }
+    ],
+    "returns": {
+      "Weekly": -1.134419,
+      "OneMonth": 0.583632,
+      "ThreeMonth": 11.711687,
+      "SixMonth": 23.199549,
+      "FRomBeginOfYear": 8.451336,
+      "OneYear": 51.446361,
+      "ThreeYear": 292.47799,
+      "FirstOfferingDate": 1023.6272
+    },
+    "risk_level": "3 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-mutlak-getiri-hedefli-degisken-fon-gah.pdf",
+    "compare_measure": "Fon&rsquo;un eşik değeri %100 BIST-KYD 1 Aylık Mevduat TL Endeksi&rsquo;dir.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gah_izahname__20250303.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gah_ic_tuzugu_20150219.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gah_yat_bilgi_20241220.pdf"
+      }
+    ]
   },
   {
     "code": "INH",
@@ -382,7 +1074,81 @@
     "category_tr": "Değişken Fonlar",
     "category_en": "Variable Funds",
     "alias_tr": "ing-bank-ozel-bankacilik-ve-platinum-degisken-ozel-fon",
-    "alias_en": "ing-bank-private-bank-platinum-variable-private-fund"
+    "alias_en": "ing-bank-private-bank-platinum-variable-private-fund",
+    "first_offering_date": "2018-01-22",
+    "annual_management_fee": 3.0002999999999997,
+    "latest_price_close": 13.404151,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 451434094.81,
+    "distribution": [
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "33.09"
+      },
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "17.18"
+      },
+      {
+        "Name": "Tahvil (%)",
+        "Percentage": "11.52"
+      },
+      {
+        "Name": "Özel Tahvil (%)",
+        "Percentage": "10.97"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "9.23"
+      },
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "9.07"
+      },
+      {
+        "Name": "Finansman Bonosu (%)",
+        "Percentage": "5.02"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "2.27"
+      },
+      {
+        "Name": "Özel Sektör Kira Sertifikaları (%)",
+        "Percentage": "1.4"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "0.26"
+      }
+    ],
+    "returns": {
+      "Weekly": -3.135347,
+      "OneMonth": -1.12962,
+      "ThreeMonth": 14.29972,
+      "SixMonth": 25.071775,
+      "FRomBeginOfYear": 10.668454,
+      "OneYear": 56.056747,
+      "ThreeYear": 301.821396,
+      "FirstOfferingDate": 1240.4151
+    },
+    "risk_level": "4 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-ing-bank-ozel-bankacilik-platinum-degisken-oezel-fon-inh.pdf",
+    "compare_measure": "Fonun eşik değeri %100 BIST-KYD 1 Aylık Mevduat TL Endeksi&rsquo;dir.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/ınh_izahname__20250114.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/inh_ic_tuzugu_20150219.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/ınh_yat_bilgi_20250127.pdf"
+      }
+    ]
   },
   {
     "code": "GID",
@@ -391,7 +1157,61 @@
     "category_tr": "Tematik Değişken Fonlar",
     "category_en": "Thematic Variable Funds",
     "alias_tr": "insaat-sektoru-degisken-fon",
-    "alias_en": "construction-sector-variable-fund"
+    "alias_en": "construction-sector-variable-fund",
+    "first_offering_date": "2024-07-10",
+    "annual_management_fee": 2.9017499999999994,
+    "latest_price_close": 1.549801,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 83608466.06,
+    "distribution": [
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "68.87"
+      },
+      {
+        "Name": "Yabancı Hisse (%)",
+        "Percentage": "17.36"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "6.71"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "5.67"
+      },
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "1.39"
+      }
+    ],
+    "returns": {
+      "Weekly": -5.458145,
+      "OneMonth": -4.716816,
+      "ThreeMonth": 7.233815,
+      "SixMonth": 15.08711,
+      "FRomBeginOfYear": 6.216884,
+      "OneYear": 39.365706,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 54.9801
+    },
+    "risk_level": "5 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-insaat-sektoerue-degisken-fon-gid.pdf",
+    "compare_measure": "%30 Dow Jones US Real Estate Capped Index TR Endeksi + %20 BIST Gayrimenkul Y.O. Getiri Endeksi + %20 BIST İnşaat Getiri Endeksi + %20 BIST Taş Toprak Getiri Endeksi + %10 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gid_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gid_ic_tuzugu_20240624.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gid_yat_bilgi_20250626.pdf"
+      }
+    ]
   },
   {
     "code": "GZH",
@@ -400,7 +1220,69 @@
     "category_tr": "Tematik Değişken Fonlar",
     "category_en": "Thematic Variable Funds",
     "alias_tr": "temiz-enerji-degisken-fon",
-    "alias_en": "clean-energy-variable-fund"
+    "alias_en": "clean-energy-variable-fund",
+    "first_offering_date": "2021-01-18",
+    "annual_management_fee": 2.7009999999999996,
+    "latest_price_close": 4.433639,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 376908121.06,
+    "distribution": [
+      {
+        "Name": "Yabancı Hisse (%)",
+        "Percentage": "53.87"
+      },
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "15.2"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "13"
+      },
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "9.39"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "4.88"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "3.6"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "0.06"
+      }
+    ],
+    "returns": {
+      "Weekly": -6.389905,
+      "OneMonth": -3.556497,
+      "ThreeMonth": 16.787903,
+      "SixMonth": 32.717536,
+      "FRomBeginOfYear": 13.3394,
+      "OneYear": 77.928239,
+      "ThreeYear": 113.171504,
+      "FirstOfferingDate": 343.3639
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/fon-brosuru-temiz-enerji-deg-is-ken-fon-gzh.pdf",
+    "compare_measure": "%35 Nasdaq OMX Clean Edge Smart Grid Infrastructure Getiri Endeksi + %30 S&amp;P Global Clean Energy Transition Getiri Endeksi + %25 BIST Elektrik Getiri Endeksi + %10 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzh_izahname__20260102.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzh_ic_tuzugu_20150129.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzh_yat_bilgi_20260102.pdf"
+      }
+    ]
   },
   {
     "code": "GZG",
@@ -409,7 +1291,65 @@
     "category_tr": "Tematik Değişken Fonlar",
     "category_en": "Thematic Variable Funds",
     "alias_tr": "saglik-sektoru-degisken-fon",
-    "alias_en": "health-sector-variable-fund"
+    "alias_en": "health-sector-variable-fund",
+    "first_offering_date": "2021-09-13",
+    "annual_management_fee": 2.7009999999999996,
+    "latest_price_close": 5.664566,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 425312387.68,
+    "distribution": [
+      {
+        "Name": "Yabancı Hisse (%)",
+        "Percentage": "62.38"
+      },
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "22.1"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "6.4"
+      },
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "5.2"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "3.75"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "0.18"
+      }
+    ],
+    "returns": {
+      "Weekly": -2.783956,
+      "OneMonth": -2.574953,
+      "ThreeMonth": 5.131477,
+      "SixMonth": 16.445574,
+      "FRomBeginOfYear": 1.760822,
+      "OneYear": 26.216467,
+      "ThreeYear": 163.926559,
+      "FirstOfferingDate": 466.4566
+    },
+    "risk_level": "5 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-saglik-sektoerue-degisken-fon-gzg.pdf",
+    "compare_measure": "Fonun karşılaştırma &ouml;l&ccedil;&uuml;t&uuml; %65 S&amp;P Global 1200 Health Care Net Total Return USD Endeksi + %25 BIST 100 Getiri Endeksi + %10 BIST-KYD Repo (Br&uuml;t) Endeksi'dir.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzg_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzg_ic_tuzugu_20150129.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzg_yat_bilgi_20250617.pdf"
+      }
+    ]
   },
   {
     "code": "GZL",
@@ -418,7 +1358,69 @@
     "category_tr": "Tematik Değişken Fonlar",
     "category_en": "Thematic Variable Funds",
     "alias_tr": "tarim-ve-gida-sektoru-degisken-fon",
-    "alias_en": "agriculture-and-food-sector-variable-fund"
+    "alias_en": "agriculture-and-food-sector-variable-fund",
+    "first_offering_date": "2021-09-27",
+    "annual_management_fee": 2.7009999999999996,
+    "latest_price_close": 4.840763,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 310657571.56,
+    "distribution": [
+      {
+        "Name": "Yabancı Hisse (%)",
+        "Percentage": "48.42"
+      },
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "24.47"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "15.63"
+      },
+      {
+        "Name": "Özel Tahvil (%)",
+        "Percentage": "5.14"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "4.97"
+      },
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "1.24"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "0.12"
+      }
+    ],
+    "returns": {
+      "Weekly": -3.779288,
+      "OneMonth": -0.931446,
+      "ThreeMonth": 20.230394,
+      "SixMonth": 24.146225,
+      "FRomBeginOfYear": 16.083272,
+      "OneYear": 41.576764,
+      "ThreeYear": 119.942506,
+      "FirstOfferingDate": 384.0763
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/fon-brosuru-tarim-ve-gida-sekto-ru-deg-is-ken-fon-gzl.pdf",
+    "compare_measure": "%40 Indxx Global Agriculture Net Total Return USD Endeksi (IGAINT) + %25 Dynamic Food &amp; Beverage Intellidex Getiri Endeksi (DZFTR) + %25 BIST Gıda Getiri Endeksi + %10 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzl_izahname__20260102.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzl_ic_tuzugu_20150129.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzl_yat_bilgi_20260102.pdf"
+      }
+    ]
   },
   {
     "code": "GBV",
@@ -427,7 +1429,69 @@
     "category_tr": "Tematik Değişken Fonlar",
     "category_en": "Thematic Variable Funds",
     "alias_tr": "blockchain-teknolojileri-degisken-fon",
-    "alias_en": "blockchain-technologies-variable-fund"
+    "alias_en": "blockchain-technologies-variable-fund",
+    "first_offering_date": "2021-10-04",
+    "annual_management_fee": 2.7009999999999996,
+    "latest_price_close": 9.766849,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 2241203321.86,
+    "distribution": [
+      {
+        "Name": "Yabancı Hisse (%)",
+        "Percentage": "61.52"
+      },
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "17.63"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "7.02"
+      },
+      {
+        "Name": "Özel Sektör Dış Borçlanma Araçları (%)",
+        "Percentage": "6.72"
+      },
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "5.81"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "1.23"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "0.07"
+      }
+    ],
+    "returns": {
+      "Weekly": -3.255948,
+      "OneMonth": -5.893724,
+      "ThreeMonth": 3.569486,
+      "SixMonth": 19.158979,
+      "FRomBeginOfYear": 1.892696,
+      "OneYear": 58.855239,
+      "ThreeYear": 447.806273,
+      "FirstOfferingDate": 876.6849
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/fon-brosuru-blockchain-teknolojileri-deg-is-ken-fon-gbv.pdf",
+    "compare_measure": "%65 Nasdaq Blockchain Economy Net Total Return USD Endeksi + % 25 BIST Teknoloji Getiri Endeksi + %10 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gbv_izahname__20260102.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gbv_ic_tuzugu_20150129.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gbv_yat_bilgi_20260102.pdf"
+      }
+    ]
   },
   {
     "code": "GZZ",
@@ -436,7 +1500,57 @@
     "category_tr": "Tematik Değişken Fonlar",
     "category_en": "Thematic Variable Funds",
     "alias_tr": "finans-sektoru-degisken-fon",
-    "alias_en": "finance-sector-variable-fund"
+    "alias_en": "finance-sector-variable-fund",
+    "first_offering_date": "2021-10-11",
+    "annual_management_fee": 2.0002,
+    "latest_price_close": 6.277417,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 59046843.34,
+    "distribution": [
+      {
+        "Name": "Yabancı Hisse (%)",
+        "Percentage": "64.39"
+      },
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "30.97"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "2.74"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "1.9"
+      }
+    ],
+    "returns": {
+      "Weekly": -5.612545,
+      "OneMonth": -8.104991,
+      "ThreeMonth": 0.580063,
+      "SixMonth": 7.667059,
+      "FRomBeginOfYear": -3.395135,
+      "OneYear": 22.015764,
+      "ThreeYear": 247.776252,
+      "FirstOfferingDate": 527.7417
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-finans-sektoerue-degisken-fon-gzz.pdf",
+    "compare_measure": "%40 S&amp;P Global 1200 Financials Net Total Return USD Endeksi + %20 Stoxx Global Fintech Net Return USD Endeksi + %10 BIST Mali Getiri Endeksi + %30 BIST-KYD &Ouml;SBA Sabit Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzz_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzz_ic_tuzugu_20150129.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzz_yat_bilgi_20250626.pdf"
+      }
+    ]
   },
   {
     "code": "GZY",
@@ -445,7 +1559,65 @@
     "category_tr": "Tematik Değişken Fonlar",
     "category_en": "Thematic Variable Funds",
     "alias_tr": "turizm-ve-seyahat-sektoru-degisken-fon",
-    "alias_en": "tourism-and-travel-sector-variable-fund"
+    "alias_en": "tourism-and-travel-sector-variable-fund",
+    "first_offering_date": "2021-10-25",
+    "annual_management_fee": 2.7009999999999996,
+    "latest_price_close": 6.890661,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 61291144.72,
+    "distribution": [
+      {
+        "Name": "Yabancı Hisse (%)",
+        "Percentage": "64.46"
+      },
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "25.15"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "4.77"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "2.7"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "2.35"
+      },
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "0.57"
+      }
+    ],
+    "returns": {
+      "Weekly": -5.421128,
+      "OneMonth": -7.890587,
+      "ThreeMonth": 2.179628,
+      "SixMonth": 2.623071,
+      "FRomBeginOfYear": -1.775792,
+      "OneYear": 23.422568,
+      "ThreeYear": 208.754985,
+      "FirstOfferingDate": 589.0661
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/fon-brosuru-turizm-ve-seyahat-sekto-ru-deg-is-ken-fon-gzy.pdf",
+    "compare_measure": "%65 Stoxx Global 3000 Travel &amp; Leisure Net Return USD Endeksi + %25 BIST Ulaştırma Getiri Endeksi + %10 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzy_izahname__20260102.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzy_ic_tuzugu_20150129.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzy_yat_bilgi_20260102.pdf"
+      }
+    ]
   },
   {
     "code": "MET",
@@ -454,7 +1626,65 @@
     "category_tr": "Tematik Değişken Fonlar",
     "category_en": "Thematic Variable Funds",
     "alias_tr": "metaverse-ve-yeni-teknolojiler-degisken-fon",
-    "alias_en": "metaverse-and-new-technologies-variable-fund"
+    "alias_en": "metaverse-and-new-technologies-variable-fund",
+    "first_offering_date": "2022-03-21",
+    "annual_management_fee": 2.7009999999999996,
+    "latest_price_close": 4.664745,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 639149892.54,
+    "distribution": [
+      {
+        "Name": "Yabancı Hisse (%)",
+        "Percentage": "60.66"
+      },
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "21.04"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "12.16"
+      },
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "5.02"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "1.07"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "0.05"
+      }
+    ],
+    "returns": {
+      "Weekly": -2.004491,
+      "OneMonth": -6.368326,
+      "ThreeMonth": 0.470114,
+      "SixMonth": 10.761423,
+      "FRomBeginOfYear": -1.025697,
+      "OneYear": 42.610492,
+      "ThreeYear": 325.862156,
+      "FirstOfferingDate": 366.4745
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/fon-brosuru-metaverse-ve-yeni-teknolojiler-deg-is-ken-fon-met.pdf",
+    "compare_measure": "%65 Solactive Global Metaverse Net Total Return Endeksi + %15 BIST Teknoloji Getiri Endeksi + %10 BIST İletişim Getiri Endeksi + %10 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/met_izahname__20260102.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/met_ic_tuzugu_20220321.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/met_yat_bilgi_20260102.pdf"
+      }
+    ]
   },
   {
     "code": "GVA",
@@ -463,7 +1693,61 @@
     "category_tr": "Tematik Değişken Fonlar",
     "category_en": "Thematic Variable Funds",
     "alias_tr": "elektrikli-ve-otonom-araclar-degisken-fon",
-    "alias_en": "electric-and-autonomous-vehicles-variable-fund"
+    "alias_en": "electric-and-autonomous-vehicles-variable-fund",
+    "first_offering_date": "2022-07-20",
+    "annual_management_fee": 2.7009999999999996,
+    "latest_price_close": 3.644298,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 88575021.05,
+    "distribution": [
+      {
+        "Name": "Yabancı Hisse (%)",
+        "Percentage": "64.06"
+      },
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "19.62"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "7.94"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "5.1"
+      },
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "3.29"
+      }
+    ],
+    "returns": {
+      "Weekly": -6.196786,
+      "OneMonth": -4.622325,
+      "ThreeMonth": 7.609851,
+      "SixMonth": 21.281741,
+      "FRomBeginOfYear": 4.197107,
+      "OneYear": 44.835644,
+      "ThreeYear": 178.554083,
+      "FirstOfferingDate": 264.4298
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/fon-brosuru-elektrikli-ve-otonom-arac-lar-deg-is-ken-fon-gva.pdf",
+    "compare_measure": "%65 Solactive Autonomous &amp; Electric Vehicles Index (Getiri Endeksi) + %25 BIST S&uuml;rd&uuml;r&uuml;lebilirlik Getiri Endeksi + %10 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gva_izahname__20260102.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gva_ic_tuzugu_20220718.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gva_yat_bilgi_20260102.pdf"
+      }
+    ]
   },
   {
     "code": "SGT",
@@ -472,7 +1756,69 @@
     "category_tr": "Tematik Değişken Fonlar",
     "category_en": "Thematic Variable Funds",
     "alias_tr": "siber-guvenlik-teknolojileri-degisken-fon",
-    "alias_en": "cyber-security-technologies-variable-fund"
+    "alias_en": "cyber-security-technologies-variable-fund",
+    "first_offering_date": "2025-02-19",
+    "annual_management_fee": 2.7009999999999996,
+    "latest_price_close": 1.319281,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 223997653.73,
+    "distribution": [
+      {
+        "Name": "Yabancı Hisse (%)",
+        "Percentage": "63.64"
+      },
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "20.71"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "7.39"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "6.71"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "1.01"
+      },
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "0.42"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "0.11"
+      }
+    ],
+    "returns": {
+      "Weekly": 1.531108,
+      "OneMonth": -4.940184,
+      "ThreeMonth": 0.248935,
+      "SixMonth": 3.905757,
+      "FRomBeginOfYear": -1.984484,
+      "OneYear": 31.397648,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 31.9281
+    },
+    "risk_level": "5 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-siber-guevenlik-teknolojileri-degisken-fon-sgt.pdf",
+    "compare_measure": "%65 Nasdaq CTA Cybersecurity Net Total Return Index + %25 BIST Teknoloji Ağırlık Sınırlandırmalı Getiri Endeksi + %10 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/sgt_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/sgt_ic_tuzugu_20250205.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/sgt_yat_bilgi_20250617.pdf"
+      }
+    ]
   },
   {
     "code": "YIT",
@@ -481,7 +1827,69 @@
     "category_tr": "Tematik Değişken Fonlar",
     "category_en": "Thematic Variable Funds",
     "alias_tr": "yari-iletken-teknolojileri-degisken-fon",
-    "alias_en": "semiconductor-technologies-variable-fund"
+    "alias_en": "semiconductor-technologies-variable-fund",
+    "first_offering_date": "2025-02-26",
+    "annual_management_fee": 2.7009999999999996,
+    "latest_price_close": 1.832369,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 432060693.63,
+    "distribution": [
+      {
+        "Name": "Yabancı Hisse (%)",
+        "Percentage": "60.5"
+      },
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "17.65"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "13.54"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "6.64"
+      },
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "1.35"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "0.21"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "0.11"
+      }
+    ],
+    "returns": {
+      "Weekly": -4.791722,
+      "OneMonth": -2.129536,
+      "ThreeMonth": 18.198596,
+      "SixMonth": 42.59226,
+      "FRomBeginOfYear": 13.934732,
+      "OneYear": 83.682698,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 83.2369
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-yari-iletken-teknolojileri-degisken-fon-yit.pdf",
+    "compare_measure": "%65 NYSE Semiconductor Net Total Return Index (ICESEMIN) + %25 BIST Teknoloji Ağırlık Sınırlandırmalı Getiri Endeksi + %10 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/yit_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/yıt_ic_tuzugu_20250206.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/yit_yat_bilgi_20250626.pdf"
+      }
+    ]
   },
   {
     "code": "GTA",
@@ -490,7 +1898,73 @@
     "category_tr": "Kıymetli Madenler ve Emtia Fonları",
     "category_en": "Precious Metals and Commodity Funds",
     "alias_tr": "altin-fonu",
-    "alias_en": "gold-fund"
+    "alias_en": "gold-fund",
+    "first_offering_date": "2005-01-07",
+    "annual_management_fee": 1.9490999999999998,
+    "latest_price_close": 1.789735,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 31426599266.61,
+    "distribution": [
+      {
+        "Name": "Kıymetli Maden (%)",
+        "Percentage": "46.51"
+      },
+      {
+        "Name": "Kıymetli Madenler Cinsinden İhraç Edilen Kamu Kira Sertifikaları (%)",
+        "Percentage": "33.6"
+      },
+      {
+        "Name": "Kıymetli Madenler Cinsinden BYF (%)",
+        "Percentage": "9.57"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "4.2"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "2.81"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "1.7"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "1.59"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "0.01"
+      }
+    ],
+    "returns": {
+      "Weekly": 1.098408,
+      "OneMonth": 4.208249,
+      "ThreeMonth": 27.679527,
+      "SixMonth": 57.550008,
+      "FRomBeginOfYear": 21.739749,
+      "OneYear": 110.846042,
+      "ThreeYear": 489.62275,
+      "FirstOfferingDate": 17634.195402
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-altin-fonu-gta.pdf",
+    "compare_measure": "%95 BIST-KYD Altın Fiyat Ağırlıklı Ortalama Endeksi + %5 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gta_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gta_ic_tuzugu_20150622.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gta_yat_bilgi_20250704.pdf"
+      }
+    ]
   },
   {
     "code": "GTZ",
@@ -499,7 +1973,73 @@
     "category_tr": "Kıymetli Madenler ve Emtia Fonları",
     "category_en": "Precious Metals and Commodity Funds",
     "alias_tr": "gumus-fon-sepeti-fonu",
-    "alias_en": "silver-fund-of-funds"
+    "alias_en": "silver-fund-of-funds",
+    "first_offering_date": "2020-11-16",
+    "annual_management_fee": 2.9017499999999994,
+    "latest_price_close": 13.86705,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 18638019311.87,
+    "distribution": [
+      {
+        "Name": "Kıymetli Madenler Cinsinden BYF (%)",
+        "Percentage": "36.26"
+      },
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "33.33"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "11.97"
+      },
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "11.64"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "6.37"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "0.26"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "0.16"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "0.01"
+      }
+    ],
+    "returns": {
+      "Weekly": -6.132332,
+      "OneMonth": -5.587765,
+      "ThreeMonth": 43.147392,
+      "SixMonth": 103.014031,
+      "FRomBeginOfYear": 13.635069,
+      "OneYear": 192.312794,
+      "ThreeYear": 693.023228,
+      "FirstOfferingDate": 1286.705
+    },
+    "risk_level": "7 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-guemues-fon-sepeti-fonu-gtz.pdf",
+    "compare_measure": "%90 Bloomberg G&uuml;m&uuml;ş Fiyatı (TL) (Bloomberg&rsquo;de ilan edilen &ldquo;XAG&rdquo; kodlu uluslararası ABD Doları cinsinden spot g&uuml;m&uuml;ş ons fiyatının TCMB alış kuru ile &ccedil;arpılması yoluyla hesaplanan değer) + %10 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gtz_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gtz_ic_tuzugu_20150409.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gtz_yat_bilgi_20250704.pdf"
+      }
+    ]
   },
   {
     "code": "GZE",
@@ -508,7 +2048,65 @@
     "category_tr": "Kıymetli Madenler ve Emtia Fonları",
     "category_en": "Precious Metals and Commodity Funds",
     "alias_tr": "emtia-serbest-fon",
-    "alias_en": "commodity-hedge-fund"
+    "alias_en": "commodity-hedge-fund",
+    "first_offering_date": "2021-08-16",
+    "annual_management_fee": 3.0002999999999997,
+    "latest_price_close": 7.029882,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 1779525238.8,
+    "distribution": [
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "60.75"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "22.98"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "8.35"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "4.95"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "2.93"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "0.04"
+      }
+    ],
+    "returns": {
+      "Weekly": 3.862218,
+      "OneMonth": 7.027615,
+      "ThreeMonth": 17.682444,
+      "SixMonth": 37.677932,
+      "FRomBeginOfYear": 13.531338,
+      "OneYear": 62.887716,
+      "ThreeYear": 220.536815,
+      "FirstOfferingDate": 602.9882
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-emtia-serbest-fon-gze.pdf",
+    "compare_measure": "Fon&rsquo;un eşik değeri %100 BIST-KYD Repo (Br&uuml;t) Endeksi&rsquo;dir.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gze_izahname__20251222.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gze_ic_tuzugu_20240717.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gze_yat_bilgi_20251222.pdf"
+      }
+    ]
   },
   {
     "code": "GBJ",
@@ -517,7 +2115,61 @@
     "category_tr": "Hisse Senedi Fonları",
     "category_en": "Equity Funds",
     "alias_tr": "bankacilik-sektoru-hisse-senedi-serbest-fon-hisse-senedi-yogun-fon",
-    "alias_en": "banking-sector-equity-hedge-fund-equity-intense-fund"
+    "alias_en": "banking-sector-equity-hedge-fund-equity-intense-fund",
+    "first_offering_date": "2024-04-24",
+    "annual_management_fee": 3.20105,
+    "latest_price_close": 1.533098,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 698371989.59,
+    "distribution": [
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "84.26"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "7.69"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "3.38"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "2.77"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "1.9"
+      }
+    ],
+    "returns": {
+      "Weekly": -12.049836,
+      "OneMonth": -9.428039,
+      "ThreeMonth": 9.228779,
+      "SixMonth": 25.619392,
+      "FRomBeginOfYear": 8.420549,
+      "OneYear": 18.0563,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 53.3098
+    },
+    "risk_level": "7 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-bankacilik-sektoerue-hisse-senedi-serbest-fon-gbj.pdf",
+    "compare_measure": "%90 BIST Banka Getiri Endeksi + %10 BIST KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gbj_izahname__20241213.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gbj_ic_tuzugu_20240717.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gbj_yat_bilgi_20250703.pdf"
+      }
+    ]
   },
   {
     "code": "GHS",
@@ -526,7 +2178,57 @@
     "category_tr": "Hisse Senedi Fonları",
     "category_en": "Equity Funds",
     "alias_tr": "hisse-senedi-fonu-hisse-senedi-yogun-fon",
-    "alias_en": "equity-fund-equity-intense-fund"
+    "alias_en": "equity-fund-equity-intense-fund",
+    "first_offering_date": "1997-06-30",
+    "annual_management_fee": 3.20105,
+    "latest_price_close": 36.682697,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 3272481525.1,
+    "distribution": [
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "95.08"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "2.35"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "1.86"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "0.71"
+      }
+    ],
+    "returns": {
+      "Weekly": -7.77783,
+      "OneMonth": -6.459644,
+      "ThreeMonth": 17.507203,
+      "SixMonth": 23.514137,
+      "FRomBeginOfYear": 14.232234,
+      "OneYear": 30.234356,
+      "ThreeYear": 248.109307,
+      "FirstOfferingDate": 48140.047605
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-hisse-senedi-tl-fonu-ghs.pdf",
+    "compare_measure": "%90 BIST 100 Endeksi + %10 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/ghs_izahname__20251222.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/ghs_ic_tuzugu_20150622.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/ghs_yat_bilgi_20251222.pdf"
+      }
+    ]
   },
   {
     "code": "GAE",
@@ -535,7 +2237,57 @@
     "category_tr": "Hisse Senedi Fonları",
     "category_en": "Equity Funds",
     "alias_tr": "bist-30-endeksi-hisse-senedi-fonu-hisse-senedi-yogun-fon",
-    "alias_en": "bist30-index-equity-fund"
+    "alias_en": "bist30-index-equity-fund",
+    "first_offering_date": "2000-09-15",
+    "annual_management_fee": 2.0513,
+    "latest_price_close": 0.408259,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 1907417651.97,
+    "distribution": [
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "92.37"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "4.08"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "2.04"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "1.52"
+      }
+    ],
+    "returns": {
+      "Weekly": -5.956892,
+      "OneMonth": -3.345944,
+      "ThreeMonth": 20.657462,
+      "SixMonth": 24.010218,
+      "FRomBeginOfYear": 18.715487,
+      "OneYear": 34.104713,
+      "ThreeYear": 171.488516,
+      "FirstOfferingDate": 8026.174363
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-bist-30-endeksi-hisse-senedi-tl-fonu-gae.pdf",
+    "compare_measure": "%95 BIST 30 Endeksi + %5 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gae_izahname__20251222.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gae_ic_tuzugu_20150622.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gae_yat_bilgi_20251222.pdf"
+      }
+    ]
   },
   {
     "code": "GOH",
@@ -544,7 +2296,57 @@
     "category_tr": "Hisse Senedi Fonları",
     "category_en": "Equity Funds",
     "alias_tr": "bist-100-disi-sirketler-hisse-senedi-fonu-hisse-senedi-yogun-fon",
-    "alias_en": "non-bist100-equity-fund"
+    "alias_en": "non-bist100-equity-fund",
+    "first_offering_date": "2021-05-31",
+    "annual_management_fee": 3.20105,
+    "latest_price_close": 14.428783,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 656477139.53,
+    "distribution": [
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "95.42"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "4.23"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "0.24"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "0.11"
+      }
+    ],
+    "returns": {
+      "Weekly": -6.556934,
+      "OneMonth": -5.02831,
+      "ThreeMonth": 9.578342,
+      "SixMonth": 11.012047,
+      "FRomBeginOfYear": 7.992848,
+      "OneYear": 33.722645,
+      "ThreeYear": 217.891486,
+      "FirstOfferingDate": 1342.8783
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-bist-100-disi-sirketler-hisse-senedi-tl-fonu-goh.pdf",
+    "compare_measure": "%90 BIST T&uuml;m - 100 Getiri Endeksi (XTUMY) + %10 BIST KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/goh_izahname__20251222.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/goh_ic_tuzugu_20150624.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/goh_yat_bilgi_20251222.pdf"
+      }
+    ]
   },
   {
     "code": "GZR",
@@ -553,7 +2355,57 @@
     "category_tr": "Hisse Senedi Fonları",
     "category_en": "Equity Funds",
     "alias_tr": "surdurulebilirlik-hisse-senedi-fonu-hisse-senedi-yogun-fon",
-    "alias_en": "sustainability-equity-fund-equity-intense-fund"
+    "alias_en": "sustainability-equity-fund-equity-intense-fund",
+    "first_offering_date": "2021-01-18",
+    "annual_management_fee": 2.20095,
+    "latest_price_close": 10.698735,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 987127002.84,
+    "distribution": [
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "90.16"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "4.51"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "3.1"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "2.23"
+      }
+    ],
+    "returns": {
+      "Weekly": -6.11952,
+      "OneMonth": -5.425422,
+      "ThreeMonth": 16.435155,
+      "SixMonth": 18.569057,
+      "FRomBeginOfYear": 14.470357,
+      "OneYear": 25.970084,
+      "ThreeYear": 208.01022,
+      "FirstOfferingDate": 969.8735
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-suerdueruelebilirlik-hisse-senedi-tl-fonu-gzr.pdf",
+    "compare_measure": "%90 BIST S&uuml;rd&uuml;r&uuml;lebilirlik Getiri Endeksi + %10 BIST KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzr_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzr_ic_tuzugu_20150624.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gzr_yat_bilgi_20250624.pdf"
+      }
+    ]
   },
   {
     "code": "GTM",
@@ -562,7 +2414,57 @@
     "category_tr": "Hisse Senedi Fonları",
     "category_en": "Equity Funds",
     "alias_tr": "temettu-odeyen-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
-    "alias_en": "dividend-paying-companies-equity-tl-fund-equity-intense-fund"
+    "alias_en": "dividend-paying-companies-equity-tl-fund-equity-intense-fund",
+    "first_offering_date": "2022-08-03",
+    "annual_management_fee": 3.20105,
+    "latest_price_close": 7.091921,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 1134080085.56,
+    "distribution": [
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "90.42"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "4.37"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "3.12"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "2.09"
+      }
+    ],
+    "returns": {
+      "Weekly": -6.749348,
+      "OneMonth": -4.811911,
+      "ThreeMonth": 20.586948,
+      "SixMonth": 27.313274,
+      "FRomBeginOfYear": 16.036783,
+      "OneYear": 39.402884,
+      "ThreeYear": 277.028692,
+      "FirstOfferingDate": 609.1921
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-temettue-oedeyen-sirketler-hisse-senedi-tl-fonu-gtm.pdf",
+    "compare_measure": "%90 BIST Temett&uuml; Getiri Endeksi (XTMTU) + %10 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gtm_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gtm_ic_tuzugu_20220729.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gtm_yat_bilgi_20250626.pdf"
+      }
+    ]
   },
   {
     "code": "GIE",
@@ -571,7 +2473,53 @@
     "category_tr": "Hisse Senedi Fonları",
     "category_en": "Equity Funds",
     "alias_tr": "garanti-bbva-iklim-endeksi-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
-    "alias_en": "garanti-bbva-climate-index-equity-tl-fund-equity-intense-fund"
+    "alias_en": "garanti-bbva-climate-index-equity-tl-fund-equity-intense-fund",
+    "first_offering_date": "2023-01-09",
+    "annual_management_fee": 2.0002,
+    "latest_price_close": 3.353525,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 102872824.29,
+    "distribution": [
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "90.81"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "5.34"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "3.85"
+      }
+    ],
+    "returns": {
+      "Weekly": -6.881111,
+      "OneMonth": -6.227184,
+      "ThreeMonth": 17.671755,
+      "SixMonth": 19.931214,
+      "FRomBeginOfYear": 15.083456,
+      "OneYear": 25.538029,
+      "ThreeYear": 229.522263,
+      "FirstOfferingDate": 235.3525
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/02012025-fon-brosuru-garanti-bbva-iklim-endeksi-hisse-senedi-tl-fonu-gie.pdf",
+    "compare_measure": "%90 Garanti BBVA İklim Getiri Endeksi (GBNIE) + %10 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gie_izahname__20260203.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gie_ic_tuzugu_20230105.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gie_yat_bilgi_20260203.pdf"
+      }
+    ]
   },
   {
     "code": "GBH",
@@ -580,7 +2528,61 @@
     "category_tr": "Hisse Senedi Fonları",
     "category_en": "Equity Funds",
     "alias_tr": "birinci-hisse-senedi-serbest-fon-hisse-senedi-yogun-fon",
-    "alias_en": "first-equity-hedge-fund-equity-intense-fund"
+    "alias_en": "first-equity-hedge-fund-equity-intense-fund",
+    "first_offering_date": "2023-03-06",
+    "annual_management_fee": 3.20105,
+    "latest_price_close": 3.838906,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 2128261924.1,
+    "distribution": [
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "80.88"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "12.94"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "4.13"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "1.1"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "0.95"
+      }
+    ],
+    "returns": {
+      "Weekly": -6.362711,
+      "OneMonth": -5.609871,
+      "ThreeMonth": 20.552678,
+      "SixMonth": 24.52462,
+      "FRomBeginOfYear": 16.530387,
+      "OneYear": 34.998152,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 283.8906
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-birinci-hisse-senedi-serbest-fon-gbh.pdf",
+    "compare_measure": "Fon'un eşik değeri %90 BIST100 Getiri Endeksi + %10 BIST-KYD Repo (Br&uuml;t) Endeksi'dir.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gbh_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gbh_ic_tuzugu_20240717.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gbh_yat_bilgi_20251007.pdf"
+      }
+    ]
   },
   {
     "code": "GUH",
@@ -589,7 +2591,57 @@
     "category_tr": "Hisse Senedi Fonları",
     "category_en": "Equity Funds",
     "alias_tr": "yabanci-teknoloji-hisse-senedi-fonu",
-    "alias_en": "foreign-technology-equity-fund"
+    "alias_en": "foreign-technology-equity-fund",
+    "first_offering_date": "2014-04-28",
+    "annual_management_fee": 3.0002999999999997,
+    "latest_price_close": 0.311,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 2281166165.18,
+    "distribution": [
+      {
+        "Name": "Yabancı Hisse (%)",
+        "Percentage": "95.16"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "3.57"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "1.22"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "0.04"
+      }
+    ],
+    "returns": {
+      "Weekly": -2.035519,
+      "OneMonth": -5.000748,
+      "ThreeMonth": 1.416571,
+      "SixMonth": 22.225366,
+      "FRomBeginOfYear": -1.432556,
+      "OneYear": 52.657517,
+      "ThreeYear": 285.521259,
+      "FirstOfferingDate": 3009.378124
+    },
+    "risk_level": "7 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/fon-brosuru-yabanci-teknoloji-hisse-senedi-fonu-guh.pdf",
+    "compare_measure": "%95 Nasdaq 100 Teknoloji Sekt&ouml;r&uuml; Getiri Endeksi (Nasdaq-100 Technology Sector Total Return Index) + %5 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/guh_izahname__20260102.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/guh_ic_tuzugu_20150129.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/guh_yat_bilgi_20260102.pdf"
+      }
+    ]
   },
   {
     "code": "MUT",
@@ -598,7 +2650,57 @@
     "category_tr": "Hisse Senedi Fonları",
     "category_en": "Equity Funds",
     "alias_tr": "mutlak-getiri-hedefli-hisse-senedi-serbest-fon",
-    "alias_en": "absolute-return-targeted-equity-hedge-fund"
+    "alias_en": "absolute-return-targeted-equity-hedge-fund",
+    "first_offering_date": "2024-08-21",
+    "annual_management_fee": 2.50025,
+    "latest_price_close": 1.714121,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 1210599910.23,
+    "distribution": [
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "78.53"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "20.5"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "0.89"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "0.08"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.612555,
+      "OneMonth": 0.394169,
+      "ThreeMonth": 7.134504,
+      "SixMonth": 18.137352,
+      "FRomBeginOfYear": 3.653999,
+      "OneYear": 37.719228,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 71.4121
+    },
+    "risk_level": "2 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-mutlak-getiri-hedefli-hisse-senedi-serbest-fon-mut.pdf",
+    "compare_measure": "%100 BIST-KYD 1 Aylık Mevduat TL Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/mut-izahname-20250502.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/mut_ic_tuzugu_20240815.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/mut_yat_bilgi_20250703.pdf"
+      }
+    ]
   },
   {
     "code": "GRT",
@@ -607,7 +2709,53 @@
     "category_tr": "Hisse Senedi Fonları",
     "category_en": "Equity Funds",
     "alias_tr": "teknoloji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
-    "alias_en": "technology-companies-equity-tl-fund-equity-intense-fund"
+    "alias_en": "technology-companies-equity-tl-fund-equity-intense-fund",
+    "first_offering_date": "2025-01-29",
+    "annual_management_fee": 3.20105,
+    "latest_price_close": 1.386278,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 59195563.22,
+    "distribution": [
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "89.33"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "10.44"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "0.23"
+      }
+    ],
+    "returns": {
+      "Weekly": 2.895642,
+      "OneMonth": 4.562491,
+      "ThreeMonth": 24.334995,
+      "SixMonth": 15.392389,
+      "FRomBeginOfYear": 18.596597,
+      "OneYear": 42.639097,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 38.6278
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-teknoloji-sirketleri-hisse-senedi-tl-fonu-grt.pdf",
+    "compare_measure": "%90 BIST Teknoloji Ağırlık Sınırlamalı Getiri Endeksi (XTKJS) + %10 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/grt_izahname__20250812.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/grt_ic_tuzugu_20250127.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/grt_yat_bilgi_20250626.pdf"
+      }
+    ]
   },
   {
     "code": "GTH",
@@ -616,7 +2764,53 @@
     "category_tr": "Hisse Senedi Fonları",
     "category_en": "Equity Funds",
     "alias_tr": "ihracatci-sirketler-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
-    "alias_en": "exporting-companies-equity-tl-fund-equity-intense-fund"
+    "alias_en": "exporting-companies-equity-tl-fund-equity-intense-fund",
+    "first_offering_date": "2025-02-05",
+    "annual_management_fee": 3.20105,
+    "latest_price_close": 1.181274,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 7884505.02,
+    "distribution": [
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "91.69"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "6.45"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "1.85"
+      }
+    ],
+    "returns": {
+      "Weekly": -5.620848,
+      "OneMonth": -5.119316,
+      "ThreeMonth": 13.123062,
+      "SixMonth": 8.713866,
+      "FRomBeginOfYear": 10.27206,
+      "OneYear": 19.819369,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 18.1274
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-ihracatci-sirketler-hisse-senedi-tl-fonu-gth.pdf",
+    "compare_measure": "%60 BIST Sınai Getiri Endeksi (XUSIN) + %35 BIST S&uuml;rd&uuml;r&uuml;lebilirlik Getiri Endeksi + %5 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gth_izahname__20250812.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gth_ic_tuzugu_20250204.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gth_yat_bilgi_20250626.pdf"
+      }
+    ]
   },
   {
     "code": "GNS",
@@ -625,7 +2819,53 @@
     "category_tr": "Hisse Senedi Fonları",
     "category_en": "Equity Funds",
     "alias_tr": "enerji-sirketleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
-    "alias_en": "energy-companies-equity-tl-fund-equity-intense-fund"
+    "alias_en": "energy-companies-equity-tl-fund-equity-intense-fund",
+    "first_offering_date": "2025-02-12",
+    "annual_management_fee": 3.20105,
+    "latest_price_close": 1.345724,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 58462726.26,
+    "distribution": [
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "90.98"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "8.52"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "0.5"
+      }
+    ],
+    "returns": {
+      "Weekly": -6.572378,
+      "OneMonth": -6.430763,
+      "ThreeMonth": 5.235401,
+      "SixMonth": 9.50719,
+      "FRomBeginOfYear": 4.06284,
+      "OneYear": 36.45092,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 34.5724
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-enerji-sirketleri-hisse-senedi-tl-fonu-gns.pdf",
+    "compare_measure": "%90 BIST Elektrik Getiri Endeksi (XELKT) + %10 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gns_izahname__20250812.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gns_ic_tuzugu_20250127.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gns_yat_bilgi_20250626.pdf"
+      }
+    ]
   },
   {
     "code": "GKG",
@@ -634,7 +2874,49 @@
     "category_tr": "Hisse Senedi Fonları",
     "category_en": "Equity Funds",
     "alias_tr": "kar-payi-odeyen-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
-    "alias_en": "dividend-paying-equity-tl-fund-equity-intense-fund"
+    "alias_en": "dividend-paying-equity-tl-fund-equity-intense-fund",
+    "first_offering_date": "2025-03-12",
+    "annual_management_fee": 3.20105,
+    "latest_price_close": 1.253743,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 45931177.9,
+    "distribution": [
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "92.85"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "7.15"
+      }
+    ],
+    "returns": {
+      "Weekly": -6.636567,
+      "OneMonth": -4.834329,
+      "ThreeMonth": 18.767051,
+      "SixMonth": 25.600381,
+      "FRomBeginOfYear": 15.851107,
+      "OneYear": 0.0,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 25.3743
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-kar-payi-oedeyen-hisse-senedi-tl-fonu-gkg.pdf",
+    "compare_measure": "%90 BIST Temett&uuml; Getiri Endeksi + %10 BIST-KYD Repo (Br&uuml;t) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gkg_izahname__20260203.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gkg_ic_tuzugu_20250310.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gkg_yat_bilgi_20260203.pdf"
+      }
+    ]
   },
   {
     "code": "HIH",
@@ -643,7 +2925,57 @@
     "category_tr": "Hisse Senedi Fonları",
     "category_en": "Equity Funds",
     "alias_tr": "holdingler-ve-istirakleri-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
-    "alias_en": "holdings-and-subsidiaries-equity-tl-fund-equity-intense-fund"
+    "alias_en": "holdings-and-subsidiaries-equity-tl-fund-equity-intense-fund",
+    "first_offering_date": "2025-06-18",
+    "annual_management_fee": 3.20105,
+    "latest_price_close": 1.321524,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 493401732.77,
+    "distribution": [
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "81.26"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "11.44"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "6.6"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "0.7"
+      }
+    ],
+    "returns": {
+      "Weekly": -8.689695,
+      "OneMonth": -10.237921,
+      "ThreeMonth": 9.243403,
+      "SixMonth": 14.724588,
+      "FRomBeginOfYear": 7.490264,
+      "OneYear": 0.0,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 32.1524
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-holdingler-ve-istirakleri-hisse-senedi-tl-fonu-hsyf-.pdf",
+    "compare_measure": "%60 BIST Holding ve Yatırım Getiri Endeksi (XHOLD) +%30 BIST100 Getiri Endeksi + %10 BIST-KYD Repo (Br&uuml;t) Endeksi&nbsp;",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/hih_izahname__20251107.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/hih_ic_tuzugu_20250618.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/hih_yat_bilgi_20251107.pdf"
+      }
+    ]
   },
   {
     "code": "GPF",
@@ -652,7 +2984,73 @@
     "category_tr": "Katılım Fonları",
     "category_en": "Participation Funds",
     "alias_tr": "coklu-varlik-katilim-fonu",
-    "alias_en": "multi-asset-participation-fund"
+    "alias_en": "multi-asset-participation-fund",
+    "first_offering_date": "2015-05-25",
+    "annual_management_fee": 1.825,
+    "latest_price_close": 7.883255,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 924052228.6,
+    "distribution": [
+      {
+        "Name": "Özel Sektör Kira Sertifikaları (%)",
+        "Percentage": "35.08"
+      },
+      {
+        "Name": "Kamu Kira Sertifikaları (TL) (%)",
+        "Percentage": "20.05"
+      },
+      {
+        "Name": "Katılma Hesabı (TL) (%)",
+        "Percentage": "15.52"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "11.25"
+      },
+      {
+        "Name": "BİST Taahhütlü İşlem Pazarı Satım (%)",
+        "Percentage": "10.16"
+      },
+      {
+        "Name": "Kıymetli Madenler Cinsinden BYF (%)",
+        "Percentage": "5.2"
+      },
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "2.71"
+      },
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "0.04"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.155545,
+      "OneMonth": 2.229127,
+      "ThreeMonth": 9.430332,
+      "SixMonth": 21.00397,
+      "FRomBeginOfYear": 6.209591,
+      "OneYear": 50.108603,
+      "ThreeYear": 190.013634,
+      "FirstOfferingDate": 688.3255
+    },
+    "risk_level": "2 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-coklu-varlik-katilim-fonu-gpf.pdf",
+    "compare_measure": "Fon&rsquo;un eşik değeri BIST-KYD 1 Aylık Kar Payı TL Endeksi&rsquo;dir.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpf_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpf_ic_tuzugu_20150129.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpf_yat_bilgi_20250617.pdf"
+      }
+    ]
   },
   {
     "code": "GKV",
@@ -661,7 +3059,49 @@
     "category_tr": "Katılım Fonları",
     "category_en": "Participation Funds",
     "alias_tr": "katilim-hisse-senedi-tl-fonu-hisse-senedi-yogun-fon",
-    "alias_en": "participation-equity-tl-fund-equity-intense-fund"
+    "alias_en": "participation-equity-tl-fund-equity-intense-fund",
+    "first_offering_date": "2022-07-27",
+    "annual_management_fee": 3.20105,
+    "latest_price_close": 6.699745,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 359308401.36,
+    "distribution": [
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "95.43"
+      },
+      {
+        "Name": "Katılma Hesabı (TL) (%)",
+        "Percentage": "4.57"
+      }
+    ],
+    "returns": {
+      "Weekly": -4.403704,
+      "OneMonth": -3.324341,
+      "ThreeMonth": 21.288652,
+      "SixMonth": 18.628332,
+      "FRomBeginOfYear": 16.12279,
+      "OneYear": 35.5513,
+      "ThreeYear": 187.412936,
+      "FirstOfferingDate": 569.9745
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-katilim-hisse-senedi-tl-fon-gkv.pdf",
+    "compare_measure": "%90 BIST Katılım 100 Getiri Endeksi + %10 BIST-KYD 1 Aylık Kar Payı TL Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gkv_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gkv_ic_tuzugu_20220727.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gkv_yat_bilgi_20250704.pdf"
+      }
+    ]
   },
   {
     "code": "GKH",
@@ -670,7 +3110,57 @@
     "category_tr": "Katılım Fonları",
     "category_en": "Participation Funds",
     "alias_tr": "katilim-serbest-tl-fonu",
-    "alias_en": "participation-hedge-tl-fund"
+    "alias_en": "participation-hedge-tl-fund",
+    "first_offering_date": "2022-07-27",
+    "annual_management_fee": 1.0001,
+    "latest_price_close": 3.755817,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 5522799458.61,
+    "distribution": [
+      {
+        "Name": "Katılma Hesabı (TL) (%)",
+        "Percentage": "64.69"
+      },
+      {
+        "Name": "Kamu Kira Sertifikaları (TL) (%)",
+        "Percentage": "17.24"
+      },
+      {
+        "Name": "BİST Taahhütlü İşlem Pazarı Satım (%)",
+        "Percentage": "12.69"
+      },
+      {
+        "Name": "Özel Sektör Kira Sertifikaları (%)",
+        "Percentage": "5.39"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.573883,
+      "OneMonth": 2.603878,
+      "ThreeMonth": 9.21438,
+      "SixMonth": 20.169416,
+      "FRomBeginOfYear": 6.059854,
+      "OneYear": 49.06035,
+      "ThreeYear": 230.771141,
+      "FirstOfferingDate": 275.5817
+    },
+    "risk_level": "2 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-para-piyasasi-katilim-serbest-tl-fon-gkh.pdf",
+    "compare_measure": "%100 BIST-KYD 1 Aylık Kar Payı TL Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gkh_izahname__20250304.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gkh_ic_tuzugu_20240717.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gkh_yat_bilgi_20250703.pdf"
+      }
+    ]
   },
   {
     "code": "GOL",
@@ -679,7 +3169,53 @@
     "category_tr": "Katılım Fonları",
     "category_en": "Participation Funds",
     "alias_tr": "altin-katilim-fonu",
-    "alias_en": "gold-participation-fund"
+    "alias_en": "gold-participation-fund",
+    "first_offering_date": "2024-03-18",
+    "annual_management_fee": 1.9490999999999998,
+    "latest_price_close": 3.17041,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 6844505187.01,
+    "distribution": [
+      {
+        "Name": "Kıymetli Maden (%)",
+        "Percentage": "98.63"
+      },
+      {
+        "Name": "Katılma Hesabı (TL) (%)",
+        "Percentage": "0.94"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "0.43"
+      }
+    ],
+    "returns": {
+      "Weekly": 1.382136,
+      "OneMonth": 3.662542,
+      "ThreeMonth": 28.095925,
+      "SixMonth": 57.411692,
+      "FRomBeginOfYear": 22.136849,
+      "OneYear": 109.957868,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 217.041
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-altin-katilim-fonu.pdf",
+    "compare_measure": "%90 BIST-KYD Altın Fiyat Ağırlıklı Ortalama Endeksi + %10 BIST-KYD 1 Aylık Kar Payı TL Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gol_izahname__20251222.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gol_ic_tuzugu_20240313.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gol_yat_bilgi_20251222.pdf"
+      }
+    ]
   },
   {
     "code": "KDT",
@@ -688,7 +3224,61 @@
     "category_tr": "Katılım Fonları",
     "category_en": "Participation Funds",
     "alias_tr": "katilim-serbest-doviz-fon",
-    "alias_en": "participation-hedge-fx-fund"
+    "alias_en": "participation-hedge-fx-fund",
+    "first_offering_date": "2024-04-29",
+    "annual_management_fee": 0.4015,
+    "latest_price_close": 1.1217620348451742,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 119908086.32097933,
+    "distribution": [
+      {
+        "Name": "Kamu Yurt Dışı Kira Sertifikaları (%)",
+        "Percentage": "79.77"
+      },
+      {
+        "Name": "Özel Sektör Yurt Dışı Kira Sertifikaları (%)",
+        "Percentage": "8.95"
+      },
+      {
+        "Name": "Katılma Hesabı (TL) (%)",
+        "Percentage": "5.58"
+      },
+      {
+        "Name": "Kamu Kira Sertifikaları (Döviz) (%)",
+        "Percentage": "4.25"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "1.45"
+      }
+    ],
+    "returns": {
+      "Weekly": -0.281104,
+      "OneMonth": 0.008198,
+      "ThreeMonth": 0.651751,
+      "SixMonth": 3.146456,
+      "FRomBeginOfYear": 0.205137,
+      "OneYear": 7.343921,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 12.176203
+    },
+    "risk_level": "4 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-katilim-serbest-doeviz-fon-kdt.pdf",
+    "compare_measure": "Fon'un eşik değeri %100 BIST-KYD 1 Aylık Kar Payı USD Endeksi'dir.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/kdt_izahname__20240702.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/kdt_ic_tuzugu_20240717.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/kdt_yat_bilgi_20251231.pdf"
+      }
+    ]
   },
   {
     "code": "GPN",
@@ -697,7 +3287,57 @@
     "category_tr": "Katılım Fonları",
     "category_en": "Participation Funds",
     "alias_tr": "para-piyasasi-katilim-tl-fonu",
-    "alias_en": "money-market-participation-tl-fund"
+    "alias_en": "money-market-participation-tl-fund",
+    "first_offering_date": "2025-10-08",
+    "annual_management_fee": 1.0001,
+    "latest_price_close": 1.160959,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 1454028943.35,
+    "distribution": [
+      {
+        "Name": "BİST Taahhütlü İşlem Pazarı Satım (%)",
+        "Percentage": "62.94"
+      },
+      {
+        "Name": "Kamu Kira Sertifikaları (TL) (%)",
+        "Percentage": "24.54"
+      },
+      {
+        "Name": "Katılma Hesabı (TL) (%)",
+        "Percentage": "11.58"
+      },
+      {
+        "Name": "Özel Sektör Kira Sertifikaları (%)",
+        "Percentage": "0.94"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.561728,
+      "OneMonth": 2.575342,
+      "ThreeMonth": 9.152697,
+      "SixMonth": 0.0,
+      "FRomBeginOfYear": 6.011261,
+      "OneYear": 0.0,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 16.0959
+    },
+    "risk_level": "1 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/fon-brosuru-para-piyasasi-katilim-tl-fonu-gpn.pdf",
+    "compare_measure": "%100 BIST-KYD 1 Aylık Kar Payı TL Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpn_izahname__20251222.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpn_ic_tuzugu_20251009.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpn_yat_bilgi_20251222.pdf"
+      }
+    ]
   },
   {
     "code": "GUK",
@@ -706,7 +3346,57 @@
     "category_tr": "Katılım Fonları",
     "category_en": "Participation Funds",
     "alias_tr": "gumus-katilim-serbest-fon",
-    "alias_en": "silver-participation-hedge-fund"
+    "alias_en": "silver-participation-hedge-fund",
+    "first_offering_date": "2025-11-03",
+    "annual_management_fee": 2.50025,
+    "latest_price_close": 1.68511,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 1620151088.07,
+    "distribution": [
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "34.61"
+      },
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "33.26"
+      },
+      {
+        "Name": "Kıymetli Madenler Cinsinden BYF (%)",
+        "Percentage": "30.5"
+      },
+      {
+        "Name": "Katılma Hesabı (TL) (%)",
+        "Percentage": "1.63"
+      }
+    ],
+    "returns": {
+      "Weekly": -5.473379,
+      "OneMonth": -5.695455,
+      "ThreeMonth": 40.061207,
+      "SixMonth": 0.0,
+      "FRomBeginOfYear": 11.718395,
+      "OneYear": 0.0,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 68.511
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-guemues-katilim-serbest-fon-guk.pdf",
+    "compare_measure": "%90 Bloomberg G&uuml;m&uuml;ş fiyatı (TL) (Bloomberg&rsquo;de ilan edilen &ldquo;XAG&rdquo; kodlu uluslararası ABD Doları cinsinden spot g&uuml;m&uuml;ş ons fiyatının TCMB alış kuru ile &ccedil;arpılması yoluyla hesaplanan değer) + %10 BIST-KYD 1 Aylık Kar Payı TL Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/guk_izahname__20251028.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/guk_ic_tuzugu_20251028.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/guk_yat_bilgi_20251114.pdf"
+      }
+    ]
   },
   {
     "code": "GPB",
@@ -715,7 +3405,81 @@
     "category_tr": "SMART Fonlar",
     "category_en": "SMART Funds",
     "alias_tr": "smart-temkinli-degisken-fon-birinci-degisken-fon",
-    "alias_en": "smart-conservative-variable-fund-first-variable-fund"
+    "alias_en": "smart-conservative-variable-fund-first-variable-fund",
+    "first_offering_date": "2015-04-27",
+    "annual_management_fee": 2.50025,
+    "latest_price_close": 10.677097,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 1330240846.79,
+    "distribution": [
+      {
+        "Name": "Tahvil (%)",
+        "Percentage": "26.82"
+      },
+      {
+        "Name": "Özel Tahvil (%)",
+        "Percentage": "25.25"
+      },
+      {
+        "Name": "Finansman Bonosu (%)",
+        "Percentage": "13.97"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "8.32"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "8.22"
+      },
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "7"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "5.49"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "1.93"
+      },
+      {
+        "Name": "Hazine Bonosu (%)",
+        "Percentage": "1.63"
+      },
+      {
+        "Name": "Kamu Kira Sertifikaları (TL) (%)",
+        "Percentage": "1.37"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.255176,
+      "OneMonth": 2.022915,
+      "ThreeMonth": 11.186532,
+      "SixMonth": 21.304994,
+      "FRomBeginOfYear": 7.913122,
+      "OneYear": 47.624786,
+      "ThreeYear": 227.188314,
+      "FirstOfferingDate": 967.7097
+    },
+    "risk_level": "2 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-smart-temkinli-degisken-fon-gpb.pdf",
+    "compare_measure": "Fonun eşik değeri %100 BIST-KYD 1 Aylık Mevduat TL Endeksi&rsquo;dir.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpb_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpb_ic_tuzugu_20150129.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpb_yat_bilgi_20250623.pdf"
+      }
+    ]
   },
   {
     "code": "GPI",
@@ -724,7 +3488,89 @@
     "category_tr": "SMART Fonlar",
     "category_en": "SMART Funds",
     "alias_tr": "smart-dengeli-degisken-fon-ikinci-degisken-fon",
-    "alias_en": "smart-moderate-variable-fund-second-variable-fund"
+    "alias_en": "smart-moderate-variable-fund-second-variable-fund",
+    "first_offering_date": "2015-04-27",
+    "annual_management_fee": 2.50025,
+    "latest_price_close": 16.339589,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 787533523.29,
+    "distribution": [
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "19.68"
+      },
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "19.67"
+      },
+      {
+        "Name": "Tahvil (%)",
+        "Percentage": "16.45"
+      },
+      {
+        "Name": "Özel Tahvil (%)",
+        "Percentage": "10.73"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "9.44"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "8.26"
+      },
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "5.69"
+      },
+      {
+        "Name": "Finansman Bonosu (%)",
+        "Percentage": "5.25"
+      },
+      {
+        "Name": "Kamu Kira Sertifikaları (TL) (%)",
+        "Percentage": "2.01"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "1.89"
+      },
+      {
+        "Name": "Özel Sektör Kira Sertifikaları (%)",
+        "Percentage": "0.87"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "0.07"
+      }
+    ],
+    "returns": {
+      "Weekly": -1.006734,
+      "OneMonth": 0.623624,
+      "ThreeMonth": 11.825762,
+      "SixMonth": 23.277125,
+      "FRomBeginOfYear": 8.59541,
+      "OneYear": 50.717934,
+      "ThreeYear": 285.584556,
+      "FirstOfferingDate": 1533.9589
+    },
+    "risk_level": "3 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-smart-dengeli-degisken-fon-gpi.pdf",
+    "compare_measure": "Fonun eşik değeri %100 BIST-KYD 1 Aylık Mevduat TL Endeksi&rsquo;dir.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpi_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpi_ic_tuzugu_20150129.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpi_yat_bilgi_20250623.pdf"
+      }
+    ]
   },
   {
     "code": "GPU",
@@ -733,7 +3579,85 @@
     "category_tr": "SMART Fonlar",
     "category_en": "SMART Funds",
     "alias_tr": "smart-buyume-degisken-fon-ucuncu-degisken-fon",
-    "alias_en": "smart-growth-variable-fund-third-variable-fund"
+    "alias_en": "smart-growth-variable-fund-third-variable-fund",
+    "first_offering_date": "2015-04-27",
+    "annual_management_fee": 2.50025,
+    "latest_price_close": 18.940364,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 457968103.04,
+    "distribution": [
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "35.99"
+      },
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "16.44"
+      },
+      {
+        "Name": "Özel Tahvil (%)",
+        "Percentage": "11.45"
+      },
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "8.91"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "8.62"
+      },
+      {
+        "Name": "Tahvil (%)",
+        "Percentage": "7.92"
+      },
+      {
+        "Name": "Finansman Bonosu (%)",
+        "Percentage": "5.82"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "1.77"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "1.5"
+      },
+      {
+        "Name": "Özel Sektör Kira Sertifikaları (%)",
+        "Percentage": "1.42"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "0.17"
+      }
+    ],
+    "returns": {
+      "Weekly": -2.89649,
+      "OneMonth": -0.954034,
+      "ThreeMonth": 14.489581,
+      "SixMonth": 25.719506,
+      "FRomBeginOfYear": 10.98835,
+      "OneYear": 54.030053,
+      "ThreeYear": 298.138664,
+      "FirstOfferingDate": 1794.0364
+    },
+    "risk_level": "4 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-smart-bueyueme-degisken-fon-gpu.pdf",
+    "compare_measure": "Fonun eşik değeri %100 BIST-KYD 1 Aylık Mevduat TL Endeksi&rsquo;dir.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpu_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpu_ic_tuzugu_20150129.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpu_yat_bilgi_20250623.pdf"
+      }
+    ]
   },
   {
     "code": "TGA",
@@ -742,7 +3666,61 @@
     "category_tr": "SMART Fonlar",
     "category_en": "SMART Funds",
     "alias_tr": "smart-agresif-degisken-fon-agresif-degisken-fon",
-    "alias_en": "smart-aggressive-variable-fund-aggressive-variable-fund"
+    "alias_en": "smart-aggressive-variable-fund-aggressive-variable-fund",
+    "first_offering_date": "2008-06-16",
+    "annual_management_fee": 2.7009999999999996,
+    "latest_price_close": 0.435292,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 886562181.64,
+    "distribution": [
+      {
+        "Name": "Hisse (%)",
+        "Percentage": "79.85"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "9.85"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "7.97"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "2.25"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "0.08"
+      }
+    ],
+    "returns": {
+      "Weekly": -3.818815,
+      "OneMonth": -3.972221,
+      "ThreeMonth": 11.269539,
+      "SixMonth": 15.601895,
+      "FRomBeginOfYear": 8.807767,
+      "OneYear": 28.291566,
+      "ThreeYear": 248.47335,
+      "FirstOfferingDate": 4719.975639
+    },
+    "risk_level": "5 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/09072025-fon-brosuru-smart-agresif-degisken-fon-tga.pdf",
+    "compare_measure": "Fonun eşik değeri gecelik T&uuml;rk Lirası referans faiz oranının (TLREF) performans d&ouml;nemine denk gelen bileşik getirisidir.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/tga_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/tga_ic_tuzugu_20150129.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/tga_yat_bilgi_20250623.pdf"
+      }
+    ]
   },
   {
     "code": "GBN",
@@ -751,7 +3729,57 @@
     "category_tr": "Serbest Fonlar",
     "category_en": "Hedge Funds",
     "alias_tr": "besinci-serbest-fon",
-    "alias_en": "fifth-hedge-fund"
+    "alias_en": "fifth-hedge-fund",
+    "first_offering_date": "2019-11-20",
+    "annual_management_fee": 1.5001499999999999,
+    "latest_price_close": 5.750781,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 5358467329.64,
+    "distribution": [
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "71.31"
+      },
+      {
+        "Name": "Katılma Hesabı (TL) (%)",
+        "Percentage": "14.66"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "14.01"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "0.01"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.682306,
+      "OneMonth": 2.719427,
+      "ThreeMonth": 9.160284,
+      "SixMonth": 20.053146,
+      "FRomBeginOfYear": 6.055813,
+      "OneYear": 50.017687,
+      "ThreeYear": 243.022206,
+      "FirstOfferingDate": 475.0781
+    },
+    "risk_level": "2 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-besinci-serbest-tl-fon-gbn.pdf",
+    "compare_measure": "Fon&rsquo;un eşik değeri %100 BIST-KYD Repo (Br&uuml;t) Endeksi&rsquo;dir.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gbn_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gbn_ic_tuzugu_20240717.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gbn_yat_bilgi_20250703.pdf"
+      }
+    ]
   },
   {
     "code": "GTY",
@@ -760,7 +3788,65 @@
     "category_tr": "Serbest Fonlar",
     "category_en": "Hedge Funds",
     "alias_tr": "trend-serbest-fon",
-    "alias_en": "trend-hedge-fund"
+    "alias_en": "trend-hedge-fund",
+    "first_offering_date": "2021-01-25",
+    "annual_management_fee": 2.0002,
+    "latest_price_close": 5.772766,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 596555172.56,
+    "distribution": [
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "37.39"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "22.42"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "18.38"
+      },
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "13.95"
+      },
+      {
+        "Name": "Tahvil (%)",
+        "Percentage": "6.65"
+      },
+      {
+        "Name": "Kamu Kira Sertifikaları (TL) (%)",
+        "Percentage": "1.2"
+      }
+    ],
+    "returns": {
+      "Weekly": -2.887274,
+      "OneMonth": -1.153874,
+      "ThreeMonth": 13.176933,
+      "SixMonth": 25.890071,
+      "FRomBeginOfYear": 9.978605,
+      "OneYear": 60.927603,
+      "ThreeYear": 250.050876,
+      "FirstOfferingDate": 477.2766
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-trend-serbest-fon-gty.pdf",
+    "compare_measure": "Fon&rsquo;un eşik değeri %100 BIST-KYD Repo (Br&uuml;t) Endeksi&rsquo;dir.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gty_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gty_ic_tuzugu_20240717.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gty_yat_bilgi_20250703.pdf"
+      }
+    ]
   },
   {
     "code": "GPL",
@@ -769,7 +3855,69 @@
     "category_tr": "Döviz Serbest Fonlar",
     "category_en": "Hedge (FX) Funds",
     "alias_tr": "birinci-serbest-doviz-fon",
-    "alias_en": "first-hedge-fx-fund"
+    "alias_en": "first-hedge-fx-fund",
+    "first_offering_date": "2016-02-02",
+    "annual_management_fee": 1.0001,
+    "latest_price_close": 1.095105522051067,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 2257331126.987125,
+    "distribution": [
+      {
+        "Name": "Özel Sektör Dış Borçlanma Araçları (%)",
+        "Percentage": "59.53"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "20.49"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "8.35"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "6.7"
+      },
+      {
+        "Name": "Kamu Yurt Dışı Kira Sertifikaları (%)",
+        "Percentage": "3.15"
+      },
+      {
+        "Name": "Döviz Cinsi Kamu İç Borçlanma Araçları (%)",
+        "Percentage": "1.32"
+      },
+      {
+        "Name": "Kamu Dış Borçlanma Araçları (%)",
+        "Percentage": "0.45"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.061969,
+      "OneMonth": 0.239886,
+      "ThreeMonth": 0.760681,
+      "SixMonth": 1.58106,
+      "FRomBeginOfYear": 0.514089,
+      "OneYear": 3.1671,
+      "ThreeYear": 8.758636,
+      "FirstOfferingDate": 9.510552
+    },
+    "risk_level": "2 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-birinci-serbest-doeviz-fon-gpl.pdf",
+    "compare_measure": "Fon&rsquo;un eşik değeri %100 BIST-KYD 1 Aylık Mevduat USD Endeksi&rsquo;dir. TL cinsinden ihra&ccedil; edilen A grubu paylar i&ccedil;in eşik değer getirisi, BIST-KYD 1 Aylık Mevduat USD Endeksi&rsquo;nin d&ouml;nem başı ve d&ouml;nem sonu değerinin ilgili g&uuml;nlerde TCMB tarafından a&ccedil;ıklanan d&ouml;viz alış kuru dikkate alınarak TL&rsquo;ye &ccedil;evrilmesi sonucu hesaplanan TL bazında getirisidir. USD cinsinden ihra&ccedil; edilen B grubu paylar i&ccedil;in ise BIST-KYD 1 Aylık Mevduat USD Endeksi&rsquo;nin hesaplama d&ouml;nemindeki getirisidir. USD/TRY getiri hesaplamasında hesaplama d&ouml;nemi başı ve hesaplama d&ouml;nemi sonu tarihlerinde TCMB tarafından saat 15:30&rsquo;da a&ccedil;ıklanan g&ouml;sterge niteliğindeki USD d&ouml;viz alış kurları kullanılmaktadır.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpl_izahname__20240813.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpl_ic_tuzugu_20240717.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpl_yat_bilgi_20250625.pdf"
+      }
+    ]
   },
   {
     "code": "GPC",
@@ -778,7 +3926,77 @@
     "category_tr": "Döviz Serbest Fonlar",
     "category_en": "Hedge (FX) Funds",
     "alias_tr": "ikinci-serbest-doviz-fon",
-    "alias_en": "second-hedge-fx-fund"
+    "alias_en": "second-hedge-fx-fund",
+    "first_offering_date": "2018-07-16",
+    "annual_management_fee": 1.0001,
+    "latest_price_close": 1.4887827883885871,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 186067024.8345344,
+    "distribution": [
+      {
+        "Name": "Özel Sektör Dış Borçlanma Araçları (%)",
+        "Percentage": "48.54"
+      },
+      {
+        "Name": "Kamu Dış Borçlanma Araçları (%)",
+        "Percentage": "34.41"
+      },
+      {
+        "Name": "Kamu Yurt Dışı Kira Sertifikaları (%)",
+        "Percentage": "9.54"
+      },
+      {
+        "Name": "Yabancı Özel Sektör Borçlanma Araçları (%)",
+        "Percentage": "2.72"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "2.12"
+      },
+      {
+        "Name": "Yabancı Borsa Yatırım Fonları (%)",
+        "Percentage": "1.12"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "0.95"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "0.37"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "0.24"
+      }
+    ],
+    "returns": {
+      "Weekly": -0.932809,
+      "OneMonth": -0.067546,
+      "ThreeMonth": 0.522459,
+      "SixMonth": 3.779923,
+      "FRomBeginOfYear": -0.061452,
+      "OneYear": 8.623394,
+      "ThreeYear": 34.460361,
+      "FirstOfferingDate": 48.878279
+    },
+    "risk_level": "4 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-ikinci-serbest-doeviz-fon-gpc.pdf",
+    "compare_measure": "Fon&rsquo;un eşik değeri %100 BIST-KYD Eurobond USD Endeksi&rsquo;dir. Eşik değer, TL cinsinden ihra&ccedil; edilen A grubu paylar i&ccedil;in BIST-KYD Eurobond USD Endeksi&rsquo;nin d&ouml;nem sonunda TCMB tarafından a&ccedil;ıklanan d&ouml;viz alış kuru dikkate alınarak hesaplanan TL bazında getirisi, USD cinsinden ihra&ccedil; edilen B grubu paylar i&ccedil;in ise BIST-KYD Eurobond USD Endeksi&rsquo;nin USD bazında getirisi dikkate alınarak hesaplanır. USD/TRY getiri hesaplamasında hesaplama d&ouml;nemi başı ve hesaplama d&ouml;nemi sonu tarihlerinde TCMB tarafından saat 15:30&rsquo;da a&ccedil;ıklanan g&ouml;sterge niteliğindeki USD d&ouml;viz alış kurları kullanılmaktadır.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpc_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpc_ic_tuzugu_20240717.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gpc_yat_bilgi_20250620.pdf"
+      }
+    ]
   },
   {
     "code": "GAS",
@@ -787,7 +4005,81 @@
     "category_tr": "Döviz Serbest Fonlar",
     "category_en": "Hedge (FX) Funds",
     "alias_tr": "ucuncu-serbest-doviz-fon-smart-doviz-serbest-fon",
-    "alias_en": "third-hedge-fx-fund-smart-fx-hedge-fund"
+    "alias_en": "third-hedge-fx-fund-smart-fx-hedge-fund",
+    "first_offering_date": "2009-06-05",
+    "annual_management_fee": 1.0001,
+    "latest_price_close": 0.0065706643457815106,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 89824163.1913386,
+    "distribution": [
+      {
+        "Name": "Kamu Dış Borçlanma Araçları (%)",
+        "Percentage": "40.76"
+      },
+      {
+        "Name": "Özel Sektör Dış Borçlanma Araçları (%)",
+        "Percentage": "38.86"
+      },
+      {
+        "Name": "Özel Sektör Yurt Dışı Kira Sertifikaları (%)",
+        "Percentage": "5.72"
+      },
+      {
+        "Name": "Kamu Yurt Dışı Kira Sertifikaları (%)",
+        "Percentage": "4.23"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "3.69"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "1.96"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "1.72"
+      },
+      {
+        "Name": "Döviz Cinsi Kamu İç Borçlanma Araçları (%)",
+        "Percentage": "1.62"
+      },
+      {
+        "Name": "Yabancı Özel Sektör Borçlanma Araçları (%)",
+        "Percentage": "1.38"
+      },
+      {
+        "Name": "Para Piyasaları (%)",
+        "Percentage": "0.07"
+      }
+    ],
+    "returns": {
+      "Weekly": -0.30629,
+      "OneMonth": 0.120785,
+      "ThreeMonth": 0.780601,
+      "SixMonth": 2.935431,
+      "FRomBeginOfYear": 0.373547,
+      "OneYear": 6.642262,
+      "ThreeYear": 20.867127,
+      "FirstOfferingDate": 37.245152
+    },
+    "risk_level": "3 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-uecuencue-serbest-doeviz-fon-gas.pdf",
+    "compare_measure": "Fon&rsquo;un eşik değeri %100 BIST-KYD 1 Aylık Mevduat USD Endeksi&rsquo;dir. TL cinsinden ihra&ccedil; edilen A grubu paylar i&ccedil;in eşik değer getirisi, BIST-KYD 1 Aylık Mevduat USD Endeksi&rsquo;nin d&ouml;nem başı ve d&ouml;nem sonu değerinin ilgili g&uuml;nlerde TCMB tarafından a&ccedil;ıklanan d&ouml;viz alış kuru dikkate alınarak TL&rsquo;ye &ccedil;evrilmesi sonucu hesaplanan TL bazında getirisidir. USD cinsinden ihra&ccedil; edilen B grubu paylar i&ccedil;in ise BIST-KYD 1 Aylık Mevduat USD Endeksi&rsquo;nin hesaplama d&ouml;nemindeki getirisidir. USD/TRY getiri hesaplamasında hesaplama d&ouml;nemi başı ve hesaplama d&ouml;nemi sonu tarihlerinde TCMB tarafından 15:30&rsquo;da a&ccedil;ıklanan g&ouml;sterge niteliğindeki USD d&ouml;viz alış kurları kullanılmaktadır.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gas_izahname__20250530.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gas_ic_tuzugu_20240717.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gas_yat_bilgi_20250716.pdf"
+      }
+    ]
   },
   {
     "code": "GRO",
@@ -796,7 +4088,77 @@
     "category_tr": "Döviz Serbest Fonlar",
     "category_en": "Hedge (FX) Funds",
     "alias_tr": "otuzuncu-serbest-doviz-fon",
-    "alias_en": "thirtieth-hedge-fx-fund"
+    "alias_en": "thirtieth-hedge-fx-fund",
+    "first_offering_date": "2023-03-08",
+    "annual_management_fee": 0.95995,
+    "latest_price_close": 1.1147719251879074,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 4378699280.245971,
+    "distribution": [
+      {
+        "Name": "Özel Sektör Dış Borçlanma Araçları (%)",
+        "Percentage": "65.09"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "16.37"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "5.52"
+      },
+      {
+        "Name": "Kamu Yurt Dışı Kira Sertifikaları (%)",
+        "Percentage": "4.51"
+      },
+      {
+        "Name": "Döviz Cinsi Kamu İç Borçlanma Araçları (%)",
+        "Percentage": "2.37"
+      },
+      {
+        "Name": "Kamu Dış Borçlanma Araçları (%)",
+        "Percentage": "2.33"
+      },
+      {
+        "Name": "Yabancı Özel Sektör Borçlanma Araçları (%)",
+        "Percentage": "2.19"
+      },
+      {
+        "Name": "Yabancı Kamu Borçlanma Araçları (%)",
+        "Percentage": "1.18"
+      },
+      {
+        "Name": "Özel Sektör Yurt Dışı Kira Sertifikaları (%)",
+        "Percentage": "0.43"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.057408,
+      "OneMonth": 0.255893,
+      "ThreeMonth": 0.867225,
+      "SixMonth": 1.879174,
+      "FRomBeginOfYear": 0.568817,
+      "OneYear": 3.968711,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 11.477193
+    },
+    "risk_level": "2 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/fon-brosuru-otuzuncu-serbest-doeviz-fon-gro-16022026.pdf",
+    "compare_measure": "Fon'un eşik değeri %100 BIST-KYD 1 Aylık Mevduat USD Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gro_izahname__20240701.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gro_ic_tuzugu_20240717.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gro_yat_bilgi_20260216.pdf"
+      }
+    ]
   },
   {
     "code": "EUZ",
@@ -805,7 +4167,69 @@
     "category_tr": "Döviz Serbest Fonlar",
     "category_en": "Hedge (FX) Funds",
     "alias_tr": "serbest-doviz-avro-fon-avro-serbest-doviz-fon",
-    "alias_en": "hedge-fx-euro-fund-euro-hedge-fx-fund"
+    "alias_en": "hedge-fx-euro-fund-euro-hedge-fx-fund",
+    "first_offering_date": "2021-03-15",
+    "annual_management_fee": 0.5986,
+    "latest_price_close": 1.1195639039079073,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 2559223938.4891806,
+    "distribution": [
+      {
+        "Name": "Özel Sektör Dış Borçlanma Araçları (%)",
+        "Percentage": "87.9"
+      },
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "7.29"
+      },
+      {
+        "Name": "Katılma Hesabı (Döviz) (%)",
+        "Percentage": "1.76"
+      },
+      {
+        "Name": "Yabancı Özel Sektör Borçlanma Araçları (%)",
+        "Percentage": "0.97"
+      },
+      {
+        "Name": "Döviz Cinsi Kamu İç Borçlanma Araçları (%)",
+        "Percentage": "0.97"
+      },
+      {
+        "Name": "Yabancı Kamu Borçlanma Araçları (%)",
+        "Percentage": "0.6"
+      },
+      {
+        "Name": "Kamu Dış Borçlanma Araçları (%)",
+        "Percentage": "0.51"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.047973,
+      "OneMonth": 0.17593,
+      "ThreeMonth": 0.549339,
+      "SixMonth": 1.124651,
+      "FRomBeginOfYear": 0.372208,
+      "OneYear": 2.358669,
+      "ThreeYear": 12.359424,
+      "FirstOfferingDate": 11.95639
+    },
+    "risk_level": "2 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-serbest-doeviz-avro-fon-euz.pdf",
+    "compare_measure": "Fon&rsquo;un eşik değeri %100 BIST-KYD 1 Aylık Mevduat EUR Endeksi&rsquo;dir. TL cinsinden ihra&ccedil; edilen A grubu paylar i&ccedil;in eşik değer getirisi, BIST-KYD 1 Aylık Mevduat EUR Endeksi&rsquo;nin d&ouml;nem başı ve d&ouml;nem sonu değerinin ilgili g&uuml;nlerde TCMB tarafından a&ccedil;ıklanan d&ouml;viz alış kuru dikkate alınarak TL&rsquo;ye &ccedil;evrilmesi sonucu hesaplanan TL bazında getirisidir. Avro cinsinden ihra&ccedil; edilen B grubu paylar i&ccedil;in ise BIST-KYD 1 Aylık Mevduat EUR Endeksi&rsquo;nin hesaplama d&ouml;nemindeki getirisidir. EUR/TRY getiri hesaplamasında hesaplama d&ouml;nemi başı ve hesaplama d&ouml;nemi sonu tarihlerinde TCMB tarafından saat 15:30&rsquo;da a&ccedil;ıklanan g&ouml;sterge niteliğindeki EUR d&ouml;viz alış kurları kullanılmaktadır.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/euz_izahname__20240813.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/euz_ic_tuzugu_20240717.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/euz_yat_bilgi_20251222.pdf"
+      }
+    ]
   },
   {
     "code": "EUN",
@@ -814,7 +4238,69 @@
     "category_tr": "Döviz Serbest Fonlar",
     "category_en": "Hedge (FX) Funds",
     "alias_tr": "ikinci-serbest-doviz-avro-fon",
-    "alias_en": "second-hedge-fx-euro-fund"
+    "alias_en": "second-hedge-fx-euro-fund",
+    "first_offering_date": "2024-05-06",
+    "annual_management_fee": 0.79935,
+    "latest_price_close": 1.1329531615741413,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 143617514.12798426,
+    "distribution": [
+      {
+        "Name": "Kamu Dış Borçlanma Araçları (%)",
+        "Percentage": "68.62"
+      },
+      {
+        "Name": "Özel Sektör Dış Borçlanma Araçları (%)",
+        "Percentage": "10.71"
+      },
+      {
+        "Name": "Yabancı Kamu Borçlanma Araçları (%)",
+        "Percentage": "7.6"
+      },
+      {
+        "Name": "Yatırım Fonları Katılma Payları (%)",
+        "Percentage": "7.15"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "3.23"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "2.43"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "0.25"
+      }
+    ],
+    "returns": {
+      "Weekly": -0.763786,
+      "OneMonth": -0.030087,
+      "ThreeMonth": 0.534273,
+      "SixMonth": 2.996386,
+      "FRomBeginOfYear": 0.102722,
+      "OneYear": 4.548681,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 13.295316
+    },
+    "risk_level": "3 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-ikinci-serbest-doeviz-avro-fon-eun.pdf",
+    "compare_measure": "%100 BIST-KYD 1 Aylık Mevduat EUR Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/eun_izahname__20241213.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/eun_ic_tuzugu_20240717.pdf"
+      },
+      {
+        "title": "Yatırımcı Bilgi Formu",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/eun_yat_bilgi_20251114.pdf"
+      }
+    ]
   },
   {
     "code": "PAU",
@@ -823,7 +4309,53 @@
     "category_tr": "Döviz Serbest Fonlar",
     "category_en": "Hedge (FX) Funds",
     "alias_tr": "serbest-doviz-pound-fon",
-    "alias_en": "hedge-fx-pound-fund"
+    "alias_en": "hedge-fx-pound-fund",
+    "first_offering_date": "2025-01-15",
+    "annual_management_fee": 0.50005,
+    "latest_price_close": 1.0349663486098875,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 167388686.51150113,
+    "distribution": [
+      {
+        "Name": "Ters Repo (%)",
+        "Percentage": "67.01"
+      },
+      {
+        "Name": "Özel Sektör Dış Borçlanma Araçları (%)",
+        "Percentage": "21.01"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "11.97"
+      },
+      {
+        "Name": "Mevduat (TL) (%)",
+        "Percentage": "0.01"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.064215,
+      "OneMonth": 0.247048,
+      "ThreeMonth": 0.771763,
+      "SixMonth": 1.557529,
+      "FRomBeginOfYear": 0.519722,
+      "OneYear": 3.139022,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 3.496635
+    },
+    "risk_level": "1 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-serbest-doeviz-pound-fon-pau.pdf",
+    "compare_measure": "%100 SONIA O/N (Sterling Overnight Index Average) Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/pau_izahname__20250117.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/pau_ic_tuzugu_20250115.pdf"
+      }
+    ]
   },
   {
     "code": "GOF",
@@ -832,7 +4364,45 @@
     "category_tr": "Döviz Serbest Fonlar",
     "category_en": "Hedge (FX) Funds",
     "alias_tr": "otuzikinci-serbest-doviz-fon",
-    "alias_en": "thirty-second-hedge-fx-fund"
+    "alias_en": "thirty-second-hedge-fx-fund",
+    "first_offering_date": "2025-11-05",
+    "annual_management_fee": 1.0001,
+    "latest_price_close": 0.9521882240899677,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 2174194.222317407,
+    "distribution": [
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "87.31"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "12.69"
+      }
+    ],
+    "returns": {
+      "Weekly": -1.1312,
+      "OneMonth": -3.126206,
+      "ThreeMonth": -5.376173,
+      "SixMonth": 0.0,
+      "FRomBeginOfYear": -3.432491,
+      "OneYear": 0.0,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": -4.781178
+    },
+    "risk_level": "6 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-otuzikinci-serbest-doeviz-fon-gof.pdf",
+    "compare_measure": "%100 BIST-KYD 1 Aylık Mevduat USD Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gof_izahname__20250924.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gof_ic_tuzugu_20251113.pdf"
+      }
+    ]
   },
   {
     "code": "GP3",
@@ -841,7 +4411,45 @@
     "category_tr": "Döviz Serbest Fonlar",
     "category_en": "Hedge (FX) Funds",
     "alias_tr": "ucuncu-serbest-doviz-avro-fon",
-    "alias_en": "third-hedge-fx-euro-fund"
+    "alias_en": "third-hedge-fx-euro-fund",
+    "first_offering_date": "2025-11-05",
+    "annual_management_fee": 1.0001,
+    "latest_price_close": 1.039834344258117,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 6657368.90651527,
+    "distribution": [
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "93.73"
+      },
+      {
+        "Name": "Vadeli İşlemler Nakit Teminatları (%)",
+        "Percentage": "6.27"
+      }
+    ],
+    "returns": {
+      "Weekly": -3.35036,
+      "OneMonth": -1.390725,
+      "ThreeMonth": 3.893588,
+      "SixMonth": 0.0,
+      "FRomBeginOfYear": 1.739704,
+      "OneYear": 0.0,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 3.983434
+    },
+    "risk_level": "5 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-uecuencue-serbest-doeviz-avro-fon-gp3.pdf",
+    "compare_measure": "%100 BIST-KYD 1 Aylık Mevduat EUR Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gp3_izahname__20251113.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gp3_ic_tuzugu_20251113.pdf"
+      }
+    ]
   },
   {
     "code": "HAG",
@@ -850,7 +4458,49 @@
     "category_tr": "Vadeli Serbest Döviz Fonlar",
     "category_en": "Target Date Hedge (FX) Funds",
     "alias_tr": "ekim-2026-serbest-doviz-abd-dolari-fon",
-    "alias_en": "october-2026-usd-hedge-fx-fund"
+    "alias_en": "october-2026-usd-hedge-fx-fund",
+    "first_offering_date": "2021-04-02",
+    "annual_management_fee": 1.0001,
+    "latest_price_close": 1.2797766983434073,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 9264835.988453291,
+    "distribution": [
+      {
+        "Name": "Özel Sektör Dış Borçlanma Araçları (%)",
+        "Percentage": "67.5"
+      },
+      {
+        "Name": "Kamu Dış Borçlanma Araçları (%)",
+        "Percentage": "32.04"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "0.46"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.095463,
+      "OneMonth": 0.404463,
+      "ThreeMonth": 0.867831,
+      "SixMonth": 2.352106,
+      "FRomBeginOfYear": 0.655004,
+      "OneYear": 5.250531,
+      "ThreeYear": 29.936057,
+      "FirstOfferingDate": 27.97767
+    },
+    "risk_level": "4 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-ekim-2026-serbest-doeviz-abd-dolari-hag.pdf",
+    "compare_measure": "Fon&rsquo;un eşik değeri %100 BIST-KYD 1 Aylık Mevduat USD Endeksi&rsquo;dir.",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/hag_izahname__20230703.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/hag_ic_tuzugu_20240717.pdf"
+      }
+    ]
   },
   {
     "code": "EGP",
@@ -859,7 +4509,45 @@
     "category_tr": "Vadeli Serbest Döviz Fonlar",
     "category_en": "Target Date Hedge (FX) Funds",
     "alias_tr": "ekim-2028-surdurulebilirlik-serbest-doviz-abd-dolari-fon",
-    "alias_en": "october-2028-sustainability-usd-hedge-fx-fund"
+    "alias_en": "october-2028-sustainability-usd-hedge-fx-fund",
+    "first_offering_date": "2024-01-10",
+    "annual_management_fee": 1.0001,
+    "latest_price_close": 1.1878108873512518,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 8557888.828993445,
+    "distribution": [
+      {
+        "Name": "Özel Sektör Dış Borçlanma Araçları (%)",
+        "Percentage": "97.5"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "2.5"
+      }
+    ],
+    "returns": {
+      "Weekly": -0.274132,
+      "OneMonth": 0.522962,
+      "ThreeMonth": 1.482868,
+      "SixMonth": 4.247776,
+      "FRomBeginOfYear": 1.009596,
+      "OneYear": 8.737624,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 18.781089
+    },
+    "risk_level": "4 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-ekim-2028-suerdueruelebilirlik-serbest-doeviz-abd-dolari-fon-egp.pdf",
+    "compare_measure": "%100 BIST-KYD 1 Aylık Mevduat USD Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/egp_izahname__20250812.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/egp_ic_tuzugu_20240717.pdf"
+      }
+    ]
   },
   {
     "code": "GKM",
@@ -868,7 +4556,49 @@
     "category_tr": "Vadeli Serbest Döviz Fonlar",
     "category_en": "Target Date Hedge (FX) Funds",
     "alias_tr": "kar-payi-odeyen-ekim-2026-serbest-doviz-fon",
-    "alias_en": "dividend-paying-october-2026-hedge-fx-fund"
+    "alias_en": "dividend-paying-october-2026-hedge-fx-fund",
+    "first_offering_date": "2025-04-09",
+    "annual_management_fee": 1.0001,
+    "latest_price_close": 1.0121897050212685,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 2736576.3492992916,
+    "distribution": [
+      {
+        "Name": "Özel Sektör Dış Borçlanma Araçları (%)",
+        "Percentage": "89.94"
+      },
+      {
+        "Name": "Kamu Dış Borçlanma Araçları (%)",
+        "Percentage": "9.35"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "0.71"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.106947,
+      "OneMonth": 0.32773,
+      "ThreeMonth": 0.060524,
+      "SixMonth": 0.237589,
+      "FRomBeginOfYear": -0.270028,
+      "OneYear": 0.0,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 1.218971
+    },
+    "risk_level": "4 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-kar-payi-oedeyen-ekim-2026-serbest-doeviz-fon-gkm.pdf",
+    "compare_measure": "%100 BIST-KYD 1 Aylık Mevduat USD Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gkm_izahname__20250616.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gkm-fon-ictuzugu.pdf"
+      }
+    ]
   },
   {
     "code": "GMM",
@@ -877,6 +4607,44 @@
     "category_tr": "Vadeli Serbest Döviz Fonlar",
     "category_en": "Target Date Hedge (FX) Funds",
     "alias_tr": "kar-payi-odeyen-mart-2027-serbest-doviz-fon",
-    "alias_en": "dividend-paying-march-2027-hedge-fx-fund"
+    "alias_en": "dividend-paying-march-2027-hedge-fx-fund",
+    "first_offering_date": "2025-05-12",
+    "annual_management_fee": 1.0001,
+    "latest_price_close": 1.0067756935884788,
+    "latest_price_date": "2026-03-03",
+    "net_asset_value": 9382640.99081139,
+    "distribution": [
+      {
+        "Name": "Özel Sektör Dış Borçlanma Araçları (%)",
+        "Percentage": "96.45"
+      },
+      {
+        "Name": "Mevduat (Döviz) (%)",
+        "Percentage": "3.55"
+      }
+    ],
+    "returns": {
+      "Weekly": 0.127113,
+      "OneMonth": 0.395446,
+      "ThreeMonth": 0.067195,
+      "SixMonth": 0.206399,
+      "FRomBeginOfYear": 0.830963,
+      "OneYear": 0.0,
+      "ThreeYear": 0.0,
+      "FirstOfferingDate": 0.677569
+    },
+    "risk_level": "4 / 7",
+    "pdf_url": "https://www.garantibbvaportfoy.com.tr/assets/22122025-fon-brosuru-kar-payi-oedeyen-mart-2027-serbest-doeviz-fon-gmm.pdf",
+    "compare_measure": "%100 BIST-KYD 1 Aylık Mevduat USD Endeksi",
+    "documents": [
+      {
+        "title": "İzahname",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gmm_izahname__20250616.pdf"
+      },
+      {
+        "title": "İç Tüzük",
+        "url": "https://www.garantibbvaportfoy.com.tr/assets/gmm-ic-tuzugu-20250505.pdf"
+      }
+    ]
   }
 ]

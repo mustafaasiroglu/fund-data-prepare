@@ -43,7 +43,7 @@ default_fields = [
     "investment_strategy",
     "investor_profile",
     "pdf_url",
-    "recommended",
+    "is_recommended",
     "latest_price_close",
     "latest_price_date",
     "net_asset_value",
@@ -65,7 +65,7 @@ def search_funds(query: str, search_fields: list[str] = None, top: int = 5, filt
         query:   Search text (e.g. "hisse senedi", "altın fonu").
         search_fields: List of fields to search in. None = all fields.
         top:     Max number of results to return.
-        filters: OData $filter expression (e.g. "recommended eq true", "category_tr eq 'Fon Sepeti Fonları'").
+        filters: OData $filter expression (e.g. "is_recommended eq true", "category_tr eq 'Fon Sepeti Fonları'").
         fields:  List of fields to return. None = all fields.
 
     Returns:
@@ -87,6 +87,8 @@ def search_funds(query: str, search_fields: list[str] = None, top: int = 5, filt
         body["searchFields"] = ",".join(search_fields)
 
     resp = requests.post(url, headers=HEADERS, json=body)
+    if resp.status_code != 200:
+        print(f"❌ Search error {resp.status_code}: {resp.text}")
     resp.raise_for_status()
 
     data = resp.json()
@@ -112,7 +114,7 @@ if __name__ == "__main__":
     print("\n" + "=" * 60)
     print("TEST 2: Filter – recommended funds only")
     print("=" * 60)
-    results = search_funds("*", top=10, filters="recommended eq true")
+    results = search_funds("*", top=10, filters="is_recommended eq true")
     print(results)
 
     # Test 3: Search with specific fields

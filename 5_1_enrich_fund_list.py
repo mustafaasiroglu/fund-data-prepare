@@ -59,12 +59,12 @@ for fund in fund_list:
         with open(os.path.join(reports_folder, latest_report_file), "r", encoding="utf-8") as f:
             report_content = f.read()
             if fund["code"] in report_content or fund["alias_tr"] in report_content:  
-                fund["recommended"] = True
+                fund["is_recommended"] = True
             else:
-                fund["recommended"] = False
+                fund["is_recommended"] = False
     else:
         print("No report files found in reports_pdf_markdown folder.")
-        fund["recommended"] = False
+        fund["is_recommended"] = False
 
     
     enriched_fund_list.append(fund)
